@@ -77,3 +77,46 @@
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 | [Python](Algorithms/141.环形链表/hasCycle.py), [Python](Algorithms/141.环形链表/hasCycle_2.py) |
 | 142 | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 中等 | [Python](Algorithms/142.环形链表II/detectCycle.py) |
 | 145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | 中等 | [Python](Algorithms/145.二叉树的后序遍历/postorderTraversal.py), [Python](Algorithms/145.二叉树的后序遍历/postorderTraversal_2.py) |
+| 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 中等 | [Python](Algorithms/153.寻找旋转排序数组中的最小值/findMin.py) |
+| 154 | [寻找旋转排序数组中的最小值II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难 | [Python](Algorithms/154.寻找旋转排序数组中的最小值II/findMin.py) |
+| 155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | 简单 | [Python](Algorithms/155.最小栈/MinStack.py) |
+| 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 简单 | [Python](Algorithms/160.相交链表/getIntersectionNode.py) |
+| 167 | [两数之和II-输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 简单 | [Python](Algorithms/167.两数之和II-输入有序数组/twoSum.py) |
+| 168 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | 简单 | [Python](Algorithms/168.Excel表列名称/convertToTitle.py) |
+| 169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | 简单 | [Python](Algorithms/169.多数元素/majorityElement.py) |
+| 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 简单 | [Python](Algorithms/171.Excel表列序号/titleToNumber.py) |
+| 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 简单 | [Python](Algorithms/172.阶乘后的零/trailingZeroes.py) |
+| 174 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 困难 | [Python](Algorithms/174.地下城游戏/calculateMinimumHP.py) |
+| 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 中等 | [Python](Algorithms/189.旋转数组/rotate.py) |
+| 190 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 | [Python](Algorithms/190.颠倒二进制位/reverseBits.py) |
+| 191 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 简单 | [Python](Algorithms/191.位1的个数/hammingWeight.py) |
+| 198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 简单 | [Python](Algorithms/198.打家劫舍/rob.py) |
+| 201 | [数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | 中等 | [Python](Algorithms/201.数字范围按位与/rangeBitwiseAnd.py) |
+| 202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | 简单 | [Python](Algorithms/202.快乐数/isHappy.py) |
+| 203 | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | 简单 | [Python](Algorithms/203.移除链表元素/removeElements.py) |
+| 204 | [计数质数](https://leetcode-cn.com/problems/count-primes/) | 简单 | [Python](Algorithms/204.计数质数/countPrimes.py) |
+| 205 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | 简单 | [Python](Algorithms/205.同构字符串/isIsomorphic.py) |
+| 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 简单 | [Python](Algorithms/206.反转链表/reverseList.py), [Python](Algorithms/206.反转链表/reverseList_2.py) |
+| 207 | [课程表](https://leetcode-cn.com/problems/course-schedule/) | 中等 | [Python](Algorithms/207.课程表/canFinish.py) |
+| 213 | [打家劫舍II](https://leetcode-cn.com/problems/house-robber-ii/) | 中等 | [Python](Algorithms/213.打家劫舍II/rob.py) |
+| 214 | [最短回文串](https://leetcode-cn.com/problems/shortest-palindrome/) | 困难 | [Python](Algorithms/214.最短回文串/shortestPalindrome.py) |
+| 216 | [组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/) | 中等 | [Python](Algorithms/216.组合总和III/combinationSum3.py) |
+| 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | 简单 | [Python](Algorithms/217.存在重复元素/containsDuplicate.py) |
+| 219 | [存在重复元素II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | 简单 | [Python](Algorithms/219.存在重复元素II/containsNearbyDuplicate.py) |
+| 225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | 简单 | [Python](Algorithms/225.用队列实现栈/MyStack.py) |
+| 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 简单 | [Python](Algorithms/226.翻转二叉树/invertTree.py) |
+| 231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/) | 简单 | [Python](Algorithms/231.2的幂/isPowerOfTwo.py), [Python](Algorithms/231.2的幂/isPowerOfTwo_2.py) |
+| 232 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | 简单 | [Python](Algorithms/232.用栈实现队列/MyQueue.py) |
+| 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 简单 | [Python](Algorithms/235.二叉搜索树的最近公共祖先/lowestCommonAncestor.py), [Python](Algorithms/235.二叉搜索树的最近公共祖先/lowestCommonAncestor_2.py) |
+| 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | 简单 | [Python](Algorithms/237.删除链表中的节点/deleteNode.py) |
+| 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | 简单 | [Python](Algorithms/257.二叉树的所有路径/binaryTreePaths.py) |
+| 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/) | 简单 | [Python](Algorithms/258.各位相加/addDigits.py), [Python](Algorithms/258.各位相加/addDigits_2.py) |
+| 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | 简单 | [Python](Algorithms/263.丑数/isUgly.py) |
+| 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | 简单 | [Python](Algorithms/268.缺失数字/missingNumber.py) |
+| 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 简单 | [Python](Algorithms/278.第一个错误的版本/firstBadVersion.py) |
+| 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 | [Python](Algorithms/283.移动零/moveZeroes.py) |
+| 290 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | 简单 | [Python](Algorithms/290.单词规律/wordPattern.py) |
+| 299 | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/) | 中等 | [Python](Algorithms/299.猜数字游戏/getHint.py), [Python](Algorithms/299.猜数字游戏/getHint_2.py) |
+| 303 | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 简单 | [Python](Algorithms/303.区域和检索-数组不可变/NumArray.py) |
+| 312 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/) | 困难 | [Python](Algorithms/312.戳气球/maxCoins.py) |
+| 315 | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | 困难 | [Python](Algorithms/315.计算右侧小于当前元素的个数/countSmaller.py) |
