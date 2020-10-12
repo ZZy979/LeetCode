@@ -145,6 +145,7 @@
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | 简单 | [Python](Algorithms/412.Fizz%20Buzz/fizzBuzz.py) |
 | 414 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | 简单 | [Python](Algorithms/414.第三大的数/thirdMax.py) |
 | 415 | [字符串相加](https://leetcode-cn.com/problems/add-strings/) | 简单 | [Python](Algorithms/415.字符串相加/addStrings.py) |
+| 416 | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 中等 | [Python](Algorithms/416.分割等和子集/canPartition.py), [Python](Algorithms/416.分割等和子集/canPartition_2.py) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 简单 | [Python](Algorithms/434.字符串中的单词数/countSegments.py) |
 | 441 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | 简单 | [Python](Algorithms/441.排列硬币/arrangeCoins.py) |
 | 443 | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) | 中等 | [Python](Algorithms/443.压缩字符串/compress.py) |
@@ -175,3 +176,16 @@
 | 1038 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 中等 | [Python](Algorithms/1038.把二叉搜索树转换为累加树/bstToGst.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19.秋叶收藏集/minimumOperations.py) |
+
+## Database
+| # | 题名 | 难度 | 解答 |
+| --- | --- | --- | --- |
+| 175 | [组合两个表](https://leetcode-cn.com/problems/combine-two-tables/) | 简单 | [MySQL](Database/175.组合两个表/solution.sql) |
+| 176 | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/) | 简单 | [MySQL](Database/176.第二高的薪水/solution.sql) |
+| 177 | [第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/) | 中等 | [MySQL](Database/177.第N高的薪水/solution.sql) |
+| 178 | [分数排名](https://leetcode-cn.com/problems/rank-scores/) | 中等 | [MySQL](Database/178.分数排名/solution.sql) |
+| 181 | [超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | 简单 | [MySQL](Database/181.超过经理收入的员工/solution.sql) |
+| 182 | [查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/) | 简单 | [MySQL](Database/182.查找重复的电子邮箱/solution.sql) |
+| 183 | [从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/) | 简单 | [MySQL](Database/183.从不订购的客户/solution.sql) |
+| 196 | [删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/) | 简单 | [MySQL](Database/196.删除重复的电子邮箱/solution.sql) |
+| 197 | [上升的温度](https://leetcode-cn.com/problems/rising-temperature/) | 简单 | [MySQL](Database/197.上升的温度/solution.sql) |
