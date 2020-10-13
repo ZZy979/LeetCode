@@ -19,6 +19,7 @@
 | 19 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 | [Python](Algorithms/19.删除链表的倒数第N个节点/removeNthFromEnd.py) |
 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Python](Algorithms/20.有效的括号/isValid.py) |
 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [Python](Algorithms/21.合并两个有序链表/mergeTwoLists.py) |
+| 24 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 中等 | [Java](Algorithms/24.两两交换链表中的节点/swapPairs.java), [Python](Algorithms/24.两两交换链表中的节点/swapPairs.py) |
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [Python](Algorithms/26.删除排序数组中的重复项/removeDuplicates.py) |
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 | [Python](Algorithms/27.移除元素/removeElement.py), [Python](Algorithms/27.移除元素/removeElement_2.py) |
 | 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 | [Python](Algorithms/28.实现strStr()/strStr.py) |
