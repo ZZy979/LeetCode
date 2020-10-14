@@ -174,6 +174,7 @@
 | 834 | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | 困难 | [C++](Algorithms/834.树中距离之和/sumOfDistancesInTree.cpp) |
 | 841 | [钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/) | 中等 | [Python](Algorithms/841.钥匙和房间/canVisitAllRooms.py) |
 | 968 | [监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/) | 困难 | [Python](Algorithms/968.监控二叉树/minCameraCover.py) |
+| 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | 简单 | [Python](Algorithms/1002.查找常用字符/commonChars.py), [Python](Algorithms/1002.查找常用字符/commonChars_2.py) |
 | 1025 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/) | 简单 | [Python](Algorithms/1025.除数博弈/divisorGame.py) |
 | 1038 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 中等 | [Python](Algorithms/1038.把二叉搜索树转换为累加树/bstToGst.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
