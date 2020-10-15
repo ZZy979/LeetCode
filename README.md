@@ -1,7 +1,7 @@
 # LeetCode
 力扣做题记录
 
-## Algorithms
+## [Algorithms](https://leetcode-cn.com/problemset/algorithms/)
 | # | 题名 | 难度 | 解答 |
 | --- | --- | --- | --- |
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | 简单 | [Python](Algorithms/1.两数之和/twoSum.py) |
@@ -181,7 +181,7 @@
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19.秋叶收藏集/minimumOperations.py) |
 
-## Database
+## [Database](https://leetcode-cn.com/problemset/database/)
 | # | 题名 | 难度 | 解答 |
 | --- | --- | --- | --- |
 | 175 | [组合两个表](https://leetcode-cn.com/problems/combine-two-tables/) | 简单 | [MySQL](Database/175.组合两个表/solution.sql) |
@@ -193,3 +193,16 @@
 | 183 | [从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/) | 简单 | [MySQL](Database/183.从不订购的客户/solution.sql) |
 | 196 | [删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/) | 简单 | [MySQL](Database/196.删除重复的电子邮箱/solution.sql) |
 | 197 | [上升的温度](https://leetcode-cn.com/problems/rising-temperature/) | 简单 | [MySQL](Database/197.上升的温度/solution.sql) |
+
+## [程序员面试金典](https://leetcode-cn.com/problemset/lcci/)
+| # | 题名 | 难度 | 解答 |
+| --- | --- | --- | --- |
+| 1.1 | [判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci/) | 简单 | [Java](程序员面试金典/1.1判定字符是否唯一/isUnique.java), [Python](程序员面试金典/1.1判定字符是否唯一/isUnique.py) |
+| 1.2 | [判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/) | 简单 | [Java](程序员面试金典/1.2判定是否互为字符重排/CheckPermutation.java), [Java](程序员面试金典/1.2判定是否互为字符重排/CheckPermutation_2.java), [Python](程序员面试金典/1.2判定是否互为字符重排/CheckPermutation.py), [Python](程序员面试金典/1.2判定是否互为字符重排/CheckPermutation_2.py) |
+| 1.3 | [URL化](https://leetcode-cn.com/problems/string-to-url-lcci/) | 简单 | [Java](程序员面试金典/1.3URL化/replaceSpaces.java), [Java](程序员面试金典/1.3URL化/replaceSpaces_2.java), [Python](程序员面试金典/1.3URL化/replaceSpaces.py) |
+| 1.4 | [回文排列](https://leetcode-cn.com/problems/palindrome-permutation-lcci/) | 简单 | [Java](程序员面试金典/1.4回文排列/canPermutePalindrome.java), [Python](程序员面试金典/1.4回文排列/canPermutePalindrome.py) |
+| 1.5 | [一次编辑](https://leetcode-cn.com/problems/one-away-lcci/) | 中等 | [Java](程序员面试金典/1.5一次编辑/oneEditAway.java), [Python](程序员面试金典/1.5一次编辑/oneEditAway.py) |
+| 1.6 | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | 简单 | [Java](程序员面试金典/1.6字符串压缩/compressString.java), [Python](程序员面试金典/1.6字符串压缩/compressString.py) |
+| 1.7 | [旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | 中等 | [Java](程序员面试金典/1.7旋转矩阵/rotate.java), [Python](程序员面试金典/1.7旋转矩阵/rotate.py), [Python](程序员面试金典/1.7旋转矩阵/rotate_2.py) |
+| 1.8 | [零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/) | 中等 | [Java](程序员面试金典/1.8零矩阵/setZeroes.java), [Python](程序员面试金典/1.8零矩阵/setZeroes.py) |
+| 1.9 | [字符串轮转](https://leetcode-cn.com/problems/string-rotation-lcci/) | 简单 | [Java](程序员面试金典/1.9字符串轮转/isFlipedString.java), [Python](程序员面试金典/1.9字符串轮转/isFlipedString.py) |
