@@ -65,6 +65,7 @@
 | 112 | [路径总和](https://leetcode-cn.com/problems/path-sum/) | 简单 | [Python](Algorithms/112.路径总和/hasPathSum.py) |
 | 113 | [路径总和II](https://leetcode-cn.com/problems/path-sum-ii/) | 中等 | [Python](Algorithms/113.路径总和II/pathSum.py) |
 | 114 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | 中等 | [Python](Algorithms/114.二叉树展开为链表/flatten.py) |
+| 116 | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | 中等 | [Python](Algorithms/116.填充每个节点的下一个右侧节点指针/connect.py), [Python](Algorithms/116.填充每个节点的下一个右侧节点指针/connect_2.py) |
 | 117 | [填充每个节点的下一个右侧节点指针II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | 中等 | [Java](Algorithms/117.填充每个节点的下一个右侧节点指针II/connect.java), [Python](Algorithms/117.填充每个节点的下一个右侧节点指针II/connect.py) |
 | 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 简单 | [Python](Algorithms/118.杨辉三角/generate.py) |
 | 119 | [杨辉三角II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | 简单 | [Python](Algorithms/119.杨辉三角II/getRow.py) |
