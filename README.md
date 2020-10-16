@@ -207,3 +207,11 @@
 | 1.7 | [旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | 中等 | [Java](程序员面试金典/1.7旋转矩阵/rotate.java), [Python](程序员面试金典/1.7旋转矩阵/rotate.py), [Python](程序员面试金典/1.7旋转矩阵/rotate_2.py) |
 | 1.8 | [零矩阵](https://leetcode-cn.com/problems/zero-matrix-lcci/) | 中等 | [Java](程序员面试金典/1.8零矩阵/setZeroes.java), [Python](程序员面试金典/1.8零矩阵/setZeroes.py) |
 | 1.9 | [字符串轮转](https://leetcode-cn.com/problems/string-rotation-lcci/) | 简单 | [Java](程序员面试金典/1.9字符串轮转/isFlipedString.java), [Python](程序员面试金典/1.9字符串轮转/isFlipedString.py) |
+| 2.1 | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | 简单 | [Java](程序员面试金典/2.1移除重复节点/removeDuplicateNodes.java), [Java](程序员面试金典/2.1移除重复节点/removeDuplicateNodes_2.java), [Python](程序员面试金典/2.1移除重复节点/removeDuplicateNodes.py) |
+| 2.2 | [返回倒数第k个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | 简单 | [Java](程序员面试金典/2.2返回倒数第k个节点/kthToLast.java), [Python](程序员面试金典/2.2返回倒数第k个节点/kthToLast.py) |
+| 2.3 | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | 简单 | [Java](程序员面试金典/2.3删除中间节点/deleteNode.java), [Python](程序员面试金典/2.3删除中间节点/deleteNode.py) |
+| 2.4 | [分割链表](https://leetcode-cn.com/problems/partition-list-lcci/) | 中等 | [Java](程序员面试金典/2.4分割链表/partition.java), [Python](程序员面试金典/2.4分割链表/partition.py), [Python](程序员面试金典/2.4分割链表/partition_2.py) |
+| 2.5 | [链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/) | 中等 | [Java](程序员面试金典/2.5链表求和/addTwoNumbers.java), [Java](程序员面试金典/2.5链表求和/addTwoNumbers_2.java), [Python](程序员面试金典/2.5链表求和/addTwoNumbers.py) |
+| 2.6 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list-lcci/) | 简单 | [Java](程序员面试金典/2.6回文链表/isPalindrome.java), [Python](程序员面试金典/2.6回文链表/isPalindrome.py), [Python](程序员面试金典/2.6回文链表/isPalindrome_2.py) |
+| 2.7 | [链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) | 简单 | [Python](程序员面试金典/2.7链表相交/getIntersectionNode.py), [Python](程序员面试金典/2.7链表相交/getIntersectionNode_2.py) |
+| 2.8 | [环路检测](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 中等 | [Python](程序员面试金典/2.8环路检测/detectCycle.py) |
