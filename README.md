@@ -215,3 +215,9 @@
 | 2.6 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list-lcci/) | 简单 | [Java](程序员面试金典/2.6回文链表/isPalindrome.java), [Python](程序员面试金典/2.6回文链表/isPalindrome.py), [Python](程序员面试金典/2.6回文链表/isPalindrome_2.py) |
 | 2.7 | [链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) | 简单 | [Python](程序员面试金典/2.7链表相交/getIntersectionNode.py), [Python](程序员面试金典/2.7链表相交/getIntersectionNode_2.py) |
 | 2.8 | [环路检测](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 中等 | [Python](程序员面试金典/2.8环路检测/detectCycle.py) |
+| 3.1 | [三合一](https://leetcode-cn.com/problems/three-in-one-lcci/) | 简单 | [Java](程序员面试金典/3.1三合一/TripleInOne.java), [Python](程序员面试金典/3.1三合一/TripleInOne.py) |
+| 3.2 | [栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci/) | 简单 | [Java](程序员面试金典/3.2栈的最小值/MinStack.java), [Python](程序员面试金典/3.2栈的最小值/MinStack.py) |
+| 3.3 | [堆盘子](https://leetcode-cn.com/problems/stack-of-plates-lcci/) | 中等 | [Java](程序员面试金典/3.3堆盘子/StackOfPlates.java), [Python](程序员面试金典/3.3堆盘子/StackOfPlates.py) |
+| 3.4 | [化栈为队](https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci/) | 简单 | [Java](程序员面试金典/3.4化栈为队/MyQueue.java), [Python](程序员面试金典/3.4化栈为队/MyQueue.py) |
+| 3.5 | [栈排序](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) | 中等 | [Java](程序员面试金典/3.5栈排序/SortedStack.java), [Python](程序员面试金典/3.5栈排序/SortedStack.py), [Python](程序员面试金典/3.5栈排序/SortedStack_2.py) |
+| 3.6 | [动物收容所](https://leetcode-cn.com/problems/animal-shelter-lcci/) | 简单 | [Java](程序员面试金典/3.6动物收容所/AnimalShelf.java), [Python](程序员面试金典/3.6动物收容所/AnimalShelf.py), [Python](程序员面试金典/3.6动物收容所/AnimalShelf_2.py) |
