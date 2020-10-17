@@ -1,21 +1,18 @@
 class Solution:
-    def solveNQueens(self, n: int) -> List[List[str]]:
+    def totalNQueens(self, n: int) -> int:
         if n == 0:
-            return [[]]
-        return [
-            ['.' * p + 'Q' + '.' * (n - p - 1) for p in result]
-            for result in self.queens(n, [])
-        ]
+            return 0
+        return sum(self.queens(n, []))
 
     def queens(self, n, state):
         for x in range(n):
             if not self.conflict(state, x):
                 state.append(x)
                 if len(state) == n:
-                    yield state.copy()
+                    yield 1
                 else:
                     for result in self.queens(n, state):
-                        yield result
+                        yield 1
                 state.pop()
 
     def conflict(self, state, next_x):
