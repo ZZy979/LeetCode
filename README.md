@@ -223,3 +223,6 @@
 | 3.4 | [化栈为队](https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci/) | 简单 | [Java](程序员面试金典/3.4化栈为队/MyQueue.java), [Python](程序员面试金典/3.4化栈为队/MyQueue.py) |
 | 3.5 | [栈排序](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) | 中等 | [Java](程序员面试金典/3.5栈排序/SortedStack.java), [Python](程序员面试金典/3.5栈排序/SortedStack.py), [Python](程序员面试金典/3.5栈排序/SortedStack_2.py) |
 | 3.6 | [动物收容所](https://leetcode-cn.com/problems/animal-shelter-lcci/) | 简单 | [Java](程序员面试金典/3.6动物收容所/AnimalShelf.java), [Python](程序员面试金典/3.6动物收容所/AnimalShelf.py), [Python](程序员面试金典/3.6动物收容所/AnimalShelf_2.py) |
+| 4.1 | [节点间通路](https://leetcode-cn.com/problems/route-between-nodes-lcci/) | 中等 | [Java](程序员面试金典/4.1节点间通路/findWhetherExistsPath.java), [Java](程序员面试金典/4.1节点间通路/findWhetherExistsPath_2.java), [Python](程序员面试金典/4.1节点间通路/findWhetherExistsPath.py) |
+| 4.2 | [最小高度树](https://leetcode-cn.com/problems/minimum-height-tree-lcci/) | 简单 | [Java](程序员面试金典/4.2最小高度树/sortedArrayToBST.java), [Python](程序员面试金典/4.2最小高度树/sortedArrayToBST.py) |
+| 4.3 | [特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci/) | 中等 | [Java](程序员面试金典/4.3特定深度节点链表/listOfDepth.java), [Java](程序员面试金典/4.3特定深度节点链表/listOfDepth_2.java), [Python](程序员面试金典/4.3特定深度节点链表/listOfDepth.py) |
