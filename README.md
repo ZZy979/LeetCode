@@ -227,3 +227,6 @@
 | 4.1 | [节点间通路](https://leetcode-cn.com/problems/route-between-nodes-lcci/) | 中等 | [Java](程序员面试金典/4.1节点间通路/findWhetherExistsPath.java), [Java](程序员面试金典/4.1节点间通路/findWhetherExistsPath_2.java), [Python](程序员面试金典/4.1节点间通路/findWhetherExistsPath.py) |
 | 4.2 | [最小高度树](https://leetcode-cn.com/problems/minimum-height-tree-lcci/) | 简单 | [Java](程序员面试金典/4.2最小高度树/sortedArrayToBST.java), [Python](程序员面试金典/4.2最小高度树/sortedArrayToBST.py) |
 | 4.3 | [特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci/) | 中等 | [Java](程序员面试金典/4.3特定深度节点链表/listOfDepth.java), [Java](程序员面试金典/4.3特定深度节点链表/listOfDepth_2.java), [Python](程序员面试金典/4.3特定深度节点链表/listOfDepth.py) |
+| 4.4 | [检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/) | 简单 | [Java](程序员面试金典/4.4检查平衡性/isBalanced.java), [Python](程序员面试金典/4.4检查平衡性/isBalanced.py) |
+| 4.5 | [合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/) | 中等 | [Java](程序员面试金典/4.5合法二叉搜索树/isValidBST.java), [Java](程序员面试金典/4.5合法二叉搜索树/isValidBST_2.java), [Python](程序员面试金典/4.5合法二叉搜索树/isValidBST.py) |
+| 4.6 | [后继者](https://leetcode-cn.com/problems/successor-lcci/) | 中等 | [Java](程序员面试金典/4.6后继者/inorderSuccessor.java), [Python](程序员面试金典/4.6后继者/inorderSuccessor.py) |
