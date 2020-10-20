@@ -1,15 +1,14 @@
 # Definition for singly-linked list.
-# class ListNode(object):
+# class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
 
 # 栈，时间复杂度O(n)，空间复杂度O(n)
-class Solution(object):
-    def reorderList(self, head):
+class Solution:
+    def reorderList(self, head: ListNode) -> None:
         """
-        :type head: ListNode
-        :rtype: None Do not return anything, modify head in-place instead.
+        Do not return anything, modify head in-place instead.
         """
         if not head:
             return
