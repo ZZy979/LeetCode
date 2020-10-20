@@ -79,6 +79,7 @@
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 简单 | [Python](Algorithms/136.只出现一次的数字/singleNumber.py) |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 | [Python](Algorithms/141.环形链表/hasCycle.py), [Python](Algorithms/141.环形链表/hasCycle_2.py) |
 | 142 | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 中等 | [Python](Algorithms/142.环形链表II/detectCycle.py) |
+| 143 | [重排链表](https://leetcode-cn.com/problems/reorder-list/) | 中等 | [Python](Algorithms/143.重排链表/reorderList.py), [Python](Algorithms/143.重排链表/reorderList_2.py) |
 | 145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | 中等 | [Python](Algorithms/145.二叉树的后序遍历/postorderTraversal.py), [Python](Algorithms/145.二叉树的后序遍历/postorderTraversal_2.py) |
 | 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 中等 | [Python](Algorithms/153.寻找旋转排序数组中的最小值/findMin.py) |
 | 154 | [寻找旋转排序数组中的最小值II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难 | [Python](Algorithms/154.寻找旋转排序数组中的最小值II/findMin.py) |
