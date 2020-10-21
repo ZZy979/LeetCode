@@ -231,3 +231,4 @@
 | 4.4 | [检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/) | 简单 | [Java](程序员面试金典/4.4检查平衡性/isBalanced.java), [Python](程序员面试金典/4.4检查平衡性/isBalanced.py) |
 | 4.5 | [合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/) | 中等 | [Java](程序员面试金典/4.5合法二叉搜索树/isValidBST.java), [Java](程序员面试金典/4.5合法二叉搜索树/isValidBST_2.java), [Python](程序员面试金典/4.5合法二叉搜索树/isValidBST.py) |
 | 4.6 | [后继者](https://leetcode-cn.com/problems/successor-lcci/) | 中等 | [Java](程序员面试金典/4.6后继者/inorderSuccessor.java), [Python](程序员面试金典/4.6后继者/inorderSuccessor.py) |
+| 4.8 | [首个共同祖先](https://leetcode-cn.com/problems/first-common-ancestor-lcci/) | 中等 | [Java](程序员面试金典/4.8首个共同祖先/lowestCommonAncestor.java), [Java](程序员面试金典/4.8首个共同祖先/lowestCommonAncestor_2.java), [Python](程序员面试金典/4.8首个共同祖先/lowestCommonAncestor.py), [Python](程序员面试金典/4.8首个共同祖先/lowestCommonAncestor_2.py) |
