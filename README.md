@@ -234,3 +234,6 @@
 | 4.5 | [合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/) | 中等 | [Java](程序员面试金典/4.5合法二叉搜索树/isValidBST.java), [Java](程序员面试金典/4.5合法二叉搜索树/isValidBST_2.java), [Python](程序员面试金典/4.5合法二叉搜索树/isValidBST.py) |
 | 4.6 | [后继者](https://leetcode-cn.com/problems/successor-lcci/) | 中等 | [Java](程序员面试金典/4.6后继者/inorderSuccessor.java), [Python](程序员面试金典/4.6后继者/inorderSuccessor.py) |
 | 4.8 | [首个共同祖先](https://leetcode-cn.com/problems/first-common-ancestor-lcci/) | 中等 | [Java](程序员面试金典/4.8首个共同祖先/lowestCommonAncestor.java), [Java](程序员面试金典/4.8首个共同祖先/lowestCommonAncestor_2.java), [Python](程序员面试金典/4.8首个共同祖先/lowestCommonAncestor.py), [Python](程序员面试金典/4.8首个共同祖先/lowestCommonAncestor_2.py) |
+| 4.9 | [二叉搜索树序列](https://leetcode-cn.com/problems/bst-sequences-lcci/) | 困难 | [Java](程序员面试金典/4.9二叉搜索树序列/BSTSequences.java), [Java](程序员面试金典/4.9二叉搜索树序列/BSTSequences_2.java), [Python](程序员面试金典/4.9二叉搜索树序列/BSTSequences.py) |
+| 4.10 | [检查子树](https://leetcode-cn.com/problems/check-subtree-lcci/) | 中等 | [Java](程序员面试金典/4.10检查子树/checkSubTree.java), [Python](程序员面试金典/4.10检查子树/checkSubTree.py) |
+| 4.12 | [求和路径](https://leetcode-cn.com/problems/paths-with-sum-lcci/) | 中等 | [Java](程序员面试金典/4.12求和路径/pathSum.java), [Java](程序员面试金典/4.12求和路径/pathSum_2.java), [Python](程序员面试金典/4.12求和路径/pathSum.py), [Python](程序员面试金典/4.12求和路径/pathSum_2.py) |
