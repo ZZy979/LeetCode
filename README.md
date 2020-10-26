@@ -187,6 +187,7 @@
 | 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 中等 | [Python](Algorithms/1024.视频拼接/videoStitching.py), [Python](Algorithms/1024.视频拼接/videoStitching_2.py) |
 | 1025 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/) | 简单 | [Python](Algorithms/1025.除数博弈/divisorGame.py) |
 | 1038 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 中等 | [Python](Algorithms/1038.把二叉搜索树转换为累加树/bstToGst.py) |
+| 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](Algorithms/1365.有多少小于当前数字的数字/smallerNumbersThanCurrent.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19.秋叶收藏集/minimumOperations.py) |
 
