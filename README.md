@@ -240,3 +240,10 @@
 | 4.9 | [二叉搜索树序列](https://leetcode-cn.com/problems/bst-sequences-lcci/) | 困难 | [Java](程序员面试金典/4.9二叉搜索树序列/BSTSequences.java), [Java](程序员面试金典/4.9二叉搜索树序列/BSTSequences_2.java), [Python](程序员面试金典/4.9二叉搜索树序列/BSTSequences.py) |
 | 4.10 | [检查子树](https://leetcode-cn.com/problems/check-subtree-lcci/) | 中等 | [Java](程序员面试金典/4.10检查子树/checkSubTree.java), [Python](程序员面试金典/4.10检查子树/checkSubTree.py) |
 | 4.12 | [求和路径](https://leetcode-cn.com/problems/paths-with-sum-lcci/) | 中等 | [Java](程序员面试金典/4.12求和路径/pathSum.java), [Java](程序员面试金典/4.12求和路径/pathSum_2.java), [Python](程序员面试金典/4.12求和路径/pathSum.py), [Python](程序员面试金典/4.12求和路径/pathSum_2.py) |
+| 5.1 | [插入](https://leetcode-cn.com/problems/insert-into-bits-lcci/) | 简单 | [Java](程序员面试金典/5.1插入/insertBits.java), [Python](程序员面试金典/5.1插入/insertBits.py), [Python](程序员面试金典/5.1插入/insertBits_2.py) |
+| 5.2 | [二进制数转字符串](https://leetcode-cn.com/problems/bianry-number-to-string-lcci/) | 中等 | [Java](程序员面试金典/5.2二进制数转字符串/printBin.java), [Python](程序员面试金典/5.2二进制数转字符串/printBin.py) |
+| 5.3 | [翻转数位](https://leetcode-cn.com/problems/reverse-bits-lcci/) | 简单 | [Java](程序员面试金典/5.3翻转数位/reverseBits.java), [Python](程序员面试金典/5.3翻转数位/reverseBits.py) |
+| 5.4 | [下一个数](https://leetcode-cn.com/problems/closed-number-lcci/) | 中等 | [C++](程序员面试金典/5.4下一个数/findClosedNumbers.cpp), [Java](程序员面试金典/5.4下一个数/findClosedNumbers.java), [Java](程序员面试金典/5.4下一个数/findClosedNumbers_2.java) |
+| 5.6 | [整数转换](https://leetcode-cn.com/problems/convert-integer-lcci/) | 简单 | [Java](程序员面试金典/5.6整数转换/convertInteger.java), [Java](程序员面试金典/5.6整数转换/convertInteger_2.java), [Python](程序员面试金典/5.6整数转换/convertInteger.py) |
+| 5.7 | [配对交换](https://leetcode-cn.com/problems/exchange-lcci/) | 简单 | [Java](程序员面试金典/5.7配对交换/exchangeBits.java), [Python](程序员面试金典/5.7配对交换/exchangeBits.py) |
+| 5.8 | [绘制直线](https://leetcode-cn.com/problems/draw-line-lcci/) | 中等 | [Java](程序员面试金典/5.8绘制直线/drawLine.java), [Java](程序员面试金典/5.8绘制直线/drawLine_2.java), [Python](程序员面试金典/5.8绘制直线/drawLine.py) |
