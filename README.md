@@ -248,3 +248,5 @@
 | 5.6 | [整数转换](https://leetcode-cn.com/problems/convert-integer-lcci/) | 简单 | [Java](程序员面试金典/5.6整数转换/convertInteger.java), [Java](程序员面试金典/5.6整数转换/convertInteger_2.java), [Python](程序员面试金典/5.6整数转换/convertInteger.py) |
 | 5.7 | [配对交换](https://leetcode-cn.com/problems/exchange-lcci/) | 简单 | [Java](程序员面试金典/5.7配对交换/exchangeBits.java), [Python](程序员面试金典/5.7配对交换/exchangeBits.py) |
 | 5.8 | [绘制直线](https://leetcode-cn.com/problems/draw-line-lcci/) | 中等 | [Java](程序员面试金典/5.8绘制直线/drawLine.java), [Java](程序员面试金典/5.8绘制直线/drawLine_2.java), [Python](程序员面试金典/5.8绘制直线/drawLine.py) |
+| 8.1 | [三步问题](https://leetcode-cn.com/problems/three-steps-problem-lcci/) | 简单 | [Java](程序员面试金典/8.1三步问题/waysToStep.java), [Python](程序员面试金典/8.1三步问题/waysToStep.py), [Python](程序员面试金典/8.1三步问题/waysToStep_2.py) |
+| 8.2 | [迷路的机器人](https://leetcode-cn.com/problems/robot-in-a-grid-lcci/) | 中等 | [C++](程序员面试金典/8.2迷路的机器人/pathWithObstacles.cpp), [Python](程序员面试金典/8.2迷路的机器人/pathWithObstacles.py) |
