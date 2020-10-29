@@ -74,6 +74,7 @@
 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 简单 | [Python](Algorithms/121.买卖股票的最佳时机/maxProfit.py) |
 | 122 | [买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 简单 | [Python](Algorithms/122.买卖股票的最佳时机II/maxProfit.py) |
 | 125 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 | [Python](Algorithms/125.验证回文串/isPalindrome.py) |
+| 129 | [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 中等 | [Python](Algorithms/129.求根到叶子节点数字之和/sumNumbers.py) |
 | 130 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) | 中等 | [Python](Algorithms/130.被围绕的区域/solve.py) |
 | 133 | [克隆图](https://leetcode-cn.com/problems/clone-graph/) | 中等 | [Python](Algorithms/133.克隆图/cloneGraph.py) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 简单 | [Python](Algorithms/136.只出现一次的数字/singleNumber.py) |
