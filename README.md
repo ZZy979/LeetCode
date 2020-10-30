@@ -253,3 +253,7 @@
 | 5.8 | [绘制直线](https://leetcode-cn.com/problems/draw-line-lcci/) | 中等 | [Java](程序员面试金典/5.8绘制直线/drawLine.java), [Java](程序员面试金典/5.8绘制直线/drawLine_2.java), [Python](程序员面试金典/5.8绘制直线/drawLine.py) |
 | 8.1 | [三步问题](https://leetcode-cn.com/problems/three-steps-problem-lcci/) | 简单 | [Java](程序员面试金典/8.1三步问题/waysToStep.java), [Python](程序员面试金典/8.1三步问题/waysToStep.py), [Python](程序员面试金典/8.1三步问题/waysToStep_2.py) |
 | 8.2 | [迷路的机器人](https://leetcode-cn.com/problems/robot-in-a-grid-lcci/) | 中等 | [C++](程序员面试金典/8.2迷路的机器人/pathWithObstacles.cpp), [Python](程序员面试金典/8.2迷路的机器人/pathWithObstacles.py) |
+| 8.3 | [魔术索引](https://leetcode-cn.com/problems/magic-index-lcci/) | 简单 | [Java](程序员面试金典/8.3魔术索引/findMagicIndex.java), [Python](程序员面试金典/8.3魔术索引/findMagicIndex.py), [Python](程序员面试金典/8.3魔术索引/findMagicIndex_2.py) |
+| 8.4 | [幂集](https://leetcode-cn.com/problems/power-set-lcci/) | 中等 | [Java](程序员面试金典/8.4幂集/subsets.java), [Java](程序员面试金典/8.4幂集/subsets_2.java), [Java](程序员面试金典/8.4幂集/subsets_3.java), [Python](程序员面试金典/8.4幂集/subsets.py), [Python](程序员面试金典/8.4幂集/subsets_2.py), [Python](程序员面试金典/8.4幂集/subsets_3.py) |
+| 8.5 | [递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci/) | 中等 | [Python](程序员面试金典/8.5递归乘法/multiply.py), [Python](程序员面试金典/8.5递归乘法/multiply_2.py) |
+| 8.6 | [汉诺塔问题](https://leetcode-cn.com/problems/hanota-lcci/) | 简单 | [Java](程序员面试金典/8.6汉诺塔问题/hanota.java), [Python](程序员面试金典/8.6汉诺塔问题/hanota.py) |
