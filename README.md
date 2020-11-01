@@ -78,6 +78,8 @@
 | 130 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) | 中等 | [Python](Algorithms/130.被围绕的区域/solve.py) |
 | 133 | [克隆图](https://leetcode-cn.com/problems/clone-graph/) | 中等 | [Python](Algorithms/133.克隆图/cloneGraph.py) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 简单 | [Python](Algorithms/136.只出现一次的数字/singleNumber.py) |
+| 139 | [单词拆分](https://leetcode-cn.com/problems/word-break/) | 中等 | [Python](Algorithms/139.单词拆分/wordBreak.py) |
+| 140 | [单词拆分II](https://leetcode-cn.com/problems/word-break-ii/) | 困难 | [Python](Algorithms/140.单词拆分II/wordBreak.py), [Python](Algorithms/140.单词拆分II/wordBreak_2.py), [Python](Algorithms/140.单词拆分II/wordBreak_3.py) |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 | [Python](Algorithms/141.环形链表/hasCycle.py), [Python](Algorithms/141.环形链表/hasCycle_2.py) |
 | 142 | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 中等 | [Python](Algorithms/142.环形链表II/detectCycle.py) |
 | 143 | [重排链表](https://leetcode-cn.com/problems/reorder-list/) | 中等 | [Python](Algorithms/143.重排链表/reorderList.py), [Python](Algorithms/143.重排链表/reorderList_2.py) |
