@@ -139,7 +139,7 @@
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | 简单 | [Python](Algorithms/344.反转字符串/reverseString.py) |
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | 简单 | [Python](Algorithms/345.反转字符串中的元音字母/reverseVowels.py) |
 | 347 | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | 中等 | [Python](Algorithms/347.前K个高频元素/topKFrequent.py), [Python](Algorithms/347.前K个高频元素/topKFrequent_2.py) |
-| 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | 简单 | [Python](Algorithms/349.两个数组的交集/intersection.py) |
+| 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | 简单 | [Java](Algorithms/349.两个数组的交集/intersection.java), [Python](Algorithms/349.两个数组的交集/intersection.py) |
 | 350 | [两个数组的交集II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | 简单 | [Python](Algorithms/350.两个数组的交集II/intersect.py) |
 | 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | 简单 | [Python](Algorithms/367.有效的完全平方数/isPerfectSquare.py), [Python](Algorithms/367.有效的完全平方数/isPerfectSquare_2.py) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | 简单 | [Python](Algorithms/374.猜数字大小/guessNumber.py) |
