@@ -263,3 +263,8 @@
 | 8.5 | [递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci/) | 中等 | [Python](程序员面试金典/8.5递归乘法/multiply.py), [Python](程序员面试金典/8.5递归乘法/multiply_2.py) |
 | 8.6 | [汉诺塔问题](https://leetcode-cn.com/problems/hanota-lcci/) | 简单 | [Java](程序员面试金典/8.6汉诺塔问题/hanota.java), [Python](程序员面试金典/8.6汉诺塔问题/hanota.py) |
 | 8.7 | [无重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-i-lcci/) | 中等 | [Java](程序员面试金典/8.7无重复字符串的排列组合/permutation.java), [Java](程序员面试金典/8.7无重复字符串的排列组合/permutation_2.java), [Java](程序员面试金典/8.7无重复字符串的排列组合/permutation_3.java), [Python](程序员面试金典/8.7无重复字符串的排列组合/permutation.py), [Python](程序员面试金典/8.7无重复字符串的排列组合/permutation_2.py), [Python](程序员面试金典/8.7无重复字符串的排列组合/permutation_3.py) |
+| 8.8 | [有重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-ii-lcci/) | 中等 | [Java](程序员面试金典/8.8有重复字符串的排列组合/permutation.java), [Python](程序员面试金典/8.8有重复字符串的排列组合/permutation.py) |
+| 8.9 | [括号](https://leetcode-cn.com/problems/bracket-lcci/) | 中等 | [Java](程序员面试金典/8.9括号/generateParenthesis.java), [Python](程序员面试金典/8.9括号/generateParenthesis.py) |
+| 8.10 | [颜色填充](https://leetcode-cn.com/problems/color-fill-lcci/) | 简单 | [Java](程序员面试金典/8.10颜色填充/floodFill.java), [Python](程序员面试金典/8.10颜色填充/floodFill.py) |
+| 8.11 | [硬币](https://leetcode-cn.com/problems/coin-lcci/) | 中等 | [Python](程序员面试金典/8.11硬币/waysToChange.py), [Python](程序员面试金典/8.11硬币/waysToChange_2.py), [Python](程序员面试金典/8.11硬币/waysToChange_3.py) |
+| 8.12 | [八皇后](https://leetcode-cn.com/problems/eight-queens-lcci/) | 困难 | [Java](程序员面试金典/8.12八皇后/solveNQueens.java), [Java](程序员面试金典/8.12八皇后/solveNQueens_2.java), [Python](程序员面试金典/8.12八皇后/solveNQueens.py) |
