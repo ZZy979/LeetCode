@@ -73,7 +73,7 @@
 | 119 | [杨辉三角II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | 简单 | [Python](Algorithms/119.杨辉三角II/getRow.py) |
 | 120 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | 中等 | [Python](Algorithms/120.三角形最小路径和/minimumTotal.py) |
 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 简单 | [Python](Algorithms/121.买卖股票的最佳时机/maxProfit.py) |
-| 122 | [买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 简单 | [Python](Algorithms/122.买卖股票的最佳时机II/maxProfit.py) |
+| 122 | [买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 简单 | [Java](Algorithms/122.买卖股票的最佳时机II/maxProfit.java), [Python](Algorithms/122.买卖股票的最佳时机II/maxProfit.py) |
 | 125 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 | [Python](Algorithms/125.验证回文串/isPalindrome.py) |
 | 127 | [单词接龙](https://leetcode-cn.com/problems/word-ladder/) | 中等 | [Python](Algorithms/127.单词接龙/ladderLength.py), [Python](Algorithms/127.单词接龙/ladderLength_2.py) |
 | 129 | [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 中等 | [Python](Algorithms/129.求根到叶子节点数字之和/sumNumbers.py) |
