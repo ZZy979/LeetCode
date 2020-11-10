@@ -23,6 +23,7 @@
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [Python](Algorithms/26.删除排序数组中的重复项/removeDuplicates.py) |
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 | [Python](Algorithms/27.移除元素/removeElement.py), [Python](Algorithms/27.移除元素/removeElement_2.py) |
 | 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 | [Python](Algorithms/28.实现strStr()/strStr.py) |
+| 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | 中等 | [Python](Algorithms/31.下一个排列/nextPermutation.py) |
 | 32 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 困难 | [Python](Algorithms/32.最长有效括号/longestValidParentheses.py) |
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 | [Python](Algorithms/35.搜索插入位置/searchInsert.py) |
 | 37 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | 困难 | [Python](Algorithms/37.解数独/solveSudoku.py) |
