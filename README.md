@@ -134,6 +134,7 @@
 | 315 | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | 困难 | [Python](Algorithms/315.计算右侧小于当前元素的个数/countSmaller.py) |
 | 326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | 简单 | [Python](Algorithms/326.3的幂/isPowerOfThree.py) |
 | 327 | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) | 困难 | [Java](Algorithms/327.区间和的个数/countRangeSum.java), [Java](Algorithms/327.区间和的个数/countRangeSum_2.java), [Java](Algorithms/327.区间和的个数/countRangeSum_3.java), [Java](Algorithms/327.区间和的个数/countRangeSum_4.java), [Java](Algorithms/327.区间和的个数/countRangeSum_5.java) |
+| 328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 中等 | [Python](Algorithms/328.奇偶链表/oddEvenList.py), [Python](Algorithms/328.奇偶链表/oddEvenList_2.py) |
 | 329 | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | 困难 | [Python](Algorithms/329.矩阵中的最长递增路径/longestIncreasingPath.py) |
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | 中等 | [Python](Algorithms/332.重新安排行程/findItinerary.py) |
 | 336 | [回文对](https://leetcode-cn.com/problems/palindrome-pairs/) | 困难 | [Python](Algorithms/336.回文对/palindromePairs.py), [Python](Algorithms/336.回文对/palindromePairs_2.py) |
