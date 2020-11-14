@@ -203,6 +203,7 @@
 | 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 中等 | [Python](Algorithms/1024.视频拼接/videoStitching.py), [Python](Algorithms/1024.视频拼接/videoStitching_2.py) |
 | 1025 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/) | 简单 | [Python](Algorithms/1025.除数博弈/divisorGame.py) |
 | 1038 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 中等 | [Python](Algorithms/1038.把二叉搜索树转换为累加树/bstToGst.py) |
+| 1122 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | 简单 | [Java](Algorithms/1122.数组的相对排序/relativeSortArray.java), [Python](Algorithms/1122.数组的相对排序/relativeSortArray.py) |
 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | 简单 | [Python](Algorithms/1207.独一无二的出现次数/uniqueOccurrences.py) |
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_2.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_3.java), [Python](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.py) |
 | 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](Algorithms/1365.有多少小于当前数字的数字/smallerNumbersThanCurrent.py) |
