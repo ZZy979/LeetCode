@@ -155,6 +155,7 @@
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | 简单 | [Python](Algorithms/389.找不同/findTheDifference.py), [Python](Algorithms/389.找不同/findTheDifference_2.py) |
 | 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 简单 | [Python](Algorithms/392.判断子序列/isSubsequence.py) |
 | 401 | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) | 简单 | [Python](Algorithms/401.二进制手表/readBinaryWatch.py), [Python](Algorithms/401.二进制手表/readBinaryWatch_2.py) |
+| 402 | [移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) | 中等 | [Python](Algorithms/402.移掉K位数字/removeKdigits.py) |
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | 简单 | [Python](Algorithms/404.左叶子之和/sumOfLeftLeaves.py) |
 | 405 | [数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | 简单 | [Python](Algorithms/405.数字转换为十六进制数/toHex.py) |
 | 410 | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | 困难 | [Python](Algorithms/410.分割数组的最大值/splitArray.py) |
