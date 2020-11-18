@@ -283,3 +283,4 @@
 | 8.11 | [硬币](https://leetcode-cn.com/problems/coin-lcci/) | 中等 | [Python](程序员面试金典/8.11硬币/waysToChange.py), [Python](程序员面试金典/8.11硬币/waysToChange_2.py), [Python](程序员面试金典/8.11硬币/waysToChange_3.py) |
 | 8.12 | [八皇后](https://leetcode-cn.com/problems/eight-queens-lcci/) | 困难 | [Java](程序员面试金典/8.12八皇后/solveNQueens.java), [Java](程序员面试金典/8.12八皇后/solveNQueens_2.java), [Python](程序员面试金典/8.12八皇后/solveNQueens.py) |
 | 8.13 | [堆箱子](https://leetcode-cn.com/problems/pile-box-lcci/) | 困难 | [Java](程序员面试金典/8.13堆箱子/pileBox.java), [Java](程序员面试金典/8.13堆箱子/pileBox_2.java), [Python](程序员面试金典/8.13堆箱子/pileBox.py) |
+| 8.14 | [布尔运算](https://leetcode-cn.com/problems/boolean-evaluation-lcci/) | 中等 | [Python](程序员面试金典/8.14布尔运算/countEval.py) |
