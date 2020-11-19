@@ -285,3 +285,5 @@
 | 8.13 | [堆箱子](https://leetcode-cn.com/problems/pile-box-lcci/) | 困难 | [Java](程序员面试金典/8.13堆箱子/pileBox.java), [Java](程序员面试金典/8.13堆箱子/pileBox_2.java), [Python](程序员面试金典/8.13堆箱子/pileBox.py) |
 | 8.14 | [布尔运算](https://leetcode-cn.com/problems/boolean-evaluation-lcci/) | 中等 | [Python](程序员面试金典/8.14布尔运算/countEval.py) |
 | 10.1 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | 简单 | [Java](程序员面试金典/10.1合并排序的数组/merge.java), [Python](程序员面试金典/10.1合并排序的数组/merge.py) |
+| 10.2 | [变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/) | 中等 | [Java](程序员面试金典/10.2变位词组/groupAnagrams.java), [Python](程序员面试金典/10.2变位词组/groupAnagrams.py) |
+| 10.3 | [搜索旋转数组](https://leetcode-cn.com/problems/search-rotate-array-lcci/) | 中等 | [Python](程序员面试金典/10.3搜索旋转数组/search.py) |
