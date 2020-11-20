@@ -288,3 +288,6 @@
 | 10.1 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | 简单 | [Java](程序员面试金典/10.1合并排序的数组/merge.java), [Python](程序员面试金典/10.1合并排序的数组/merge.py) |
 | 10.2 | [变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/) | 中等 | [Java](程序员面试金典/10.2变位词组/groupAnagrams.java), [Python](程序员面试金典/10.2变位词组/groupAnagrams.py) |
 | 10.3 | [搜索旋转数组](https://leetcode-cn.com/problems/search-rotate-array-lcci/) | 中等 | [Python](程序员面试金典/10.3搜索旋转数组/search.py) |
+| 10.5 | [稀疏数组搜索](https://leetcode-cn.com/problems/sparse-array-search-lcci/) | 简单 | [Python](程序员面试金典/10.5稀疏数组搜索/findString.py), [Python](程序员面试金典/10.5稀疏数组搜索/findString_2.py) |
+| 10.9 | [排序矩阵查找](https://leetcode-cn.com/problems/sorted-matrix-search-lcci/) | 中等 | [Python](程序员面试金典/10.9排序矩阵查找/searchMatrix.py), [Python](程序员面试金典/10.9排序矩阵查找/searchMatrix_2.py) |
+| 10.10 | [数字流的秩](https://leetcode-cn.com/problems/rank-from-stream-lcci/) | 中等 | [Python](程序员面试金典/10.10数字流的秩/StreamRank.py), [Python](程序员面试金典/10.10数字流的秩/StreamRank_2.py), [Python](程序员面试金典/10.10数字流的秩/StreamRank_3.py) |
