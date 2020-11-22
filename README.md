@@ -124,6 +124,7 @@
 | 234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | 简单 | [Python](Algorithms/234.回文链表/isPalindrome.py) |
 | 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 简单 | [Python](Algorithms/235.二叉搜索树的最近公共祖先/lowestCommonAncestor.py), [Python](Algorithms/235.二叉搜索树的最近公共祖先/lowestCommonAncestor_2.py) |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | 简单 | [Python](Algorithms/237.删除链表中的节点/deleteNode.py) |
+| 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 | [Python](Algorithms/242.有效的字母异位词/isAnagram.py) |
 | 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | 简单 | [Python](Algorithms/257.二叉树的所有路径/binaryTreePaths.py) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/) | 简单 | [Python](Algorithms/258.各位相加/addDigits.py), [Python](Algorithms/258.各位相加/addDigits_2.py) |
 | 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | 简单 | [Python](Algorithms/263.丑数/isUgly.py) |
