@@ -117,6 +117,7 @@
 | 216 | [组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/) | 中等 | [Python](Algorithms/216.组合总和III/combinationSum3.py) |
 | 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | 简单 | [Python](Algorithms/217.存在重复元素/containsDuplicate.py) |
 | 219 | [存在重复元素II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | 简单 | [Python](Algorithms/219.存在重复元素II/containsNearbyDuplicate.py) |
+| 222 | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 | [Python](Algorithms/222.完全二叉树的节点个数/countNodes.py), [Python](Algorithms/222.完全二叉树的节点个数/countNodes_2.py) |
 | 225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | 简单 | [Python](Algorithms/225.用队列实现栈/MyStack.py) |
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 简单 | [Python](Algorithms/226.翻转二叉树/invertTree.py) |
 | 231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/) | 简单 | [Python](Algorithms/231.2的幂/isPowerOfTwo.py), [Python](Algorithms/231.2的幂/isPowerOfTwo_2.py) |
