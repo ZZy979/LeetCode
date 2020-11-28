@@ -179,6 +179,7 @@
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | 简单 | [Python](Algorithms/463.岛屿的周长/islandPerimeter.py) |
 | 486 | [预测赢家](https://leetcode-cn.com/problems/predict-the-winner/) | 中等 | [Python](Algorithms/486.预测赢家/PredictTheWinner.py), [Python](Algorithms/486.预测赢家/PredictTheWinner_2.py) |
 | 491 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/) | 中等 | [Python](Algorithms/491.递增子序列/findSubsequences.py) |
+| 493 | [翻转对](https://leetcode-cn.com/problems/reverse-pairs/) | 困难 | [Java](Algorithms/493.翻转对/reversePairs.java), [Python](Algorithms/493.翻转对/reversePairs.py) |
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | 简单 | [Python](Algorithms/501.二叉搜索树中的众数/findMode.py), [Python](Algorithms/501.二叉搜索树中的众数/findMode_2.py) |
 | 514 | [自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 | [Java](Algorithms/514.自由之路/findRotateSteps.java), [Python](Algorithms/514.自由之路/findRotateSteps.py) |
 | 529 | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/) | 中等 | [Python](Algorithms/529.扫雷游戏/updateBoard.py) |
