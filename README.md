@@ -198,6 +198,7 @@
 | 701 | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | 中等 | [Python](Algorithms/701.二叉搜索树中的插入操作/insertIntoBST.py), [Python](Algorithms/701.二叉搜索树中的插入操作/insertIntoBST_2.py) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | 简单 | [Python](Algorithms/733.图像渲染/floodFill.py) |
 | 763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 中等 | [Python](Algorithms/763.划分字母区间/partitionLabels.py), [Python](Algorithms/763.划分字母区间/partitionLabels_2.py) |
+| 767 | [重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | 中等 | [Python](Algorithms/767.重构字符串/reorganizeString.py), [Python](Algorithms/767.重构字符串/reorganizeString_2.py), [Python](Algorithms/767.重构字符串/reorganizeString_3.py) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | 简单 | [Python](Algorithms/771.宝石与石头/numJewelsInStones.py) |
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785.判断二分图/isBipartite.py) |
 | 834 | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | 困难 | [C++](Algorithms/834.树中距离之和/sumOfDistancesInTree.cpp) |
