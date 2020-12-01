@@ -25,6 +25,7 @@
 | 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 | [Python](Algorithms/28.实现strStr()/strStr.py) |
 | 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | 中等 | [Python](Algorithms/31.下一个排列/nextPermutation.py) |
 | 32 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 困难 | [Python](Algorithms/32.最长有效括号/longestValidParentheses.py) |
+| 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 中等 | [Python](Algorithms/34.在排序数组中查找元素的第一个和最后一个位置/searchRange.py), [Python](Algorithms/34.在排序数组中查找元素的第一个和最后一个位置/searchRange_2.py) |
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 | [Python](Algorithms/35.搜索插入位置/searchInsert.py) |
 | 37 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | 困难 | [Python](Algorithms/37.解数独/solveSudoku.py) |
 | 38 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | 简单 | [Python](Algorithms/38.外观数列/countAndSay.py) |
