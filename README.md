@@ -139,6 +139,7 @@
 | 303 | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 简单 | [Python](Algorithms/303.区域和检索-数组不可变/NumArray.py) |
 | 312 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/) | 困难 | [Python](Algorithms/312.戳气球/maxCoins.py) |
 | 315 | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | 困难 | [Python](Algorithms/315.计算右侧小于当前元素的个数/countSmaller.py) |
+| 321 | [拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | 困难 | [Java](Algorithms/321.拼接最大数/maxNumber.java) |
 | 326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | 简单 | [Python](Algorithms/326.3的幂/isPowerOfThree.py) |
 | 327 | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) | 困难 | [Java](Algorithms/327.区间和的个数/countRangeSum.java), [Java](Algorithms/327.区间和的个数/countRangeSum_2.java), [Java](Algorithms/327.区间和的个数/countRangeSum_3.java), [Java](Algorithms/327.区间和的个数/countRangeSum_4.java), [Java](Algorithms/327.区间和的个数/countRangeSum_5.java) |
 | 328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 中等 | [Python](Algorithms/328.奇偶链表/oddEvenList.py), [Python](Algorithms/328.奇偶链表/oddEvenList_2.py) |
