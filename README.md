@@ -305,3 +305,6 @@
 | 10.9 | [排序矩阵查找](https://leetcode-cn.com/problems/sorted-matrix-search-lcci/) | 中等 | [Python](程序员面试金典/10.9排序矩阵查找/searchMatrix.py), [Python](程序员面试金典/10.9排序矩阵查找/searchMatrix_2.py) |
 | 10.10 | [数字流的秩](https://leetcode-cn.com/problems/rank-from-stream-lcci/) | 中等 | [Python](程序员面试金典/10.10数字流的秩/StreamRank.py), [Python](程序员面试金典/10.10数字流的秩/StreamRank_2.py), [Python](程序员面试金典/10.10数字流的秩/StreamRank_3.py) |
 | 10.11 | [峰与谷](https://leetcode-cn.com/problems/peaks-and-valleys-lcci/) | 中等 | [Python](程序员面试金典/10.11峰与谷/wiggleSort.py), [Python](程序员面试金典/10.11峰与谷/wiggleSort_2.py), [Python](程序员面试金典/10.11峰与谷/wiggleSort_3.py) |
+| 16.1 | [交换数字](https://leetcode-cn.com/problems/swap-numbers-lcci/) | 中等 | [Python](程序员面试金典/16.1交换数字/swapNumbers.py), [Python](程序员面试金典/16.1交换数字/swapNumbers_2.py) |
+| 16.2 | [单词频率](https://leetcode-cn.com/problems/words-frequency-lcci/) | 中等 | [Java](程序员面试金典/16.2单词频率/WordsFrequency.java), [Python](程序员面试金典/16.2单词频率/WordsFrequency.py) |
+| 16.3 | [交点](https://leetcode-cn.com/problems/intersection-lcci/) | 困难 | [Python](程序员面试金典/16.3交点/intersection.py) |
