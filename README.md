@@ -194,6 +194,7 @@
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | 简单 | [Python](Algorithms/637.二叉树的层平均值/averageOfLevels.py) |
 | 647 | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | 中等 | [Python](Algorithms/647.回文子串/countSubstrings.py) |
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | 简单 | [Python](Algorithms/657.机器人能否返回原点/judgeCircle.py), [Python](Algorithms/657.机器人能否返回原点/judgeCircle_2.py) |
+| 659 | [分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | 中等 | [Python](Algorithms/659.分割数组为连续子序列/isPossible.py), [Python](Algorithms/659.分割数组为连续子序列/isPossible_2.py) |
 | 679 | [24点游戏](https://leetcode-cn.com/problems/24-game/) | 困难 | [Python](Algorithms/679.24点游戏/judgePoint24.py) |
 | 685 | [冗余连接II](https://leetcode-cn.com/problems/redundant-connection-ii/) | 困难 | [Python](Algorithms/685.冗余连接II/findRedundantDirectedConnection.py) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/) | 简单 | [Python](Algorithms/696.计数二进制子串/countBinarySubstrings.py) |
