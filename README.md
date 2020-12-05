@@ -190,6 +190,7 @@
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | 困难 | [Java](Algorithms/546.移除盒子/removeBoxes.java) |
 | 557 | [反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 简单 | [Python](Algorithms/557.反转字符串中的单词III/reverseWords.py) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 简单 | [Python](Algorithms/617.合并二叉树/mergeTrees.py), [Python](Algorithms/617.合并二叉树/mergeTrees_2.py) |
+| 621 | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | 中等 | [Python](Algorithms/621.任务调度器/leastInterval.py), [Python](Algorithms/621.任务调度器/leastInterval_2.py) |
 | 632 | [最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | 困难 | [Python](Algorithms/632.最小区间/smallestRange.py) |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | 简单 | [Python](Algorithms/637.二叉树的层平均值/averageOfLevels.py) |
 | 647 | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | 中等 | [Python](Algorithms/647.回文子串/countSubstrings.py) |
