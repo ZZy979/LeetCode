@@ -207,6 +207,7 @@
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785.判断二分图/isBipartite.py) |
 | 834 | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | 困难 | [C++](Algorithms/834.树中距离之和/sumOfDistancesInTree.cpp) |
 | 841 | [钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/) | 中等 | [Python](Algorithms/841.钥匙和房间/canVisitAllRooms.py) |
+| 842 | [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | 中等 | [Python](Algorithms/842.将数组拆分成斐波那契序列/splitIntoFibonacci.py) |
 | 844 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | 简单 | [Java](Algorithms/844.比较含退格的字符串/backspaceCompare.java), [Python](Algorithms/844.比较含退格的字符串/backspaceCompare.py) |
 | 845 | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | 中等 | [Python](Algorithms/845.数组中的最长山脉/longestMountain.py), [Python](Algorithms/845.数组中的最长山脉/longestMountain_2.py), [Python](Algorithms/845.数组中的最长山脉/longestMountain_3.py) |
 | 861 | [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | 中等 | [Python](Algorithms/861.翻转矩阵后的得分/matrixScore.py), [Python](Algorithms/861.翻转矩阵后的得分/matrixScore_2.py) |
