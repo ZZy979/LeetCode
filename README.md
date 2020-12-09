@@ -40,6 +40,7 @@
 | 57 | [插入区间](https://leetcode-cn.com/problems/insert-interval/) | 困难 | [Python](Algorithms/57.插入区间/insert.py) |
 | 58 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 简单 | [Python](Algorithms/58.最后一个单词的长度/lengthOfLastWord.py) |
 | 60 | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) | 困难 | [Python](Algorithms/60.第k个排列/getPermutation.py) |
+| 62 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | 中等 | [Python](Algorithms/62.不同路径/uniquePaths.py), [Python](Algorithms/62.不同路径/uniquePaths_2.py), [Python](Algorithms/62.不同路径/uniquePaths_3.py) |
 | 64 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 中等 | [Python](Algorithms/64.最小路径和/minPathSum.py) |
 | 66 | [加一](https://leetcode-cn.com/problems/plus-one/) | 简单 | [Python](Algorithms/66.加一/plusOne.py) |
 | 67 | [二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 | [Python](Algorithms/67.二进制求和/addBinary.py), [Python](Algorithms/67.二进制求和/addBinary_2.py) |
