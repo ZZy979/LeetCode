@@ -211,6 +211,7 @@
 | 842 | [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | 中等 | [Python](Algorithms/842.将数组拆分成斐波那契序列/splitIntoFibonacci.py) |
 | 844 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | 简单 | [Java](Algorithms/844.比较含退格的字符串/backspaceCompare.java), [Python](Algorithms/844.比较含退格的字符串/backspaceCompare.py) |
 | 845 | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | 中等 | [Python](Algorithms/845.数组中的最长山脉/longestMountain.py), [Python](Algorithms/845.数组中的最长山脉/longestMountain_2.py), [Python](Algorithms/845.数组中的最长山脉/longestMountain_3.py) |
+| 860 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | 简单 | [Python](Algorithms/860.柠檬水找零/lemonadeChange.py) |
 | 861 | [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | 中等 | [Python](Algorithms/861.翻转矩阵后的得分/matrixScore.py), [Python](Algorithms/861.翻转矩阵后的得分/matrixScore_2.py) |
 | 922 | [按奇偶排序数组II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | 简单 | [Python](Algorithms/922.按奇偶排序数组II/sortArrayByParityII.py), [Python](Algorithms/922.按奇偶排序数组II/sortArrayByParityII_2.py) |
 | 925 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | 简单 | [Java](Algorithms/925.长按键入/isLongPressedName.java), [Python](Algorithms/925.长按键入/isLongPressedName.py) |
