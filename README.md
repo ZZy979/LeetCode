@@ -34,6 +34,7 @@
 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 中等 | [Python](Algorithms/43.字符串相乘/multiply.py) |
 | 44 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 困难 | [Python](Algorithms/44.通配符匹配/isMatch.py) |
 | 47 | [全排列II](https://leetcode-cn.com/problems/permutations-ii/) | 中等 | [Python](Algorithms/47.全排列II/permuteUnique.py) |
+| 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 | [Python](Algorithms/49.字母异位词分组/groupAnagrams.py) |
 | 51 | [N皇后](https://leetcode-cn.com/problems/n-queens/) | 困难 | [Python](Algorithms/51.N皇后/solveNQueens.py) |
 | 52 | [N皇后II](https://leetcode-cn.com/problems/n-queens-ii/) | 困难 | [Python](Algorithms/52.N皇后II/totalNQueens.py) |
 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 | [Python](Algorithms/53.最大子序和/maxSubArray.py) |
