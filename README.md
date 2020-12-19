@@ -34,6 +34,7 @@
 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 中等 | [Python](Algorithms/43.字符串相乘/multiply.py) |
 | 44 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 困难 | [Python](Algorithms/44.通配符匹配/isMatch.py) |
 | 47 | [全排列II](https://leetcode-cn.com/problems/permutations-ii/) | 中等 | [Python](Algorithms/47.全排列II/permuteUnique.py) |
+| 48 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 中等 | [Python](Algorithms/48.旋转图像/rotate.py) |
 | 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 | [Python](Algorithms/49.字母异位词分组/groupAnagrams.py) |
 | 51 | [N皇后](https://leetcode-cn.com/problems/n-queens/) | 困难 | [Python](Algorithms/51.N皇后/solveNQueens.py) |
 | 52 | [N皇后II](https://leetcode-cn.com/problems/n-queens-ii/) | 困难 | [Python](Algorithms/52.N皇后II/totalNQueens.py) |
@@ -141,6 +142,7 @@
 | 303 | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 简单 | [Python](Algorithms/303.区域和检索-数组不可变/NumArray.py) |
 | 312 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/) | 困难 | [Python](Algorithms/312.戳气球/maxCoins.py) |
 | 315 | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | 困难 | [Python](Algorithms/315.计算右侧小于当前元素的个数/countSmaller.py) |
+| 316 | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) | 中等 | [Python](Algorithms/316.去除重复字母/removeDuplicateLetters.py) |
 | 321 | [拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | 困难 | [Java](Algorithms/321.拼接最大数/maxNumber.java) |
 | 326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | 简单 | [Python](Algorithms/326.3的幂/isPowerOfThree.py) |
 | 327 | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) | 困难 | [Java](Algorithms/327.区间和的个数/countRangeSum.java), [Java](Algorithms/327.区间和的个数/countRangeSum_2.java), [Java](Algorithms/327.区间和的个数/countRangeSum_3.java), [Java](Algorithms/327.区间和的个数/countRangeSum_4.java), [Java](Algorithms/327.区间和的个数/countRangeSum_5.java) |
@@ -230,6 +232,7 @@
 | 1025 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/) | 简单 | [Python](Algorithms/1025.除数博弈/divisorGame.py) |
 | 1030 | [距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | 简单 | [Python](Algorithms/1030.距离顺序排列矩阵单元格/allCellsDistOrder.py), [Python](Algorithms/1030.距离顺序排列矩阵单元格/allCellsDistOrder_2.py) |
 | 1038 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 中等 | [Python](Algorithms/1038.把二叉搜索树转换为累加树/bstToGst.py) |
+| 1081 | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/) | 中等 | [Python](Algorithms/1081.不同字符的最小子序列/smallestSubsequence.py) |
 | 1122 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | 简单 | [Java](Algorithms/1122.数组的相对排序/relativeSortArray.java), [Python](Algorithms/1122.数组的相对排序/relativeSortArray.py) |
 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | 简单 | [Python](Algorithms/1207.独一无二的出现次数/uniqueOccurrences.py) |
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_2.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_3.java), [Python](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.py) |
