@@ -62,6 +62,8 @@
 | 99 | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 困难 | [Python](Algorithms/99.恢复二叉搜索树/recoverTree.py) |
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | 简单 | [Python](Algorithms/100.相同的树/isSameTree.py) |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 简单 | [Python](Algorithms/101.对称二叉树/isSymmetric.py) |
+| 102 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 中等 | [Python](Algorithms/102.二叉树的层序遍历/levelOrder.py) |
+| 103 | [二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | 中等 | [Python](Algorithms/103.二叉树的锯齿形层序遍历/zigzagLevelOrder.py) |
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 简单 | [Python](Algorithms/104.二叉树的最大深度/maxDepth.py) |
 | 106 | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 中等 | [Python](Algorithms/106.从中序与后序遍历序列构造二叉树/buildTree.py) |
 | 107 | [二叉树的层次遍历II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | 简单 | [Python](Algorithms/107.二叉树的层次遍历II/levelOrderBottom.py) |
@@ -85,6 +87,7 @@
 | 130 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) | 中等 | [Python](Algorithms/130.被围绕的区域/solve.py) |
 | 133 | [克隆图](https://leetcode-cn.com/problems/clone-graph/) | 中等 | [Python](Algorithms/133.克隆图/cloneGraph.py) |
 | 134 | [加油站](https://leetcode-cn.com/problems/gas-station/) | 中等 | [Python](Algorithms/134.加油站/canCompleteCircuit.py), [Python](Algorithms/134.加油站/canCompleteCircuit_2.py), [Python](Algorithms/134.加油站/canCompleteCircuit_3.py) |
+| 135 | [分发糖果](https://leetcode-cn.com/problems/candy/) | 困难 | [Python](Algorithms/135.分发糖果/candy.py), [Python](Algorithms/135.分发糖果/candy_2.py) |
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 简单 | [Python](Algorithms/136.只出现一次的数字/singleNumber.py) |
 | 139 | [单词拆分](https://leetcode-cn.com/problems/word-break/) | 中等 | [Python](Algorithms/139.单词拆分/wordBreak.py) |
 | 140 | [单词拆分II](https://leetcode-cn.com/problems/word-break-ii/) | 困难 | [Python](Algorithms/140.单词拆分II/wordBreak.py), [Python](Algorithms/140.单词拆分II/wordBreak_2.py), [Python](Algorithms/140.单词拆分II/wordBreak_3.py) |
@@ -164,7 +167,7 @@
 | 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | 中等 | [Python](Algorithms/380.常数时间插入、删除和获取随机元素/RandomizedSet.py) |
 | 381 | [O(1)时间插入、删除和获取随机元素-允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | 困难 | [Python](Algorithms/381.O(1)时间插入、删除和获取随机元素-允许重复/RandomizedCollection.py) |
 | 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | 简单 | [Python](Algorithms/383.赎金信/canConstruct.py) |
-| 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 简单 | [Python](Algorithms/387.字符串中的第一个唯一字符/firstUniqChar.py) |
+| 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 简单 | [Python](Algorithms/387.字符串中的第一个唯一字符/firstUniqChar.py), [Python](Algorithms/387.字符串中的第一个唯一字符/firstUniqChar_2.py) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | 简单 | [Python](Algorithms/389.找不同/findTheDifference.py), [Python](Algorithms/389.找不同/findTheDifference_2.py) |
 | 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 简单 | [Python](Algorithms/392.判断子序列/isSubsequence.py) |
 | 401 | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) | 简单 | [Python](Algorithms/401.二进制手表/readBinaryWatch.py), [Python](Algorithms/401.二进制手表/readBinaryWatch_2.py) |
@@ -182,6 +185,7 @@
 | 443 | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) | 中等 | [Python](Algorithms/443.压缩字符串/compress.py) |
 | 452 | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 中等 | [Python](Algorithms/452.用最少数量的箭引爆气球/findMinArrowShots.py) |
 | 454 | [四数相加II](https://leetcode-cn.com/problems/4sum-ii/) | 中等 | [Python](Algorithms/454.四数相加II/fourSumCount.py) |
+| 455 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | 简单 | [Python](Algorithms/455.分发饼干/findContentChildren.py) |
 | 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) | 简单 | [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern.py), [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern_2.py) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | 简单 | [Python](Algorithms/463.岛屿的周长/islandPerimeter.py) |
 | 486 | [预测赢家](https://leetcode-cn.com/problems/predict-the-winner/) | 中等 | [Python](Algorithms/486.预测赢家/PredictTheWinner.py), [Python](Algorithms/486.预测赢家/PredictTheWinner_2.py) |
@@ -209,6 +213,7 @@
 | 714 | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 中等 | [Python](Algorithms/714.买卖股票的最佳时机含手续费/maxProfit.py), [Python](Algorithms/714.买卖股票的最佳时机含手续费/maxProfit_2.py) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | 简单 | [Python](Algorithms/733.图像渲染/floodFill.py) |
 | 738 | [单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/) | 中等 | [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_2.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_3.py) |
+| 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | 简单 | [Python](Algorithms/746.使用最小花费爬楼梯/minCostClimbingStairs.py) |
 | 763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 中等 | [Python](Algorithms/763.划分字母区间/partitionLabels.py), [Python](Algorithms/763.划分字母区间/partitionLabels_2.py) |
 | 767 | [重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | 中等 | [Python](Algorithms/767.重构字符串/reorganizeString.py), [Python](Algorithms/767.重构字符串/reorganizeString_2.py), [Python](Algorithms/767.重构字符串/reorganizeString_3.py) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | 简单 | [Python](Algorithms/771.宝石与石头/numJewelsInStones.py) |
@@ -321,3 +326,4 @@
 | 16.1 | [交换数字](https://leetcode-cn.com/problems/swap-numbers-lcci/) | 中等 | [Python](程序员面试金典/16.1交换数字/swapNumbers.py), [Python](程序员面试金典/16.1交换数字/swapNumbers_2.py) |
 | 16.2 | [单词频率](https://leetcode-cn.com/problems/words-frequency-lcci/) | 中等 | [Java](程序员面试金典/16.2单词频率/WordsFrequency.java), [Python](程序员面试金典/16.2单词频率/WordsFrequency.py) |
 | 16.3 | [交点](https://leetcode-cn.com/problems/intersection-lcci/) | 困难 | [Python](程序员面试金典/16.3交点/intersection.py) |
+| 16.4 | [井字游戏](https://leetcode-cn.com/problems/tic-tac-toe-lcci/) | 中等 | [Python](程序员面试金典/16.4井字游戏/tictactoe.py), [Python](程序员面试金典/16.4井字游戏/tictactoe_2.py), [Python](程序员面试金典/16.4井字游戏/tictactoe_3.py) |
