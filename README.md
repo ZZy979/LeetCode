@@ -54,6 +54,7 @@
 | 78 | [子集](https://leetcode-cn.com/problems/subsets/) | 中等 | [Python](Algorithms/78.子集/subsets.py), [Python](Algorithms/78.子集/subsets_2.py) |
 | 79 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | 中等 | [Python](Algorithms/79.单词搜索/exist.py) |
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [Python](Algorithms/83.删除排序链表中的重复元素/deleteDuplicates.py) |
+| 85 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 | [Java](Algorithms/85.最大矩形/maximalRectangle.java), [Java](Algorithms/85.最大矩形/maximalRectangle_2.java), [Java](Algorithms/85.最大矩形/maximalRectangle_3.java) |
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | [Python](Algorithms/88.合并两个有序数组/merge.py) |
 | 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 中等 | [Python](Algorithms/93.复原IP地址/restoreIpAddresses.py), [Python](Algorithms/93.复原IP地址/restoreIpAddresses_2.py) |
 | 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | [Python](Algorithms/94.二叉树的中序遍历/inorderTraversal.py), [Python](Algorithms/94.二叉树的中序遍历/inorderTraversal_2.py) |
@@ -117,7 +118,7 @@
 | 202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | 简单 | [Python](Algorithms/202.快乐数/isHappy.py) |
 | 203 | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | 简单 | [Python](Algorithms/203.移除链表元素/removeElements.py) |
 | 204 | [计数质数](https://leetcode-cn.com/problems/count-primes/) | 简单 | [Python](Algorithms/204.计数质数/countPrimes.py) |
-| 205 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | 简单 | [Python](Algorithms/205.同构字符串/isIsomorphic.py) |
+| 205 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | 简单 | [Java](Algorithms/205.同构字符串/isIsomorphic.java), [Python](Algorithms/205.同构字符串/isIsomorphic.py) |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 简单 | [Python](Algorithms/206.反转链表/reverseList.py), [Python](Algorithms/206.反转链表/reverseList_2.py) |
 | 207 | [课程表](https://leetcode-cn.com/problems/course-schedule/) | 中等 | [Python](Algorithms/207.课程表/canFinish.py) |
 | 213 | [打家劫舍II](https://leetcode-cn.com/problems/house-robber-ii/) | 中等 | [Python](Algorithms/213.打家劫舍II/rob.py) |
