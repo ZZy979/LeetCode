@@ -110,6 +110,7 @@
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 简单 | [Python](Algorithms/171.Excel表列序号/titleToNumber.py) |
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 简单 | [Python](Algorithms/172.阶乘后的零/trailingZeroes.py) |
 | 174 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 困难 | [Python](Algorithms/174.地下城游戏/calculateMinimumHP.py) |
+| 188 | [买卖股票的最佳时机IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | 困难 | [Python](Algorithms/188.买卖股票的最佳时机IV/maxProfit.py) |
 | 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 中等 | [Python](Algorithms/189.旋转数组/rotate.py) |
 | 190 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 | [Python](Algorithms/190.颠倒二进制位/reverseBits.py) |
 | 191 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 简单 | [Python](Algorithms/191.位1的个数/hammingWeight.py) |
@@ -152,6 +153,7 @@
 | 327 | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) | 困难 | [Java](Algorithms/327.区间和的个数/countRangeSum.java), [Java](Algorithms/327.区间和的个数/countRangeSum_2.java), [Java](Algorithms/327.区间和的个数/countRangeSum_3.java), [Java](Algorithms/327.区间和的个数/countRangeSum_4.java), [Java](Algorithms/327.区间和的个数/countRangeSum_5.java) |
 | 328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 中等 | [Python](Algorithms/328.奇偶链表/oddEvenList.py), [Python](Algorithms/328.奇偶链表/oddEvenList_2.py) |
 | 329 | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | 困难 | [Python](Algorithms/329.矩阵中的最长递增路径/longestIncreasingPath.py) |
+| 330 | [按要求补齐数组](https://leetcode-cn.com/problems/patching-array/) | 困难 | [Python](Algorithms/330.按要求补齐数组/minPatches.py), [Python](Algorithms/330.按要求补齐数组/minPatches_2.py) |
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | 中等 | [Python](Algorithms/332.重新安排行程/findItinerary.py) |
 | 336 | [回文对](https://leetcode-cn.com/problems/palindrome-pairs/) | 困难 | [Python](Algorithms/336.回文对/palindromePairs.py), [Python](Algorithms/336.回文对/palindromePairs_2.py) |
 | 337 | [打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/) | 中等 | [Python](Algorithms/337.打家劫舍III/rob.py), [Python](Algorithms/337.打家劫舍III/rob_2.py) |
@@ -182,6 +184,7 @@
 | 415 | [字符串相加](https://leetcode-cn.com/problems/add-strings/) | 简单 | [Python](Algorithms/415.字符串相加/addStrings.py) |
 | 416 | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 中等 | [Python](Algorithms/416.分割等和子集/canPartition.py), [Python](Algorithms/416.分割等和子集/canPartition_2.py) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 简单 | [Python](Algorithms/434.字符串中的单词数/countSegments.py) |
+| 435 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) | 中等 | [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals.py), [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals_2.py), [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals_3.py) |
 | 441 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | 简单 | [Python](Algorithms/441.排列硬币/arrangeCoins.py) |
 | 443 | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) | 中等 | [Python](Algorithms/443.压缩字符串/compress.py) |
 | 452 | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 中等 | [Python](Algorithms/452.用最少数量的箭引爆气球/findMinArrowShots.py) |
@@ -238,6 +241,7 @@
 | 1025 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/) | 简单 | [Python](Algorithms/1025.除数博弈/divisorGame.py) |
 | 1030 | [距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | 简单 | [Python](Algorithms/1030.距离顺序排列矩阵单元格/allCellsDistOrder.py), [Python](Algorithms/1030.距离顺序排列矩阵单元格/allCellsDistOrder_2.py) |
 | 1038 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 中等 | [Python](Algorithms/1038.把二叉搜索树转换为累加树/bstToGst.py) |
+| 1046 | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | 简单 | [Python](Algorithms/1046.最后一块石头的重量/lastStoneWeight.py) |
 | 1081 | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/) | 中等 | [Python](Algorithms/1081.不同字符的最小子序列/smallestSubsequence.py) |
 | 1122 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | 简单 | [Java](Algorithms/1122.数组的相对排序/relativeSortArray.java), [Python](Algorithms/1122.数组的相对排序/relativeSortArray.py) |
 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | 简单 | [Python](Algorithms/1207.独一无二的出现次数/uniqueOccurrences.py) |
@@ -328,3 +332,4 @@
 | 16.2 | [单词频率](https://leetcode-cn.com/problems/words-frequency-lcci/) | 中等 | [Java](程序员面试金典/16.2单词频率/WordsFrequency.java), [Python](程序员面试金典/16.2单词频率/WordsFrequency.py) |
 | 16.3 | [交点](https://leetcode-cn.com/problems/intersection-lcci/) | 困难 | [Python](程序员面试金典/16.3交点/intersection.py) |
 | 16.4 | [井字游戏](https://leetcode-cn.com/problems/tic-tac-toe-lcci/) | 中等 | [Python](程序员面试金典/16.4井字游戏/tictactoe.py), [Python](程序员面试金典/16.4井字游戏/tictactoe_2.py), [Python](程序员面试金典/16.4井字游戏/tictactoe_3.py) |
+| 16.5| [阶乘尾数](https://leetcode-cn.com/problems/factorial-zeros-lcci/) | 简单 | [Python](程序员面试金典/16.5阶乘尾数/trailingZeroes.py) |
