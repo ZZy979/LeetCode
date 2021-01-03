@@ -55,6 +55,7 @@
 | 79 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | 中等 | [Python](Algorithms/79.单词搜索/exist.py) |
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [Python](Algorithms/83.删除排序链表中的重复元素/deleteDuplicates.py) |
 | 85 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 | [Java](Algorithms/85.最大矩形/maximalRectangle.java), [Java](Algorithms/85.最大矩形/maximalRectangle_2.java), [Java](Algorithms/85.最大矩形/maximalRectangle_3.java) |
+| 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 | [Python](Algorithms/86.分隔链表/partition.py), [Python](Algorithms/86.分隔链表/partition_2.py) |
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | [Python](Algorithms/88.合并两个有序数组/merge.py) |
 | 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 中等 | [Python](Algorithms/93.复原IP地址/restoreIpAddresses.py), [Python](Algorithms/93.复原IP地址/restoreIpAddresses_2.py) |
 | 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | [Python](Algorithms/94.二叉树的中序遍历/inorderTraversal.py), [Python](Algorithms/94.二叉树的中序遍历/inorderTraversal_2.py) |
@@ -135,6 +136,7 @@
 | 234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | 简单 | [Python](Algorithms/234.回文链表/isPalindrome.py) |
 | 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 简单 | [Python](Algorithms/235.二叉搜索树的最近公共祖先/lowestCommonAncestor.py), [Python](Algorithms/235.二叉搜索树的最近公共祖先/lowestCommonAncestor_2.py) |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | 简单 | [Python](Algorithms/237.删除链表中的节点/deleteNode.py) |
+| 239 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 困难 | [Python](Algorithms/239.滑动窗口最大值/maxSlidingWindow.py), [Python](Algorithms/239.滑动窗口最大值/maxSlidingWindow_2.py), [Python](Algorithms/239.滑动窗口最大值/maxSlidingWindow_3.py) |
 | 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 | [Python](Algorithms/242.有效的字母异位词/isAnagram.py) |
 | 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | 简单 | [Python](Algorithms/257.二叉树的所有路径/binaryTreePaths.py) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/) | 简单 | [Python](Algorithms/258.各位相加/addDigits.py), [Python](Algorithms/258.各位相加/addDigits_2.py) |
@@ -202,6 +204,7 @@
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 中等 | [Python](Algorithms/538.把二叉搜索树转换为累加树/convertBST.py) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | 困难 | [Java](Algorithms/546.移除盒子/removeBoxes.java) |
 | 557 | [反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 简单 | [Python](Algorithms/557.反转字符串中的单词III/reverseWords.py) |
+| 605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | 简单 | [Python](Algorithms/605.种花问题/canPlaceFlowers.py), [Python](Algorithms/605.种花问题/canPlaceFlowers_2.py) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 简单 | [Python](Algorithms/617.合并二叉树/mergeTrees.py), [Python](Algorithms/617.合并二叉树/mergeTrees_2.py) |
 | 621 | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | 中等 | [Python](Algorithms/621.任务调度器/leastInterval.py), [Python](Algorithms/621.任务调度器/leastInterval_2.py) |
 | 632 | [最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | 困难 | [Python](Algorithms/632.最小区间/smallestRange.py) |
@@ -332,4 +335,4 @@
 | 16.2 | [单词频率](https://leetcode-cn.com/problems/words-frequency-lcci/) | 中等 | [Java](程序员面试金典/16.2单词频率/WordsFrequency.java), [Python](程序员面试金典/16.2单词频率/WordsFrequency.py) |
 | 16.3 | [交点](https://leetcode-cn.com/problems/intersection-lcci/) | 困难 | [Python](程序员面试金典/16.3交点/intersection.py) |
 | 16.4 | [井字游戏](https://leetcode-cn.com/problems/tic-tac-toe-lcci/) | 中等 | [Python](程序员面试金典/16.4井字游戏/tictactoe.py), [Python](程序员面试金典/16.4井字游戏/tictactoe_2.py), [Python](程序员面试金典/16.4井字游戏/tictactoe_3.py) |
-| 16.5| [阶乘尾数](https://leetcode-cn.com/problems/factorial-zeros-lcci/) | 简单 | [Python](程序员面试金典/16.5阶乘尾数/trailingZeroes.py) |
+| 16.5 | [阶乘尾数](https://leetcode-cn.com/problems/factorial-zeros-lcci/) | 简单 | [Python](程序员面试金典/16.5阶乘尾数/trailingZeroes.py) |
