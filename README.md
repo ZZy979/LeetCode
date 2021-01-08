@@ -112,7 +112,7 @@
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 简单 | [Python](Algorithms/172.阶乘后的零/trailingZeroes.py) |
 | 174 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 困难 | [Python](Algorithms/174.地下城游戏/calculateMinimumHP.py) |
 | 188 | [买卖股票的最佳时机IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | 困难 | [Python](Algorithms/188.买卖股票的最佳时机IV/maxProfit.py) |
-| 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 中等 | [Python](Algorithms/189.旋转数组/rotate.py) |
+| 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 中等 | [Python](Algorithms/189.旋转数组/rotate.py), [Python](Algorithms/189.旋转数组/rotate_2.py) |
 | 190 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 | [Python](Algorithms/190.颠倒二进制位/reverseBits.py) |
 | 191 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 简单 | [Python](Algorithms/191.位1的个数/hammingWeight.py) |
 | 198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 简单 | [Python](Algorithms/198.打家劫舍/rob.py) |
@@ -175,6 +175,7 @@
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 简单 | [Python](Algorithms/387.字符串中的第一个唯一字符/firstUniqChar.py), [Python](Algorithms/387.字符串中的第一个唯一字符/firstUniqChar_2.py) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | 简单 | [Python](Algorithms/389.找不同/findTheDifference.py), [Python](Algorithms/389.找不同/findTheDifference_2.py) |
 | 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 简单 | [Python](Algorithms/392.判断子序列/isSubsequence.py) |
+| 399 | [除法求值](https://leetcode-cn.com/problems/evaluate-division/) | 中等 | [Python](Algorithms/399.除法求值/calcEquation.py), [Python](Algorithms/399.除法求值/calcEquation_2.py) |
 | 401 | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) | 简单 | [Python](Algorithms/401.二进制手表/readBinaryWatch.py), [Python](Algorithms/401.二进制手表/readBinaryWatch_2.py) |
 | 402 | [移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) | 中等 | [Python](Algorithms/402.移掉K位数字/removeKdigits.py) |
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | 简单 | [Python](Algorithms/404.左叶子之和/sumOfLeftLeaves.py) |
@@ -198,11 +199,13 @@
 | 491 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/) | 中等 | [Python](Algorithms/491.递增子序列/findSubsequences.py) |
 | 493 | [翻转对](https://leetcode-cn.com/problems/reverse-pairs/) | 困难 | [Java](Algorithms/493.翻转对/reversePairs.java), [Python](Algorithms/493.翻转对/reversePairs.py) |
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | 简单 | [Python](Algorithms/501.二叉搜索树中的众数/findMode.py), [Python](Algorithms/501.二叉搜索树中的众数/findMode_2.py) |
+| 509 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | 简单 | [Python](Algorithms/509.斐波那契数/fib.py), [Python](Algorithms/509.斐波那契数/fib_2.py) |
 | 514 | [自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 | [Java](Algorithms/514.自由之路/findRotateSteps.java), [Python](Algorithms/514.自由之路/findRotateSteps.py) |
 | 529 | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/) | 中等 | [Python](Algorithms/529.扫雷游戏/updateBoard.py) |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | 简单 | [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference.py), [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference_2.py) |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 中等 | [Python](Algorithms/538.把二叉搜索树转换为累加树/convertBST.py) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | 困难 | [Java](Algorithms/546.移除盒子/removeBoxes.java) |
+| 547 | [省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | 中等 | [Python](Algorithms/547.省份数量/findCircleNum.py), [Python](Algorithms/547.省份数量/findCircleNum_2.py), [Python](Algorithms/547.省份数量/findCircleNum_3.py) |
 | 557 | [反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 简单 | [Python](Algorithms/557.反转字符串中的单词III/reverseWords.py) |
 | 605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | 简单 | [Python](Algorithms/605.种花问题/canPlaceFlowers.py), [Python](Algorithms/605.种花问题/canPlaceFlowers_2.py) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 简单 | [Python](Algorithms/617.合并二叉树/mergeTrees.py), [Python](Algorithms/617.合并二叉树/mergeTrees_2.py) |
@@ -225,6 +228,7 @@
 | 767 | [重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | 中等 | [Python](Algorithms/767.重构字符串/reorganizeString.py), [Python](Algorithms/767.重构字符串/reorganizeString_2.py), [Python](Algorithms/767.重构字符串/reorganizeString_3.py) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | 简单 | [Python](Algorithms/771.宝石与石头/numJewelsInStones.py) |
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785.判断二分图/isBipartite.py) |
+| 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | 简单 | [Python](Algorithms/830.较大分组的位置/largeGroupPositions.py), [Python](Algorithms/830.较大分组的位置/largeGroupPositions_2.py) |
 | 834 | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | 困难 | [C++](Algorithms/834.树中距离之和/sumOfDistancesInTree.cpp) |
 | 841 | [钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/) | 中等 | [Python](Algorithms/841.钥匙和房间/canVisitAllRooms.py) |
 | 842 | [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | 中等 | [Python](Algorithms/842.将数组拆分成斐波那契序列/splitIntoFibonacci.py) |
@@ -336,3 +340,6 @@
 | 16.3 | [交点](https://leetcode-cn.com/problems/intersection-lcci/) | 困难 | [Python](程序员面试金典/16.3交点/intersection.py) |
 | 16.4 | [井字游戏](https://leetcode-cn.com/problems/tic-tac-toe-lcci/) | 中等 | [Python](程序员面试金典/16.4井字游戏/tictactoe.py), [Python](程序员面试金典/16.4井字游戏/tictactoe_2.py), [Python](程序员面试金典/16.4井字游戏/tictactoe_3.py) |
 | 16.5 | [阶乘尾数](https://leetcode-cn.com/problems/factorial-zeros-lcci/) | 简单 | [Python](程序员面试金典/16.5阶乘尾数/trailingZeroes.py) |
+| 16.6 | [最小差](https://leetcode-cn.com/problems/smallest-difference-lcci/) | 中等 | [Python](程序员面试金典/16.6最小差/smallestDifference.py), [Python](程序员面试金典/16.6最小差/smallestDifference_2.py) |
+| 16.7 | [最大数值](https://leetcode-cn.com/problems/maximum-lcci/) | 简单 | [Java](程序员面试金典/16.7最大数值/maximum.java), [Java](程序员面试金典/16.7最大数值/maximum_2.java) |
+| 16.8 | [整数的英语表示](https://leetcode-cn.com/problems/english-int-lcci/) | 困难 | [Python](程序员面试金典/16.8整数的英语表示/numberToWords.py), [Python](程序员面试金典/16.8整数的英语表示/numberToWords_2.py) |
