@@ -219,6 +219,7 @@
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | 简单 | [Python](Algorithms/657.机器人能否返回原点/judgeCircle.py), [Python](Algorithms/657.机器人能否返回原点/judgeCircle_2.py) |
 | 659 | [分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | 中等 | [Python](Algorithms/659.分割数组为连续子序列/isPossible.py), [Python](Algorithms/659.分割数组为连续子序列/isPossible_2.py) |
 | 679 | [24点游戏](https://leetcode-cn.com/problems/24-game/) | 困难 | [Python](Algorithms/679.24点游戏/judgePoint24.py) |
+| 684 | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | 中等 | [Python](Algorithms/684.冗余连接/findRedundantConnection.py) |
 | 685 | [冗余连接II](https://leetcode-cn.com/problems/redundant-connection-ii/) | 困难 | [Python](Algorithms/685.冗余连接II/findRedundantDirectedConnection.py) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/) | 简单 | [Python](Algorithms/696.计数二进制子串/countBinarySubstrings.py) |
 | 701 | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | 中等 | [Python](Algorithms/701.二叉搜索树中的插入操作/insertIntoBST.py), [Python](Algorithms/701.二叉搜索树中的插入操作/insertIntoBST_2.py) |
@@ -241,11 +242,13 @@
 | 922 | [按奇偶排序数组II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | 简单 | [Python](Algorithms/922.按奇偶排序数组II/sortArrayByParityII.py), [Python](Algorithms/922.按奇偶排序数组II/sortArrayByParityII_2.py) |
 | 925 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | 简单 | [Java](Algorithms/925.长按键入/isLongPressedName.java), [Python](Algorithms/925.长按键入/isLongPressedName.py) |
 | 941 | [有效的山脉数组](https://leetcode-cn.com/problems/valid-mountain-array/) | 简单 | [Python](Algorithms/941.有效的山脉数组/validMountainArray.py) |
+| 947 | [移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | 中等 | [Python](Algorithms/947.移除最多的同行或同列石头/removeStones.py), [Python](Algorithms/947.移除最多的同行或同列石头/removeStones_2.py) |
 | 968 | [监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/) | 困难 | [Python](Algorithms/968.监控二叉树/minCameraCover.py) |
 | 973 | [最接近原点的K个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | 中等 | [Python](Algorithms/973.最接近原点的K个点/kClosest.py) |
 | 976 | [三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | 简单 | [Python](Algorithms/976.三角形的最大周长/largestPerimeter.py) |
 | 977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | 简单 | [Java](Algorithms/977.有序数组的平方/sortedSquares.java), [Python](Algorithms/977.有序数组的平方/sortedSquares.py) |
 | 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | 简单 | [Python](Algorithms/1002.查找常用字符/commonChars.py), [Python](Algorithms/1002.查找常用字符/commonChars_2.py) |
+| 1018 | [可被5整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | 简单 | [Python](Algorithms/1018.可被5整除的二进制前缀/prefixesDivBy5.py) |
 | 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 中等 | [Python](Algorithms/1024.视频拼接/videoStitching.py), [Python](Algorithms/1024.视频拼接/videoStitching_2.py) |
 | 1025 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/) | 简单 | [Python](Algorithms/1025.除数博弈/divisorGame.py) |
 | 1030 | [距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | 简单 | [Python](Algorithms/1030.距离顺序排列矩阵单元格/allCellsDistOrder.py), [Python](Algorithms/1030.距离顺序排列矩阵单元格/allCellsDistOrder_2.py) |
@@ -253,6 +256,8 @@
 | 1046 | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | 简单 | [Python](Algorithms/1046.最后一块石头的重量/lastStoneWeight.py) |
 | 1081 | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/) | 中等 | [Python](Algorithms/1081.不同字符的最小子序列/smallestSubsequence.py) |
 | 1122 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | 简单 | [Java](Algorithms/1122.数组的相对排序/relativeSortArray.java), [Python](Algorithms/1122.数组的相对排序/relativeSortArray.py) |
+| 1202 | [交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | 中等 | [Python](Algorithms/1202.交换字符串中的元素/smallestStringWithSwaps.py) |
+| 1203 | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | 困难 | [Python](Algorithms/1203.项目管理/sortItems.py) |
 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | 简单 | [Python](Algorithms/1207.独一无二的出现次数/uniqueOccurrences.py) |
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_2.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_3.java), [Python](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.py) |
 | 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](Algorithms/1365.有多少小于当前数字的数字/smallerNumbersThanCurrent.py) |
