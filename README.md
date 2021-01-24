@@ -27,7 +27,7 @@
 | 32 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 困难 | [Python](Algorithms/32.最长有效括号/longestValidParentheses.py) |
 | 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 中等 | [Python](Algorithms/33.搜索旋转排序数组/search.py) |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 中等 | [Python](Algorithms/34.在排序数组中查找元素的第一个和最后一个位置/searchRange.py), [Python](Algorithms/34.在排序数组中查找元素的第一个和最后一个位置/searchRange_2.py) |
-| 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 | [Python](Algorithms/35.搜索插入位置/searchInsert.py) |
+| 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 | [Python](Algorithms/35.搜索插入位置/searchInsert.py), [Python](Algorithms/35.搜索插入位置/searchInsert_2.py) |
 | 37 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/) | 困难 | [Python](Algorithms/37.解数独/solveSudoku.py) |
 | 38 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | 简单 | [Python](Algorithms/38.外观数列/countAndSay.py) |
 | 39 | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | 中等 | [Python](Algorithms/39.组合总和/combinationSum.py) |
@@ -107,6 +107,7 @@
 | 154 | [寻找旋转排序数组中的最小值II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 困难 | [Python](Algorithms/154.寻找旋转排序数组中的最小值II/findMin.py) |
 | 155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | 简单 | [Python](Algorithms/155.最小栈/MinStack.py) |
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 简单 | [Python](Algorithms/160.相交链表/getIntersectionNode.py) |
+| 162 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 中等 | [Python](Algorithms/162.寻找峰值/findPeakElement.py) |
 | 164 | [最大间距](https://leetcode-cn.com/problems/maximum-gap/) | 困难 | [Python](Algorithms/164.最大间距/maximumGap.py), [Python](Algorithms/164.最大间距/maximumGap_2.py) |
 | 167 | [两数之和II-输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 简单 | [Python](Algorithms/167.两数之和II-输入有序数组/twoSum.py) |
 | 168 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | 简单 | [Python](Algorithms/168.Excel表列名称/convertToTitle.py) |
@@ -142,6 +143,7 @@
 | 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 简单 | [Python](Algorithms/235.二叉搜索树的最近公共祖先/lowestCommonAncestor.py), [Python](Algorithms/235.二叉搜索树的最近公共祖先/lowestCommonAncestor_2.py) |
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | 简单 | [Python](Algorithms/237.删除链表中的节点/deleteNode.py) |
 | 239 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 困难 | [Python](Algorithms/239.滑动窗口最大值/maxSlidingWindow.py), [Python](Algorithms/239.滑动窗口最大值/maxSlidingWindow_2.py), [Python](Algorithms/239.滑动窗口最大值/maxSlidingWindow_3.py) |
+| 240 | [搜索二维矩阵II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | 中等 | [Python](Algorithms/240.搜索二维矩阵II/searchMatrix.py), [Python](Algorithms/240.搜索二维矩阵II/searchMatrix_2.py) |
 | 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 | [Python](Algorithms/242.有效的字母异位词/isAnagram.py) |
 | 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | 简单 | [Python](Algorithms/257.二叉树的所有路径/binaryTreePaths.py) |
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/) | 简单 | [Python](Algorithms/258.各位相加/addDigits.py), [Python](Algorithms/258.各位相加/addDigits_2.py) |
@@ -222,7 +224,9 @@
 | 647 | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | 中等 | [Python](Algorithms/647.回文子串/countSubstrings.py) |
 | 649 | [Dota2参议院](https://leetcode-cn.com/problems/dota2-senate/) | 中等 | [Python](Algorithms/649.Dota2参议院/predictPartyVictory.py) |
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | 简单 | [Python](Algorithms/657.机器人能否返回原点/judgeCircle.py), [Python](Algorithms/657.机器人能否返回原点/judgeCircle_2.py) |
+| 658 | [找到K个最接近的元素](https://leetcode-cn.com/problems/find-k-closest-elements/) | 中等 | [Python](Algorithms/658.找到K个最接近的元素/findClosestElements.py) |
 | 659 | [分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | 中等 | [Python](Algorithms/659.分割数组为连续子序列/isPossible.py), [Python](Algorithms/659.分割数组为连续子序列/isPossible_2.py) |
+| 674 | [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | 简单 | [Python](Algorithms/674.最长连续递增序列/findLengthOfLCIS.py) |
 | 679 | [24点游戏](https://leetcode-cn.com/problems/24-game/) | 困难 | [Python](Algorithms/679.24点游戏/judgePoint24.py) |
 | 684 | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | 中等 | [Python](Algorithms/684.冗余连接/findRedundantConnection.py) |
 | 685 | [冗余连接II](https://leetcode-cn.com/problems/redundant-connection-ii/) | 困难 | [Python](Algorithms/685.冗余连接II/findRedundantDirectedConnection.py) |
@@ -255,6 +259,7 @@
 | 973 | [最接近原点的K个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | 中等 | [Python](Algorithms/973.最接近原点的K个点/kClosest.py) |
 | 976 | [三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | 简单 | [Python](Algorithms/976.三角形的最大周长/largestPerimeter.py) |
 | 977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | 简单 | [Java](Algorithms/977.有序数组的平方/sortedSquares.java), [Python](Algorithms/977.有序数组的平方/sortedSquares.py) |
+| 989 | [数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | 简单 | [Java](Algorithms/989.数组形式的整数加法/addToArrayForm.java), [Python](Algorithms/989.数组形式的整数加法/addToArrayForm.py) |
 | 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | 简单 | [Python](Algorithms/1002.查找常用字符/commonChars.py), [Python](Algorithms/1002.查找常用字符/commonChars_2.py) |
 | 1018 | [可被5整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | 简单 | [Python](Algorithms/1018.可被5整除的二进制前缀/prefixesDivBy5.py) |
 | 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 中等 | [Python](Algorithms/1024.视频拼接/videoStitching.py), [Python](Algorithms/1024.视频拼接/videoStitching_2.py) |
@@ -268,6 +273,7 @@
 | 1203 | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | 困难 | [Python](Algorithms/1203.项目管理/sortItems.py) |
 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | 简单 | [Python](Algorithms/1207.独一无二的出现次数/uniqueOccurrences.py) |
 | 1232 | [缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | 简单 | [Python](Algorithms/1232.缀点成线/checkStraightLine.py), [Python](Algorithms/1232.缀点成线/checkStraightLine_2.py) |
+| 1319 | [连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | 中等 | [Python](Algorithms/1319.连通网络的操作次数/makeConnected.py) |
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_2.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_3.java), [Python](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.py) |
 | 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](Algorithms/1365.有多少小于当前数字的数字/smallerNumbersThanCurrent.py) |
 | 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | 简单 | [Java](Algorithms/1370.上升下降字符串/sortString.java), [Python](Algorithms/1370.上升下降字符串/sortString.py) |
@@ -365,5 +371,6 @@
 ## [剑指Offer](https://leetcode-cn.com/problemset/lcof/)
 | # | 题名 | 难度 | 解答 |
 | --- | --- | --- | --- |
+| 4 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | 中等 | [Python](剑指Offer/4.二维数组中的查找/findNumberIn2DArray.py) |
 | 11 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | 简单 | [Python](剑指Offer/11.旋转数组的最小数字/minArray.py) |
 | 53-II | [0~n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | 简单 | [Python](剑指Offer/53-II.0~n-1中缺失的数字/missingNumber.py), [Python](剑指Offer/53-II.0~n-1中缺失的数字/missingNumber_2.py) |

@@ -1,4 +1,4 @@
-# 方法2：二分查找，时间复杂度O(nlog n)
+# 方法2：二分查找，时间复杂度O(n)
 # 32 ms
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
