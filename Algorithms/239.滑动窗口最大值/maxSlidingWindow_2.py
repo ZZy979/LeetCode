@@ -14,7 +14,7 @@ class Solution:
             while q and nums[i] >= nums[q[-1]]:
                 q.pop()
             q.append(i)
-            while q[0] <= i - k:
+            if q[0] <= i - k:
                 q.popleft()
             ans.append(nums[q[0]])
         return ans
