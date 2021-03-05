@@ -11,23 +11,22 @@ class MyQueue:
         """
         Push element x to the back of queue.
         """
-        while self.stack2:
-            self.stack1.append(self.stack2.pop())
         self.stack1.append(x)
 
     def pop(self) -> int:
         """
         Removes the element from in front of queue and returns that element.
         """
-        while self.stack1:
-            self.stack2.append(self.stack1.pop())
+        if not self.stack2:
+            while self.stack1:
+                self.stack2.append(self.stack1.pop())
         return self.stack2.pop()
 
     def peek(self) -> int:
         """
         Get the front element.
         """
-        return self.stack1[0] if self.stack1 else self.stack2[-1]
+        return self.stack2[-1] if self.stack2 else self.stack1[0]
 
     def empty(self) -> bool:
         """
