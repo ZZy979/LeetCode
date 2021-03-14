@@ -186,6 +186,7 @@
 | 328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 中等 | [Python](Algorithms/328.奇偶链表/oddEvenList.py), [Python](Algorithms/328.奇偶链表/oddEvenList_2.py) |
 | 329 | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | 困难 | [Python](Algorithms/329.矩阵中的最长递增路径/longestIncreasingPath.py) |
 | 330 | [按要求补齐数组](https://leetcode-cn.com/problems/patching-array/) | 困难 | [Python](Algorithms/330.按要求补齐数组/minPatches.py), [Python](Algorithms/330.按要求补齐数组/minPatches_2.py) |
+| 331 | [验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | 中等 | [Python](Algorithms/331.验证二叉树的前序序列化/isValidSerialization.py), [Python](Algorithms/331.验证二叉树的前序序列化/isValidSerialization_2.py), [Python](Algorithms/331.验证二叉树的前序序列化/isValidSerialization_3.py) |
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | 中等 | [Python](Algorithms/332.重新安排行程/findItinerary.py) |
 | 336 | [回文对](https://leetcode-cn.com/problems/palindrome-pairs/) | 困难 | [Python](Algorithms/336.回文对/palindromePairs.py), [Python](Algorithms/336.回文对/palindromePairs_2.py) |
 | 337 | [打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/) | 中等 | [Python](Algorithms/337.打家劫舍III/rob.py), [Python](Algorithms/337.打家劫舍III/rob_2.py) |
@@ -273,6 +274,8 @@
 | 697 | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 简单 | [Python](Algorithms/697.数组的度/findShortestSubArray.py) |
 | 701 | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | 中等 | [Python](Algorithms/701.二叉搜索树中的插入操作/insertIntoBST.py), [Python](Algorithms/701.二叉搜索树中的插入操作/insertIntoBST_2.py) |
 | 703 | [数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | 简单| [Python](Algorithms/703.数据流中的第K大元素/KthLargest.py), [Python](Algorithms/703.数据流中的第K大元素/KthLargest_2.py) |
+| 705 | [设计哈希集合](https://leetcode-cn.com/problems/design-hashset/) | 简单 | [Python](Algorithms/705.设计哈希集合/MyHashSet.py) |
+| 706 | [设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/) | 简单 | [Python](Algorithms/706.设计哈希映射/MyHashMap.py) |
 | 714 | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 中等 | [Python](Algorithms/714.买卖股票的最佳时机含手续费/maxProfit.py), [Python](Algorithms/714.买卖股票的最佳时机含手续费/maxProfit_2.py) |
 | 721 | [账户合并](https://leetcode-cn.com/problems/accounts-merge/) | 中等 | [Python](Algorithms/721.账户合并/accountsMerge.py) |
 | 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | 简单 | [Python](Algorithms/724.寻找数组的中心索引/pivotIndex.py), [Python](Algorithms/724.寻找数组的中心索引/pivotIndex_2.py) |
@@ -467,4 +470,5 @@
 | 56-II | [数组中数字出现的次数II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | 中等 | [Python](剑指Offer/56-II.数组中数字出现的次数II/singleNumber.py), [Python](剑指Offer/56-II.数组中数字出现的次数II/singleNumber_2.py), [Python](剑指Offer/56-II.数组中数字出现的次数II/singleNumber_3.py) |
 | 58-I | [翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | 简单 | [Python](剑指Offer/58-I.翻转单词顺序/reverseWords.py) |
 | 59-II | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | 中等 | [Python](剑指Offer/59-II.队列的最大值/MaxQueue.py) |
+| 61 | [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | 简单 | [Python](剑指Offer/61.扑克牌中的顺子/isStraight.py), [Python](剑指Offer/61.扑克牌中的顺子/isStraight_2.py), [Python](剑指Offer/61.扑克牌中的顺子/isStraight_3.py) |
 | 65 | [不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | 简单 | [Java](剑指Offer/65.不用加减乘除做加法/add.java), [Java](剑指Offer/65.不用加减乘除做加法/add_2.java) |
