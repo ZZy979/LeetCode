@@ -6,14 +6,12 @@
 
 class Solution:
     def deleteDuplicates(self, head: ListNode) -> ListNode:
-        new_head = ListNode(0)
-        new_head.next = head
-        x = None
-        p = new_head
-        while p.next is not None:
-            if p.next.val == x:
-                p.next = p.next.next
+        if not head:
+            return None
+        cur = head
+        while cur.next:
+            if cur.val == cur.next.val:
+                cur.next = cur.next.next
             else:
-                x = p.next.val
-                p = p.next
-        return new_head.next
+                cur = cur.next
+        return head

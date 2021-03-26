@@ -1,3 +1,4 @@
+# 官方题解：dp[i][j]表示当数组剩下的部分为下标i到下标j时，当前玩家与另一个玩家的分数之差的最大值
 class Solution:
     def PredictTheWinner(self, nums: List[int]) -> bool:
         length = len(nums)
