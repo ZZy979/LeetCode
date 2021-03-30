@@ -67,6 +67,7 @@
 | 77 | [组合](https://leetcode-cn.com/problems/combinations/) | 中等 | [Python](Algorithms/77.组合/combine.py) |
 | 78 | [子集](https://leetcode-cn.com/problems/subsets/) | 中等 | [Python](Algorithms/78.子集/subsets.py), [Python](Algorithms/78.子集/subsets_2.py) |
 | 79 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | 中等 | [Python](Algorithms/79.单词搜索/exist.py) |
+| 81 | [搜索旋转排序数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 中等 | [Python](Algorithms/81.搜索旋转排序数组II/search.py) |
 | 82 | [删除排序链表中的重复元素II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 中等 | [Python](Algorithms/82.删除排序链表中的重复元素II/deleteDuplicates.py), [Python](Algorithms/82.删除排序链表中的重复元素II/deleteDuplicates_2.py) |
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [Python](Algorithms/83.删除排序链表中的重复元素/deleteDuplicates.py) |
 | 84 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 困难 | [Python](Algorithms/84.柱状图中最大的矩形/largestRectangleArea.py), [Python](Algorithms/84.柱状图中最大的矩形/largestRectangleArea_2.py) |
