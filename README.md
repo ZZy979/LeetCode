@@ -68,6 +68,7 @@
 | 77 | [组合](https://leetcode-cn.com/problems/combinations/) | 中等 | [Python](Algorithms/77.组合/combine.py) |
 | 78 | [子集](https://leetcode-cn.com/problems/subsets/) | 中等 | [Python](Algorithms/78.子集/subsets.py), [Python](Algorithms/78.子集/subsets_2.py) |
 | 79 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | 中等 | [Python](Algorithms/79.单词搜索/exist.py) |
+| 81 | [搜索旋转排序数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 中等 | [Python](Algorithms/81.搜索旋转排序数组II/search.py) |
 | 82 | [删除排序链表中的重复元素II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 中等 | [Python](Algorithms/82.删除排序链表中的重复元素II/deleteDuplicates.py), [Python](Algorithms/82.删除排序链表中的重复元素II/deleteDuplicates_2.py) |
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [Python](Algorithms/83.删除排序链表中的重复元素/deleteDuplicates.py) |
 | 84 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 困难 | [Python](Algorithms/84.柱状图中最大的矩形/largestRectangleArea.py), [Python](Algorithms/84.柱状图中最大的矩形/largestRectangleArea_2.py) |
@@ -266,6 +267,7 @@
 | 529 | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/) | 中等 | [Python](Algorithms/529.扫雷游戏/updateBoard.py) |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | 简单 | [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference.py), [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference_2.py) |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 中等 | [Python](Algorithms/538.把二叉搜索树转换为累加树/convertBST.py) |
+| 543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | 简单 | [Python](Algorithms/543.二叉树的直径/diameterOfBinaryTree.py) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | 困难 | [Java](Algorithms/546.移除盒子/removeBoxes.java) |
 | 547 | [省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | 中等 | [Python](Algorithms/547.省份数量/findCircleNum.py), [Python](Algorithms/547.省份数量/findCircleNum_2.py), [Python](Algorithms/547.省份数量/findCircleNum_3.py) |
 | 556 | [下一个更大元素III](https://leetcode-cn.com/problems/next-greater-element-iii/) | 中等 | [Python](Algorithms/556.下一个更大元素III/nextGreaterElement.py) |
@@ -291,6 +293,7 @@
 | 679 | [24点游戏](https://leetcode-cn.com/problems/24-game/) | 困难 | [Python](Algorithms/679.24点游戏/judgePoint24.py) |
 | 684 | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | 中等 | [Python](Algorithms/684.冗余连接/findRedundantConnection.py) |
 | 685 | [冗余连接II](https://leetcode-cn.com/problems/redundant-connection-ii/) | 困难 | [Python](Algorithms/685.冗余连接II/findRedundantDirectedConnection.py) |
+| 687 | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) | 中等 | [Python](Algorithms/687.最长同值路径/longestUnivaluePath.py) |
 | 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | 中等 | [Python](Algorithms/695.岛屿的最大面积/maxAreaOfIsland.py), [Python](Algorithms/695.岛屿的最大面积/maxAreaOfIsland_2.py) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/) | 简单 | [Python](Algorithms/696.计数二进制子串/countBinarySubstrings.py) |
 | 697 | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 简单 | [Python](Algorithms/697.数组的度/findShortestSubArray.py) |
