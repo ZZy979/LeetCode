@@ -37,6 +37,7 @@
 | 38 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | 简单 | [Python](Algorithms/38.外观数列/countAndSay.py) |
 | 39 | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | 中等 | [Python](Algorithms/39.组合总和/combinationSum.py) |
 | 40 | [组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/) | 中等 | [Python](Algorithms/40.组合总和II/combinationSum2.py) |
+| 41 | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | 困难 |[Python](Algorithms/41.缺失的第一个正数/firstMissingPositive.py), [Python](Algorithms/41.缺失的第一个正数/firstMissingPositive_2.py) |
 | 42 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | 困难 | [Python](Algorithms/42.接雨水/trap.py), [Python](Algorithms/42.接雨水/trap_2.py) |
 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 中等 | [Python](Algorithms/43.字符串相乘/multiply.py) |
 | 44 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 困难 | [Python](Algorithms/44.通配符匹配/isMatch.py) |
@@ -52,7 +53,6 @@
 | 58 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 简单 | [Python](Algorithms/58.最后一个单词的长度/lengthOfLastWord.py) |
 | 59 | [螺旋矩阵II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 中等 | [Python](Algorithms/59.螺旋矩阵II/generateMatrix.py) |
 | 60 | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) | 困难 | [Python](Algorithms/60.第k个排列/getPermutation.py) |
-| 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | 中等 | [Python](Algorithms/61.旋转链表/rotateRight.py), [Python](Algorithms/61.旋转链表/rotateRight_2.py) |
 | 62 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | 中等 | [Python](Algorithms/62.不同路径/uniquePaths.py), [Python](Algorithms/62.不同路径/uniquePaths_2.py), [Python](Algorithms/62.不同路径/uniquePaths_3.py) |
 | 64 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 中等 | [Python](Algorithms/64.最小路径和/minPathSum.py) |
 | 66 | [加一](https://leetcode-cn.com/problems/plus-one/) | 简单 | [Python](Algorithms/66.加一/plusOne.py) |
@@ -62,6 +62,7 @@
 | 71 | [简化路径](https://leetcode-cn.com/problems/simplify-path/) | 中等 | [Python](Algorithms/71.简化路径/simplifyPath.py) |
 | 72 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 困难 | [Python](Algorithms/72.编辑距离/minDistance.py) |
 | 73 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 中等 | [Python](Algorithms/73.矩阵置零/setZeroes.py), [Python](Algorithms/73.矩阵置零/setZeroes_2.py) |
+| 74 | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 中等 | [Python](Algorithms/74.搜索二维矩阵/searchMatrix.py), [Python](Algorithms/74.搜索二维矩阵/searchMatrix_2.py) |
 | 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/submissions/) | 中等 | [Python](Algorithms/75.颜色分类/sortColors.py) |
 | 76 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | 困难 | [Python](Algorithms/76.最小覆盖子串/minWindow.py), [Python](Algorithms/76.最小覆盖子串/minWindow_2.py) |
 | 77 | [组合](https://leetcode-cn.com/problems/combinations/) | 中等 | [Python](Algorithms/77.组合/combine.py) |
@@ -73,6 +74,7 @@
 | 85 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 | [Java](Algorithms/85.最大矩形/maximalRectangle.java), [Java](Algorithms/85.最大矩形/maximalRectangle_2.java), [Java](Algorithms/85.最大矩形/maximalRectangle_3.java) |
 | 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 | [Python](Algorithms/86.分隔链表/partition.py), [Python](Algorithms/86.分隔链表/partition_2.py) |
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | [Python](Algorithms/88.合并两个有序数组/merge.py) |
+| 90 | [子集II](https://leetcode-cn.com/problems/subsets-ii/) | 中等 | [Python](Algorithms/90.子集II/subsetsWithDup.py) |
 | 92 | [反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 中等 | [Python](Algorithms/92.反转链表II/reverseBetween.py), [Python](Algorithms/92.反转链表II/reverseBetween_2.py) |
 | 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 中等 | [Python](Algorithms/93.复原IP地址/restoreIpAddresses.py), [Python](Algorithms/93.复原IP地址/restoreIpAddresses_2.py) |
 | 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | [Python](Algorithms/94.二叉树的中序遍历/inorderTraversal.py), [Python](Algorithms/94.二叉树的中序遍历/inorderTraversal_2.py) |
@@ -140,11 +142,10 @@
 | 169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | 简单 | [Python](Algorithms/169.多数元素/majorityElement.py), [Python](Algorithms/169.多数元素/majorityElement_2.py) |
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 简单 | [Python](Algorithms/171.Excel表列序号/titleToNumber.py) |
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 简单 | [Python](Algorithms/172.阶乘后的零/trailingZeroes.py) |
-| 173 | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | 中等 | [Python](Algorithms/173.二叉搜索树迭代器/BSTIterator.py), [Python](Algorithms/173.二叉搜索树迭代器/BSTIterator_2.py) |
 | 174 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 困难 | [Python](Algorithms/174.地下城游戏/calculateMinimumHP.py) |
 | 188 | [买卖股票的最佳时机IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | 困难 | [Python](Algorithms/188.买卖股票的最佳时机IV/maxProfit.py) |
 | 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 中等 | [Python](Algorithms/189.旋转数组/rotate.py), [Python](Algorithms/189.旋转数组/rotate_2.py) |
-| 190 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 | [Python](Algorithms/190.颠倒二进制位/reverseBits.py) |
+| 190 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 | [Java](Algorithms/190.颠倒二进制位/reverseBits.java), [Python](Algorithms/190.颠倒二进制位/reverseBits.py) |
 | 191 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 简单 | [Python](Algorithms/191.位1的个数/hammingWeight.py), [Python](Algorithms/191.位1的个数/hammingWeight_2.py) |
 | 198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 简单 | [Python](Algorithms/198.打家劫舍/rob.py) |
 | 200 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | 中等 | [Python](Algorithms/200.岛屿数量/numIslands.py), [Python](Algorithms/200.岛屿数量/numIslands_2.py) |
@@ -342,6 +343,7 @@
 | 995 | [K连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | 困难 | [Java](Algorithms/995.K连续位的最小翻转次数/minKBitFlips.java), [Java](Algorithms/995.K连续位的最小翻转次数/minKBitFlips_2.java), [Java](Algorithms/995.K连续位的最小翻转次数/minKBitFlips_3.java) |
 | 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | 简单 | [Python](Algorithms/1002.查找常用字符/commonChars.py), [Python](Algorithms/1002.查找常用字符/commonChars_2.py) |
 | 1004 | [最大连续1的个数III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | 中等 | [Python](Algorithms/1004.最大连续1的个数III/longestOnes.py) |
+| 1006 | [笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/) | 中等 | [Python](Algorithms/1006.笨阶乘/clumsy.py), [Python](Algorithms/1006.笨阶乘/clumsy_2.py), [Python](Algorithms/1006.笨阶乘/clumsy_3.py) |
 | 1008 | [前序遍历构造二叉搜索树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 中等 | [Python](Algorithms/1008.前序遍历构造二叉搜索树/bstFromPreorder.py), [Python](Algorithms/1008.前序遍历构造二叉搜索树/bstFromPreorder_2.py), [Python](Algorithms/1008.前序遍历构造二叉搜索树/bstFromPreorder_3.py) |
 | 1018 | [可被5整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | 简单 | [Python](Algorithms/1018.可被5整除的二进制前缀/prefixesDivBy5.py) |
 | 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 中等 | [Python](Algorithms/1024.视频拼接/videoStitching.py), [Python](Algorithms/1024.视频拼接/videoStitching_2.py) |
@@ -460,6 +462,7 @@
 | 16.6 | [最小差](https://leetcode-cn.com/problems/smallest-difference-lcci/) | 中等 | [Python](程序员面试金典/16.6最小差/smallestDifference.py), [Python](程序员面试金典/16.6最小差/smallestDifference_2.py) |
 | 16.7 | [最大数值](https://leetcode-cn.com/problems/maximum-lcci/) | 简单 | [Java](程序员面试金典/16.7最大数值/maximum.java), [Java](程序员面试金典/16.7最大数值/maximum_2.java) |
 | 16.8 | [整数的英语表示](https://leetcode-cn.com/problems/english-int-lcci/) | 困难 | [Python](程序员面试金典/16.8整数的英语表示/numberToWords.py), [Python](程序员面试金典/16.8整数的英语表示/numberToWords_2.py) |
+| 17.21 | [直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | 困难 | [Python](程序员面试金典/17.21直方图的水量/trap.py), [Python](程序员面试金典/17.21直方图的水量/trap_2.py), [Python](程序员面试金典/17.21直方图的水量/trap_3.py) |
 
 ## [剑指Offer](https://leetcode-cn.com/problemset/lcof/)
 | # | 题名 | 难度 | 解答 |
