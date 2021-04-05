@@ -313,6 +313,7 @@
 | 767 | [重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | 中等 | [Python](Algorithms/767.重构字符串/reorganizeString.py), [Python](Algorithms/767.重构字符串/reorganizeString_2.py), [Python](Algorithms/767.重构字符串/reorganizeString_3.py) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | 简单 | [Python](Algorithms/771.宝石与石头/numJewelsInStones.py) |
 | 778 | [水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/) | 困难 | [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater.py), [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater_2.py), [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater_3.py), [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater_4.py) |
+| 781 | [森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | 中等 | [Python](Algorithms/781.森林中的兔子/numRabbits.py), [Python](Algorithms/781.森林中的兔子/numRabbits_2.py) |
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785.判断二分图/isBipartite.py) |
 | 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | 困难 | [Java](Algorithms/803.打砖块/hitBricks.java), [Java](Algorithms/803.打砖块/hitBricks_2.java), [Python](Algorithms/803.打砖块/hitBricks.py) |
 | 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | 简单 | [Python](Algorithms/830.较大分组的位置/largeGroupPositions.py), [Python](Algorithms/830.较大分组的位置/largeGroupPositions_2.py) |
@@ -360,6 +361,7 @@
 | 1122 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | 简单 | [Java](Algorithms/1122.数组的相对排序/relativeSortArray.java), [Python](Algorithms/1122.数组的相对排序/relativeSortArray.py) |
 | 1128 | [等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | 简单 | [Python](Algorithms/1128.等价多米诺骨牌对的数量/numEquivDominoPairs.py) |
 | 1137 | [第N个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | 简单 | [Python](Algorithms/1137.第N个泰波那契数/tribonacci.py) |
+| 1143 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | 中等 | [Python](Algorithms/1143.最长公共子序列/longestCommonSubsequence.py) |
 | 1178 | [猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | 困难 | [Python](Algorithms/1178.猜字谜/findNumOfValidWords.py), [Python](Algorithms/1178.猜字谜/findNumOfValidWords_2.py) |
 | 1202 | [交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | 中等 | [Python](Algorithms/1202.交换字符串中的元素/smallestStringWithSwaps.py) |
 | 1203 | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | 困难 | [Python](Algorithms/1203.项目管理/sortItems.py) |
