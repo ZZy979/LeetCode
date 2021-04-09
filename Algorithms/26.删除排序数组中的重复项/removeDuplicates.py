@@ -7,5 +7,4 @@ class Solution:
             if nums[p] > nums[q]:
                 q += 1
                 nums[q] = nums[p]
-        del nums[q + 1:]
         return q + 1
