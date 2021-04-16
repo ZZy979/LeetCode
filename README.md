@@ -75,6 +75,7 @@
 | 84 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 困难 | [Python](Algorithms/84.柱状图中最大的矩形/largestRectangleArea.py), [Python](Algorithms/84.柱状图中最大的矩形/largestRectangleArea_2.py) |
 | 85 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 | [Java](Algorithms/85.最大矩形/maximalRectangle.java), [Java](Algorithms/85.最大矩形/maximalRectangle_2.java), [Java](Algorithms/85.最大矩形/maximalRectangle_3.java) |
 | 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 | [Python](Algorithms/86.分隔链表/partition.py), [Python](Algorithms/86.分隔链表/partition_2.py) |
+| 87 | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 | [Python](Algorithms/87.扰乱字符串/isScramble.py), [Python](Algorithms/87.扰乱字符串/isScramble_2.py) |
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | [Python](Algorithms/88.合并两个有序数组/merge.py) |
 | 90 | [子集II](https://leetcode-cn.com/problems/subsets-ii/) | 中等 | [Python](Algorithms/90.子集II/subsetsWithDup.py) |
 | 92 | [反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 中等 | [Python](Algorithms/92.反转链表II/reverseBetween.py), [Python](Algorithms/92.反转链表II/reverseBetween_2.py) |
@@ -145,6 +146,7 @@
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 简单 | [Python](Algorithms/171.Excel表列序号/titleToNumber.py) |
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 简单 | [Python](Algorithms/172.阶乘后的零/trailingZeroes.py) |
 | 174 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 困难 | [Python](Algorithms/174.地下城游戏/calculateMinimumHP.py) |
+| 179 | [最大数](https://leetcode-cn.com/problems/largest-number/) | 中等 | [Python](Algorithms/179.最大数/largestNumber.py) |
 | 188 | [买卖股票的最佳时机IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | 困难 | [Python](Algorithms/188.买卖股票的最佳时机IV/maxProfit.py) |
 | 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 中等 | [Python](Algorithms/189.旋转数组/rotate.py), [Python](Algorithms/189.旋转数组/rotate_2.py) |
 | 190 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 | [Java](Algorithms/190.颠倒二进制位/reverseBits.java), [Python](Algorithms/190.颠倒二进制位/reverseBits.py) |
@@ -315,6 +317,7 @@
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | 简单 | [Python](Algorithms/771.宝石与石头/numJewelsInStones.py) |
 | 778 | [水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/) | 困难 | [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater.py), [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater_2.py), [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater_3.py), [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater_4.py) |
 | 781 | [森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | 中等 | [Python](Algorithms/781.森林中的兔子/numRabbits.py), [Python](Algorithms/781.森林中的兔子/numRabbits_2.py) |
+| 783 | [二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | 简单 | [Python](Algorithms/783.二叉搜索树节点最小距离/minDiffInBST.py) |
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785.判断二分图/isBipartite.py) |
 | 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | 困难 | [Java](Algorithms/803.打砖块/hitBricks.java), [Java](Algorithms/803.打砖块/hitBricks_2.java), [Python](Algorithms/803.打砖块/hitBricks.py) |
 | 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | 简单 | [Python](Algorithms/830.较大分组的位置/largeGroupPositions.py), [Python](Algorithms/830.较大分组的位置/largeGroupPositions_2.py) |
