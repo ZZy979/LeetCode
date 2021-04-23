@@ -27,7 +27,7 @@
 | 25 | [K个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | 困难 | [Python](Algorithms/25.K个一组翻转链表/reverseKGroup.py) |
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [Python](Algorithms/26.删除排序数组中的重复项/removeDuplicates.py) |
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 | [Python](Algorithms/27.移除元素/removeElement.py), [Python](Algorithms/27.移除元素/removeElement_2.py) |
-| 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 | [Python](Algorithms/28.实现strStr()/strStr.py) |
+| 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 | [Python](Algorithms/28.实现strStr()/strStr.py), [Python](Algorithms/28.实现strStr()/strStr_2.py) |
 | 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | 中等 | [Python](Algorithms/31.下一个排列/nextPermutation.py) |
 | 32 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 困难 | [Python](Algorithms/32.最长有效括号/longestValidParentheses.py) |
 | 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 中等 | [Python](Algorithms/33.搜索旋转排序数组/search.py) |
@@ -78,6 +78,7 @@
 | 87 | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 | [Python](Algorithms/87.扰乱字符串/isScramble.py), [Python](Algorithms/87.扰乱字符串/isScramble_2.py) |
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | [Python](Algorithms/88.合并两个有序数组/merge.py) |
 | 90 | [子集II](https://leetcode-cn.com/problems/subsets-ii/) | 中等 | [Python](Algorithms/90.子集II/subsetsWithDup.py) |
+| 91 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | 中等 | [Python](Algorithms/91.解码方法/numDecodings.py) |
 | 92 | [反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 中等 | [Python](Algorithms/92.反转链表II/reverseBetween.py), [Python](Algorithms/92.反转链表II/reverseBetween_2.py) |
 | 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 中等 | [Python](Algorithms/93.复原IP地址/restoreIpAddresses.py), [Python](Algorithms/93.复原IP地址/restoreIpAddresses_2.py) |
 | 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | [Python](Algorithms/94.二叉树的中序遍历/inorderTraversal.py), [Python](Algorithms/94.二叉树的中序遍历/inorderTraversal_2.py) |
@@ -224,7 +225,9 @@
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | 简单 | [Java](Algorithms/349.两个数组的交集/intersection.java), [Python](Algorithms/349.两个数组的交集/intersection.py) |
 | 350 | [两个数组的交集II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | 简单 | [Python](Algorithms/350.两个数组的交集II/intersect.py) |
 | 354 | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) | 困难 | [Python](Algorithms/354.俄罗斯套娃信封问题/maxEnvelopes.py), [Python](Algorithms/354.俄罗斯套娃信封问题/maxEnvelopes_2.py) |
+| 363 | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | 困难 | [Java](Algorithms/363.矩形区域不超过K的最大数值和/maxSumSubmatrix.java) |
 | 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | 简单 | [Python](Algorithms/367.有效的完全平方数/isPerfectSquare.py), [Python](Algorithms/367.有效的完全平方数/isPerfectSquare_2.py) |
+| 368 | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | 中等 | [Python](Algorithms/368.最大整除子集/largestDivisibleSubset.py), [Python](Algorithms/368.最大整除子集/largestDivisibleSubset_2.py) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | 简单 | [Python](Algorithms/374.猜数字大小/guessNumber.py) |
 | 376 | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) | 中等 | [Python](Algorithms/376.摆动序列/wiggleMaxLength.py), [Python](Algorithms/376.摆动序列/wiggleMaxLength_2.py), [Python](Algorithms/376.摆动序列/wiggleMaxLength_3.py) |
 | 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | 中等 | [Python](Algorithms/380.常数时间插入、删除和获取随机元素/RandomizedSet.py) |
