@@ -1,7 +1,10 @@
+from collections import Counter
+
+# 哈希表，时间复杂度O(n)，空间复杂度O(n)
+# 40 ms
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        ones, twos = 0, 0
-        for num in nums:
-            ones = ones ^ num & ~twos
-            twos = twos ^ num & ~ones
-        return ones
+        c = Counter(nums)
+        for x in nums:
+            if c[x] == 1:
+                return x
