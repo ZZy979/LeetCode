@@ -280,6 +280,7 @@
 | 543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | 简单 | [Python](Algorithms/543.二叉树的直径/diameterOfBinaryTree.py) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | 困难 | [Java](Algorithms/546.移除盒子/removeBoxes.java) |
 | 547 | [省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | 中等 | [Python](Algorithms/547.省份数量/findCircleNum.py), [Python](Algorithms/547.省份数量/findCircleNum_2.py), [Python](Algorithms/547.省份数量/findCircleNum_3.py) |
+| 554 | [砖墙](https://leetcode-cn.com/problems/brick-wall/) | 中等 | [Python](Algorithms/554.砖墙/leastBricks.py) |
 | 556 | [下一个更大元素III](https://leetcode-cn.com/problems/next-greater-element-iii/) | 中等 | [Python](Algorithms/556.下一个更大元素III/nextGreaterElement.py) |
 | 557 | [反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 简单 | [Python](Algorithms/557.反转字符串中的单词III/reverseWords.py) |
 | 561 | [数组拆分I](https://leetcode-cn.com/problems/array-partition-i/) | 简单 | [Python](Algorithms/561.数组拆分I/arrayPairSum.py) |
@@ -305,6 +306,7 @@
 | 684 | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | 中等 | [Python](Algorithms/684.冗余连接/findRedundantConnection.py) |
 | 685 | [冗余连接II](https://leetcode-cn.com/problems/redundant-connection-ii/) | 困难 | [Python](Algorithms/685.冗余连接II/findRedundantDirectedConnection.py) |
 | 687 | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) | 中等 | [Python](Algorithms/687.最长同值路径/longestUnivaluePath.py) |
+| 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/) | 简单 | [Python](Algorithms/690.员工的重要性/getImportance.py) |
 | 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | 中等 | [Python](Algorithms/695.岛屿的最大面积/maxAreaOfIsland.py), [Python](Algorithms/695.岛屿的最大面积/maxAreaOfIsland_2.py) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/) | 简单 | [Python](Algorithms/696.计数二进制子串/countBinarySubstrings.py) |
 | 697 | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 简单 | [Python](Algorithms/697.数组的度/findShortestSubArray.py) |
@@ -317,6 +319,7 @@
 | 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | 简单 | [Python](Algorithms/724.寻找数组的中心索引/pivotIndex.py), [Python](Algorithms/724.寻找数组的中心索引/pivotIndex_2.py) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | 简单 | [Python](Algorithms/733.图像渲染/floodFill.py) |
 | 738 | [单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/) | 中等 | [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_2.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_3.py) |
+| 740 | [删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | 中等 | [Python](Algorithms/740.删除并获得点数/deleteAndEarn.py) |
 | 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | 简单 | [Python](Algorithms/746.使用最小花费爬楼梯/minCostClimbingStairs.py) |
 | 763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 中等 | [Python](Algorithms/763.划分字母区间/partitionLabels.py), [Python](Algorithms/763.划分字母区间/partitionLabels_2.py) |
 | 765 | [情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/) | 困难 | [Python](Algorithms/765.情侣牵手/minSwapsCouples.py), [Python](Algorithms/765.情侣牵手/minSwapsCouples_2.py) |
@@ -389,6 +392,7 @@
 | 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | 简单 | [Java](Algorithms/1370.上升下降字符串/sortString.java), [Python](Algorithms/1370.上升下降字符串/sortString.py) |
 | 1423 | [可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | 中等 | [Python](Algorithms/1423.可获得的最大点数/maxScore.py) |
 | 1438 | [绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 中等 | [Java](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray.java), [Java](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray_2.java), [Python](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray.py) |
+| 1473 | [粉刷房子III](https://leetcode-cn.com/problems/paint-house-iii/) | 困难 | [Python](Algorithms/1473.粉刷房子III/minCost.py) |
 | 1489 | [找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 困难 | [Python](Algorithms/1489.找到最小生成树里的关键边和伪关键边/findCriticalAndPseudoCriticalEdges.py) |
 | 1579 | [保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | 困难 | [Python](Algorithms/1579.保证图可完全遍历/maxNumEdgesToRemove.py) |
 | 1584 | [连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | 中等 | [Python](Algorithms/1584.连接所有点的最小费用/minCostConnectPoints.py) |
