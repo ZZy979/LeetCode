@@ -308,6 +308,7 @@
 | 685 | [冗余连接II](https://leetcode-cn.com/problems/redundant-connection-ii/) | 困难 | [Python](Algorithms/685.冗余连接II/findRedundantDirectedConnection.py) |
 | 687 | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) | 中等 | [Python](Algorithms/687.最长同值路径/longestUnivaluePath.py) |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/) | 简单 | [Python](Algorithms/690.员工的重要性/getImportance.py) |
+| 692 | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) | 中等 | [Python](Algorithms/692.前K个高频单词/topKFrequent.py), [Python](Algorithms/692.前K个高频单词/topKFrequent_2.py), [Python](Algorithms/692.前K个高频单词/topKFrequent_3.py) |
 | 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | 中等 | [Python](Algorithms/695.岛屿的最大面积/maxAreaOfIsland.py), [Python](Algorithms/695.岛屿的最大面积/maxAreaOfIsland_2.py) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/) | 简单 | [Python](Algorithms/696.计数二进制子串/countBinarySubstrings.py) |
 | 697 | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 简单 | [Python](Algorithms/697.数组的度/findShortestSubArray.py) |
@@ -363,6 +364,7 @@
 | 978 | [最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | 中等 | [Python](Algorithms/978.最长湍流子数组/maxTurbulenceSize.py), [Python](Algorithms/978.最长湍流子数组/maxTurbulenceSize_2.py) |
 | 989 | [数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | 简单 | [Java](Algorithms/989.数组形式的整数加法/addToArrayForm.java), [Python](Algorithms/989.数组形式的整数加法/addToArrayForm.py) |
 | 992 | [K个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | 困难 | [Python](Algorithms/992.K个不同整数的子数组/subarraysWithKDistinct.py), [Python](Algorithms/992.K个不同整数的子数组/subarraysWithKDistinct_2.py) |
+| 993 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | 简单 | [Python](Algorithms/993.二叉树的堂兄弟节点/isCousins.py) |
 | 995 | [K连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | 困难 | [Java](Algorithms/995.K连续位的最小翻转次数/minKBitFlips.java), [Java](Algorithms/995.K连续位的最小翻转次数/minKBitFlips_2.java), [Java](Algorithms/995.K连续位的最小翻转次数/minKBitFlips_3.java) |
 | 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | 简单 | [Python](Algorithms/1002.查找常用字符/commonChars.py), [Python](Algorithms/1002.查找常用字符/commonChars_2.py) |
 | 1004 | [最大连续1的个数III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | 中等 | [Python](Algorithms/1004.最大连续1的个数III/longestOnes.py) |
@@ -373,6 +375,7 @@
 | 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 中等 | [Python](Algorithms/1024.视频拼接/videoStitching.py), [Python](Algorithms/1024.视频拼接/videoStitching_2.py) |
 | 1025 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/) | 简单 | [Python](Algorithms/1025.除数博弈/divisorGame.py) |
 | 1030 | [距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | 简单 | [Python](Algorithms/1030.距离顺序排列矩阵单元格/allCellsDistOrder.py), [Python](Algorithms/1030.距离顺序排列矩阵单元格/allCellsDistOrder_2.py) |
+| 1035 | [不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/) | 中等 | [Python](Algorithms/1035.不相交的线/maxUncrossedLines.py) |
 | 1038 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 中等 | [Python](Algorithms/1038.把二叉搜索树转换为累加树/bstToGst.py) |
 | 1046 | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | 简单 | [Python](Algorithms/1046.最后一块石头的重量/lastStoneWeight.py) |
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | 简单 | [Python](Algorithms/1047.删除字符串中的所有相邻重复项/removeDuplicates.py), [Python](Algorithms/1047.删除字符串中的所有相邻重复项/removeDuplicates_2.py) |
@@ -396,6 +399,7 @@
 | 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | 简单 | [Java](Algorithms/1370.上升下降字符串/sortString.java), [Python](Algorithms/1370.上升下降字符串/sortString.py) |
 | 1423 | [可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | 中等 | [Python](Algorithms/1423.可获得的最大点数/maxScore.py) |
 | 1438 | [绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 中等 | [Java](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray.java), [Java](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray_2.java), [Python](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray.py) |
+| 1442 | [形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | 中等 | [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets.py), [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets_2.py), [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets_3.py) |
 | 1473 | [粉刷房子III](https://leetcode-cn.com/problems/paint-house-iii/) | 困难 | [Python](Algorithms/1473.粉刷房子III/minCost.py) |
 | 1482 | [制作m束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 中等 | [Python](Algorithms/1482.制作m束花所需的最少天数/minDays.py) |
 | 1486 | [数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | 简单 | [Python](Algorithms/1486.数组异或操作/xorOperation.py), [Python](Algorithms/1486.数组异或操作/xorOperation_2.py) |
@@ -407,6 +411,7 @@
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | 简单 | [Python](Algorithms/1720.解码异或后的数组/decode.py) |
 | 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | 困难 | [Python](Algorithms/1723.完成所有工作的最短时间/minimumTimeRequired.py) |
 | 1734 | [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | 中等 | [Python](Algorithms/1734.解码异或后的排列/decode.py) |
+| 1738 | [找出第K大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | 中等 | [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue.py), [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue_2.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19.秋叶收藏集/minimumOperations.py) |
 
