@@ -251,7 +251,7 @@
 | 414 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | 简单 | [Python](Algorithms/414.第三大的数/thirdMax.py) |
 | 415 | [字符串相加](https://leetcode-cn.com/problems/add-strings/) | 简单 | [Python](Algorithms/415.字符串相加/addStrings.py) |
 | 416 | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 中等 | [Python](Algorithms/416.分割等和子集/canPartition.py), [Python](Algorithms/416.分割等和子集/canPartition_2.py) |
-| 421 | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | 中等 | [Python](Algorithms/421.数组中两个数的最大异或值/findMaximumXOR.py) |
+| 421 | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | 中等 | [Python](Algorithms/421.数组中两个数的最大异或值/findMaximumXOR.py), [Python](Algorithms/421.数组中两个数的最大异或值/findMaximumXOR_2.py) |
 | 424 | [替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | 中等 | [Python](Algorithms/424.替换后的最长重复字符/characterReplacement.py) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 简单 | [Python](Algorithms/434.字符串中的单词数/countSegments.py) |
 | 435 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) | 中等 | [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals.py), [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals_2.py), [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals_3.py) |
@@ -333,6 +333,7 @@
 | 783 | [二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | 简单 | [Python](Algorithms/783.二叉搜索树节点最小距离/minDiffInBST.py) |
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785.判断二分图/isBipartite.py) |
 | 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | 困难 | [Java](Algorithms/803.打砖块/hitBricks.java), [Java](Algorithms/803.打砖块/hitBricks_2.java), [Python](Algorithms/803.打砖块/hitBricks.py) |
+| 810 | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 困难 | [Python](Algorithms/810.黑板异或游戏/xorGame.py) |
 | 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | 简单 | [Python](Algorithms/830.较大分组的位置/largeGroupPositions.py), [Python](Algorithms/830.较大分组的位置/largeGroupPositions_2.py) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/) | 简单 | [Python](Algorithms/832.翻转图像/flipAndInvertImage.py) |
 | 834 | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | 困难 | [C++](Algorithms/834.树中距离之和/sumOfDistancesInTree.cpp) |
@@ -408,6 +409,7 @@
 | 1584 | [连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | 中等 | [Python](Algorithms/1584.连接所有点的最小费用/minCostConnectPoints.py) |
 | 1603 | [设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) | 简单 | [Python](Algorithms/1603.设计停车系统/ParkingSystem.py) |
 | 1631 | [最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 中等 | [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_2.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_3.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_4.py) |
+| 1707 | [与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 | [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor.py), [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor_2.py) |
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | 简单 | [Python](Algorithms/1720.解码异或后的数组/decode.py) |
 | 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | 困难 | [Python](Algorithms/1723.完成所有工作的最短时间/minimumTimeRequired.py) |
 | 1734 | [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | 中等 | [Python](Algorithms/1734.解码异或后的排列/decode.py) |
