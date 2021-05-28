@@ -263,8 +263,10 @@
 | 455 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | 简单 | [Python](Algorithms/455.分发饼干/findContentChildren.py) |
 | 456 | [132模式](https://leetcode-cn.com/problems/132-pattern/) | 中等 | [Python](Algorithms/456.132模式/find132pattern.py) |
 | 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) | 简单 | [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern.py), [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern_2.py) |
+| 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | 简单 | [Python](Algorithms/461.汉明距离/hammingDistance.py) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | 简单 | [Python](Algorithms/463.岛屿的周长/islandPerimeter.py) |
 | 475 | [供暖器](https://leetcode-cn.com/problems/heaters/) | 中等 | [Python](Algorithms/475.供暖器/findRadius.py) |
+| 477 | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) | 中等 | [Python](Algorithms/477.汉明距离总和/totalHammingDistance.py) |
 | 480 | [滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/) | 困难 | [Python](Algorithms/480.滑动窗口中位数/medianSlidingWindow.py), [Python](Algorithms/480.滑动窗口中位数/medianSlidingWindow_2.py) |
 | 485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | 简单 | [Python](Algorithms/485.最大连续1的个数/findMaxConsecutiveOnes.py) |
 | 486 | [预测赢家](https://leetcode-cn.com/problems/predict-the-winner/) | 中等 | [Python](Algorithms/486.预测赢家/PredictTheWinner.py), [Python](Algorithms/486.预测赢家/PredictTheWinner_2.py), [Python](Algorithms/486.预测赢家/PredictTheWinner_3.py) |
@@ -301,6 +303,7 @@
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | 简单 | [Python](Algorithms/657.机器人能否返回原点/judgeCircle.py), [Python](Algorithms/657.机器人能否返回原点/judgeCircle_2.py) |
 | 658 | [找到K个最接近的元素](https://leetcode-cn.com/problems/find-k-closest-elements/) | 中等 | [Python](Algorithms/658.找到K个最接近的元素/findClosestElements.py) |
 | 659 | [分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | 中等 | [Python](Algorithms/659.分割数组为连续子序列/isPossible.py), [Python](Algorithms/659.分割数组为连续子序列/isPossible_2.py) |
+| 664 | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) | 困难 | [Python](Algorithms/664.奇怪的打印机/strangePrinter.py) |
 | 665 | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) | 简单 | [Python](Algorithms/665.非递减数列/checkPossibility.py), [Python](Algorithms/665.非递减数列/checkPossibility_2.py) |
 | 674 | [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | 简单 | [Python](Algorithms/674.最长连续递增序列/findLengthOfLCIS.py) |
 | 679 | [24点游戏](https://leetcode-cn.com/problems/24-game/) | 困难 | [Python](Algorithms/679.24点游戏/judgePoint24.py) |
@@ -387,6 +390,7 @@
 | 1137 | [第N个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | 简单 | [Python](Algorithms/1137.第N个泰波那契数/tribonacci.py) |
 | 1143 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | 中等 | [Python](Algorithms/1143.最长公共子序列/longestCommonSubsequence.py) |
 | 1178 | [猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | 困难 | [Python](Algorithms/1178.猜字谜/findNumOfValidWords.py), [Python](Algorithms/1178.猜字谜/findNumOfValidWords_2.py) |
+| 1190 | [反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 中等 | [Python](Algorithms/1190.反转每对括号间的子串/reverseParentheses.py) |
 | 1202 | [交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | 中等 | [Python](Algorithms/1202.交换字符串中的元素/smallestStringWithSwaps.py) |
 | 1203 | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | 困难 | [Python](Algorithms/1203.项目管理/sortItems.py) |
 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | 简单 | [Python](Algorithms/1207.独一无二的出现次数/uniqueOccurrences.py) |
@@ -414,6 +418,7 @@
 | 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | 困难 | [Python](Algorithms/1723.完成所有工作的最短时间/minimumTimeRequired.py) |
 | 1734 | [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | 中等 | [Python](Algorithms/1734.解码异或后的排列/decode.py) |
 | 1738 | [找出第K大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | 中等 | [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue.py), [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue_2.py) |
+| 1787 | [使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | 困难 | [Python](Algorithms/1787.使所有区间的异或结果为零/minChanges.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19.秋叶收藏集/minimumOperations.py) |
 
