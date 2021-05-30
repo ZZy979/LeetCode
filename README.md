@@ -286,6 +286,7 @@
 | 554 | [砖墙](https://leetcode-cn.com/problems/brick-wall/) | 中等 | [Python](Algorithms/554.砖墙/leastBricks.py) |
 | 556 | [下一个更大元素III](https://leetcode-cn.com/problems/next-greater-element-iii/) | 中等 | [Python](Algorithms/556.下一个更大元素III/nextGreaterElement.py) |
 | 557 | [反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 简单 | [Python](Algorithms/557.反转字符串中的单词III/reverseWords.py) |
+| 560 | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | 中等 | [Python](Algorithms/560.和为K的子数组/subarraySum.py) |
 | 561 | [数组拆分I](https://leetcode-cn.com/problems/array-partition-i/) | 简单 | [Python](Algorithms/561.数组拆分I/arrayPairSum.py) |
 | 566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) | 简单 | [Python](Algorithms/566.重塑矩阵/matrixReshape.py) |
 | 567 | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | 中等 | [Python](Algorithms/567.字符串的排列/checkInclusion.py), [Python](Algorithms/567.字符串的排列/checkInclusion_2.py) |
@@ -384,6 +385,7 @@
 | 1046 | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | 简单 | [Python](Algorithms/1046.最后一块石头的重量/lastStoneWeight.py) |
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | 简单 | [Python](Algorithms/1047.删除字符串中的所有相邻重复项/removeDuplicates.py), [Python](Algorithms/1047.删除字符串中的所有相邻重复项/removeDuplicates_2.py) |
 | 1052 | [爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) | 中等 | [Python](Algorithms/1052.爱生气的书店老板/maxSatisfied.py), [Python](Algorithms/1052.爱生气的书店老板/maxSatisfied_2.py) |
+| 1074 | [元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/) | 困难 | [Python](Algorithms/1074.元素和为目标值的子矩阵数量/numSubmatrixSumTarget.py) |
 | 1081 | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/) | 中等 | [Python](Algorithms/1081.不同字符的最小子序列/smallestSubsequence.py) |
 | 1122 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | 简单 | [Java](Algorithms/1122.数组的相对排序/relativeSortArray.java), [Python](Algorithms/1122.数组的相对排序/relativeSortArray.py) |
 | 1128 | [等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | 简单 | [Python](Algorithms/1128.等价多米诺骨牌对的数量/numEquivDominoPairs.py) |
