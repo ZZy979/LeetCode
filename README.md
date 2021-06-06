@@ -218,7 +218,7 @@
 | 337 | [打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/) | 中等 | [Python](Algorithms/337.打家劫舍III/rob.py), [Python](Algorithms/337.打家劫舍III/rob_2.py) |
 | 338 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | 中等 | [Python](Algorithms/338.比特位计数/countBits.py), [Python](Algorithms/338.比特位计数/countBits_2.py), [Python](Algorithms/338.比特位计数/countBits_3.py) |
 | 341 | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | 中等 | [Java](Algorithms/341.扁平化嵌套列表迭代器/NestedIterator.java), [Java](Algorithms/341.扁平化嵌套列表迭代器/NestedIterator_2.java), [Python](Algorithms/341.扁平化嵌套列表迭代器/NestedIterator.py), [Python](Algorithms/341.扁平化嵌套列表迭代器/NestedIterator_2.py), [Python](Algorithms/341.扁平化嵌套列表迭代器/NestedIterator_3.py) |
-| 342 | [4的幂](https://leetcode-cn.com/problems/power-of-four/) | 简单 | [Python](Algorithms/342.4的幂/isPowerOfFour.py) |
+| 342 | [4的幂](https://leetcode-cn.com/problems/power-of-four/) | 简单 | [Python](Algorithms/342.4的幂/isPowerOfFour.py), [Python](Algorithms/342.4的幂/isPowerOfFour_2.py), [Python](Algorithms/342.4的幂/isPowerOfFour_3.py) |
 | 343 | [整数拆分](https://leetcode-cn.com/problems/integer-break/) | 中等 | [Python](Algorithms/343.整数拆分/integerBreak.py), [Python](Algorithms/343.整数拆分/integerBreak_2.py), [Python](Algorithms/343.整数拆分/integerBreak_3.py), [Python](Algorithms/343.整数拆分/integerBreak_4.py) |
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | 简单 | [Python](Algorithms/344.反转字符串/reverseString.py), [Python](Algorithms/344.反转字符串/reverseString_2.py) |
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | 简单 | [Python](Algorithms/345.反转字符串中的元音字母/reverseVowels.py) |
@@ -265,6 +265,7 @@
 | 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) | 简单 | [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern.py), [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern_2.py) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | 简单 | [Python](Algorithms/461.汉明距离/hammingDistance.py) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | 简单 | [Python](Algorithms/463.岛屿的周长/islandPerimeter.py) |
+| 474 | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) | 中等 | [Python](Algorithms/474.一和零/findMaxForm.py) |
 | 475 | [供暖器](https://leetcode-cn.com/problems/heaters/) | 中等 | [Python](Algorithms/475.供暖器/findRadius.py) |
 | 477 | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) | 中等 | [Python](Algorithms/477.汉明距离总和/totalHammingDistance.py) |
 | 480 | [滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/) | 困难 | [Python](Algorithms/480.滑动窗口中位数/medianSlidingWindow.py), [Python](Algorithms/480.滑动窗口中位数/medianSlidingWindow_2.py) |
@@ -277,6 +278,8 @@
 | 503 | [下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/) | 中等 | [Python](Algorithms/503.下一个更大元素II/nextGreaterElements.py), [Python](Algorithms/503.下一个更大元素II/nextGreaterElements_2.py) |
 | 509 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | 简单 | [Python](Algorithms/509.斐波那契数/fib.py), [Python](Algorithms/509.斐波那契数/fib_2.py) |
 | 514 | [自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 | [Java](Algorithms/514.自由之路/findRotateSteps.java), [Python](Algorithms/514.自由之路/findRotateSteps.py) |
+| 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | 中等 | [Python](Algorithms/523.连续的子数组和/checkSubarraySum.py), [Python](Algorithms/523.连续的子数组和/checkSubarraySum_2.py) |
+| 525 | [连续数组](https://leetcode-cn.com/problems/contiguous-array/) | 中等 | [Python](Algorithms/525.连续数组/findMaxLength.py) |
 | 529 | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/) | 中等 | [Python](Algorithms/529.扫雷游戏/updateBoard.py) |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | 简单 | [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference.py), [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference_2.py) |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 中等 | [Python](Algorithms/538.把二叉搜索树转换为累加树/convertBST.py) |
@@ -420,6 +423,7 @@
 | 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | 困难 | [Python](Algorithms/1723.完成所有工作的最短时间/minimumTimeRequired.py) |
 | 1734 | [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | 中等 | [Python](Algorithms/1734.解码异或后的排列/decode.py) |
 | 1738 | [找出第K大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | 中等 | [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue.py), [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue_2.py) |
+| 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 中等 | [Python](Algorithms/1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？/canEat.py) |
 | 1787 | [使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | 困难 | [Python](Algorithms/1787.使所有区间的异或结果为零/minChanges.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19.秋叶收藏集/minimumOperations.py) |
