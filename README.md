@@ -195,6 +195,7 @@
 | 264 | [丑数II](https://leetcode-cn.com/problems/ugly-number-ii/) | 中等 | [Python](Algorithms/264.丑数II/nthUglyNumber.py) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | 简单 | [Python](Algorithms/268.缺失数字/missingNumber.py) |
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 简单 | [Python](Algorithms/278.第一个错误的版本/firstBadVersion.py) |
+| 279 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 中等 | [Python](Algorithms/279.完全平方数/numSquares.py), [Python](Algorithms/279.完全平方数/numSquares_2.py) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 | [Python](Algorithms/283.移动零/moveZeroes.py) |
 | 290 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | 简单 | [Python](Algorithms/290.单词规律/wordPattern.py) |
 | 295 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | 困难 | [Python](Algorithms/295.数据流的中位数/MedianFinder.py) |
@@ -207,6 +208,7 @@
 | 315 | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | 困难 | [Python](Algorithms/315.计算右侧小于当前元素的个数/countSmaller.py) |
 | 316 | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) | 中等 | [Python](Algorithms/316.去除重复字母/removeDuplicateLetters.py) |
 | 321 | [拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | 困难 | [Java](Algorithms/321.拼接最大数/maxNumber.java) |
+| 322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | 中等 | [Python](Algorithms/322.零钱兑换/coinChange.py) |
 | 326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | 简单 | [Python](Algorithms/326.3的幂/isPowerOfThree.py) |
 | 327 | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) | 困难 | [Java](Algorithms/327.区间和的个数/countRangeSum.java), [Java](Algorithms/327.区间和的个数/countRangeSum_2.java), [Java](Algorithms/327.区间和的个数/countRangeSum_3.java), [Java](Algorithms/327.区间和的个数/countRangeSum_4.java), [Java](Algorithms/327.区间和的个数/countRangeSum_5.java) |
 | 328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 中等 | [Python](Algorithms/328.奇偶链表/oddEvenList.py), [Python](Algorithms/328.奇偶链表/oddEvenList_2.py) |
@@ -273,11 +275,13 @@
 | 486 | [预测赢家](https://leetcode-cn.com/problems/predict-the-winner/) | 中等 | [Python](Algorithms/486.预测赢家/PredictTheWinner.py), [Python](Algorithms/486.预测赢家/PredictTheWinner_2.py), [Python](Algorithms/486.预测赢家/PredictTheWinner_3.py) |
 | 491 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/) | 中等 | [Python](Algorithms/491.递增子序列/findSubsequences.py) |
 | 493 | [翻转对](https://leetcode-cn.com/problems/reverse-pairs/) | 困难 | [Java](Algorithms/493.翻转对/reversePairs.java), [Python](Algorithms/493.翻转对/reversePairs.py) |
+| 494 | [目标和](https://leetcode-cn.com/problems/target-sum/) | 中等 | [Python](Algorithms/494.目标和/findTargetSumWays.py) |
 | 496 | [下一个更大元素I](https://leetcode-cn.com/problems/next-greater-element-i/) | 简单 | [Python](Algorithms/496.下一个更大元素I/nextGreaterElement.py) |
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | 简单 | [Python](Algorithms/501.二叉搜索树中的众数/findMode.py), [Python](Algorithms/501.二叉搜索树中的众数/findMode_2.py) |
 | 503 | [下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/) | 中等 | [Python](Algorithms/503.下一个更大元素II/nextGreaterElements.py), [Python](Algorithms/503.下一个更大元素II/nextGreaterElements_2.py) |
 | 509 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | 简单 | [Python](Algorithms/509.斐波那契数/fib.py), [Python](Algorithms/509.斐波那契数/fib_2.py) |
 | 514 | [自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 | [Java](Algorithms/514.自由之路/findRotateSteps.java), [Python](Algorithms/514.自由之路/findRotateSteps.py) |
+| 518 | [零钱兑换II](https://leetcode-cn.com/problems/coin-change-2/) | 中等 | [Python](Algorithms/518.零钱兑换II/change.py) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | 中等 | [Python](Algorithms/523.连续的子数组和/checkSubarraySum.py), [Python](Algorithms/523.连续的子数组和/checkSubarraySum_2.py) |
 | 525 | [连续数组](https://leetcode-cn.com/problems/contiguous-array/) | 中等 | [Python](Algorithms/525.连续数组/findMaxLength.py) |
 | 529 | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/) | 中等 | [Python](Algorithms/529.扫雷游戏/updateBoard.py) |
@@ -353,6 +357,7 @@
 | 861 | [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | 中等 | [Python](Algorithms/861.翻转矩阵后的得分/matrixScore.py), [Python](Algorithms/861.翻转矩阵后的得分/matrixScore_2.py) |
 | 867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | 简单 | [Python](Algorithms/867.转置矩阵/transpose.py), [Python](Algorithms/867.转置矩阵/transpose_2.py) |
 | 872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | 简单 | [Python](Algorithms/872.叶子相似的树/leafSimilar.py) |
+| 879 | [盈利计划](https://leetcode-cn.com/problems/profitable-schemes/) | 困难 | [Python](Algorithms/879.盈利计划/profitableSchemes.py) |
 | 888 | [公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/) | 简单 | [Python](Algorithms/888.公平的糖果棒交换/fairCandySwap.py) |
 | 896 | [单调数列](Algorithms/896.单调数列/isMonotonic.py) | 简单 | [Python](Algorithms/896.单调数列/isMonotonic.py), [Python](Algorithms/896.单调数列/isMonotonic_2.py) |
 | 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | 简单 | [Python](Algorithms/897.递增顺序搜索树/increasingBST.py), [Python](Algorithms/897.递增顺序搜索树/increasingBST_2.py) |
@@ -387,6 +392,7 @@
 | 1038 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 中等 | [Python](Algorithms/1038.把二叉搜索树转换为累加树/bstToGst.py) |
 | 1046 | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | 简单 | [Python](Algorithms/1046.最后一块石头的重量/lastStoneWeight.py) |
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | 简单 | [Python](Algorithms/1047.删除字符串中的所有相邻重复项/removeDuplicates.py), [Python](Algorithms/1047.删除字符串中的所有相邻重复项/removeDuplicates_2.py) |
+| 1049 | [最后一块石头的重量II](https://leetcode-cn.com/problems/last-stone-weight-ii/) | 中等 | [Python](Algorithms/1049.最后一块石头的重量II/lastStoneWeightII.py) |
 | 1052 | [爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) | 中等 | [Python](Algorithms/1052.爱生气的书店老板/maxSatisfied.py), [Python](Algorithms/1052.爱生气的书店老板/maxSatisfied_2.py) |
 | 1074 | [元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/) | 困难 | [Python](Algorithms/1074.元素和为目标值的子矩阵数量/numSubmatrixSumTarget.py) |
 | 1081 | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/) | 中等 | [Python](Algorithms/1081.不同字符的最小子序列/smallestSubsequence.py) |
