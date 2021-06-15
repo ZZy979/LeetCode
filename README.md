@@ -416,6 +416,7 @@
 | 1423 | [可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | 中等 | [Python](Algorithms/1423.可获得的最大点数/maxScore.py) |
 | 1438 | [绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 中等 | [Java](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray.java), [Java](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray_2.java), [Python](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray.py) |
 | 1442 | [形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | 中等 | [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets.py), [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets_2.py), [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets_3.py) |
+| 1449 | [数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | 困难 | [Python](Algorithms/1449.数位成本和为目标值的最大数字/largestNumber.py), [Python](Algorithms/1449.数位成本和为目标值的最大数字/largestNumber_2.py) |
 | 1473 | [粉刷房子III](https://leetcode-cn.com/problems/paint-house-iii/) | 困难 | [Python](Algorithms/1473.粉刷房子III/minCost.py) |
 | 1482 | [制作m束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 中等 | [Python](Algorithms/1482.制作m束花所需的最少天数/minDays.py) |
 | 1486 | [数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | 简单 | [Python](Algorithms/1486.数组异或操作/xorOperation.py), [Python](Algorithms/1486.数组异或操作/xorOperation_2.py) |
