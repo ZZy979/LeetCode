@@ -55,6 +55,7 @@
 | 60 | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) | 困难 | [Python](Algorithms/60.第k个排列/getPermutation.py) |
 | 62 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | 中等 | [Python](Algorithms/62.不同路径/uniquePaths.py), [Python](Algorithms/62.不同路径/uniquePaths_2.py), [Python](Algorithms/62.不同路径/uniquePaths_3.py) |
 | 64 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 中等 | [Python](Algorithms/64.最小路径和/minPathSum.py) |
+| 65 | [有效数字](https://leetcode-cn.com/problems/valid-number/) | 困难 | [Python](Algorithms/65.有效数字/isNumber.py) |
 | 66 | [加一](https://leetcode-cn.com/problems/plus-one/) | 简单 | [Python](Algorithms/66.加一/plusOne.py) |
 | 67 | [二进制求和](https://leetcode-cn.com/problems/add-binary/) | 简单 | [Python](Algorithms/67.二进制求和/addBinary.py), [Python](Algorithms/67.二进制求和/addBinary_2.py) |
 | 69 | [x的平方根](https://leetcode-cn.com/problems/sqrtx/) | 简单 | [Python](Algorithms/69.x的平方根/mySqrt.py) |
@@ -271,6 +272,7 @@
 | 475 | [供暖器](https://leetcode-cn.com/problems/heaters/) | 中等 | [Python](Algorithms/475.供暖器/findRadius.py) |
 | 477 | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) | 中等 | [Python](Algorithms/477.汉明距离总和/totalHammingDistance.py) |
 | 480 | [滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/) | 困难 | [Python](Algorithms/480.滑动窗口中位数/medianSlidingWindow.py), [Python](Algorithms/480.滑动窗口中位数/medianSlidingWindow_2.py) |
+| 483 | [最小好进制](https://leetcode-cn.com/problems/smallest-good-base/) | 困难 | [Python](Algorithms/483.最小好进制/smallestGoodBase.py) |
 | 485 | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | 简单 | [Python](Algorithms/485.最大连续1的个数/findMaxConsecutiveOnes.py) |
 | 486 | [预测赢家](https://leetcode-cn.com/problems/predict-the-winner/) | 中等 | [Python](Algorithms/486.预测赢家/PredictTheWinner.py), [Python](Algorithms/486.预测赢家/PredictTheWinner_2.py), [Python](Algorithms/486.预测赢家/PredictTheWinner_3.py) |
 | 491 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/) | 中等 | [Python](Algorithms/491.递增子序列/findSubsequences.py) |
@@ -353,10 +355,12 @@
 | 842 | [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | 中等 | [Python](Algorithms/842.将数组拆分成斐波那契序列/splitIntoFibonacci.py) |
 | 844 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | 简单 | [Java](Algorithms/844.比较含退格的字符串/backspaceCompare.java), [Python](Algorithms/844.比较含退格的字符串/backspaceCompare.py) |
 | 845 | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | 中等 | [Python](Algorithms/845.数组中的最长山脉/longestMountain.py), [Python](Algorithms/845.数组中的最长山脉/longestMountain_2.py), [Python](Algorithms/845.数组中的最长山脉/longestMountain_3.py) |
+| 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) | 简单 | [Python](Algorithms/852.山脉数组的峰顶索引/peakIndexInMountainArray.py), [Python](Algorithms/852.山脉数组的峰顶索引/peakIndexInMountainArray_2.py) |
 | 860 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | 简单 | [Python](Algorithms/860.柠檬水找零/lemonadeChange.py) |
 | 861 | [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | 中等 | [Python](Algorithms/861.翻转矩阵后的得分/matrixScore.py), [Python](Algorithms/861.翻转矩阵后的得分/matrixScore_2.py) |
 | 867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | 简单 | [Python](Algorithms/867.转置矩阵/transpose.py), [Python](Algorithms/867.转置矩阵/transpose_2.py) |
 | 872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | 简单 | [Python](Algorithms/872.叶子相似的树/leafSimilar.py) |
+| 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/) | 中等 | [Python](Algorithms/877.石子游戏/stoneGame.py), [Python](Algorithms/877.石子游戏/stoneGame_2.py) |
 | 879 | [盈利计划](https://leetcode-cn.com/problems/profitable-schemes/) | 困难 | [Python](Algorithms/879.盈利计划/profitableSchemes.py) |
 | 888 | [公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/) | 简单 | [Python](Algorithms/888.公平的糖果棒交换/fairCandySwap.py) |
 | 896 | [单调数列](Algorithms/896.单调数列/isMonotonic.py) | 简单 | [Python](Algorithms/896.单调数列/isMonotonic.py), [Python](Algorithms/896.单调数列/isMonotonic_2.py) |
