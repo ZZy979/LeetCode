@@ -133,6 +133,7 @@
 | 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | 中等 | [Python](Algorithms/146.LRU缓存机制/LRUCache.py), [Python](Algorithms/146.LRU缓存机制/LRUCache_2.py) |
 | 147 | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | 中等 | [Python](Algorithms/147.对链表进行插入排序/insertionSortList.py) |
 | 148 | [排序链表](https://leetcode-cn.com/problems/sort-list/) | 中等 | [Python](Algorithms/148.排序链表/sortList.py), [Python](Algorithms/148.排序链表/sortList_2.py) |
+| 149 | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/) | 困难 | [Python](Algorithms/149.直线上最多的点数/maxPoints.py) |
 | 150 | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | 中等 | [Python](Algorithms/150.逆波兰表达式求值/evalRPN.py) |
 | 151 | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | 中等 | [Python](Algorithms/151.翻转字符串里的单词/reverseWords.py) |
 | 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 中等 | [Python](Algorithms/153.寻找旋转排序数组中的最小值/findMin.py) |
@@ -336,11 +337,13 @@
 | 738 | [单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/) | 中等 | [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_2.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_3.py) |
 | 740 | [删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | 中等 | [Python](Algorithms/740.删除并获得点数/deleteAndEarn.py) |
 | 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | 简单 | [Python](Algorithms/746.使用最小花费爬楼梯/minCostClimbingStairs.py) |
+| 752 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/) | 中等 | [Python](Algorithms/752.打开转盘锁/openLock.py) |
 | 763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 中等 | [Python](Algorithms/763.划分字母区间/partitionLabels.py), [Python](Algorithms/763.划分字母区间/partitionLabels_2.py) |
 | 765 | [情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/) | 困难 | [Python](Algorithms/765.情侣牵手/minSwapsCouples.py), [Python](Algorithms/765.情侣牵手/minSwapsCouples_2.py) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/) | 简单 | [Python](Algorithms/766.托普利茨矩阵/isToeplitzMatrix.py) |
 | 767 | [重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | 中等 | [Python](Algorithms/767.重构字符串/reorganizeString.py), [Python](Algorithms/767.重构字符串/reorganizeString_2.py), [Python](Algorithms/767.重构字符串/reorganizeString_3.py) |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | 简单 | [Python](Algorithms/771.宝石与石头/numJewelsInStones.py) |
+| 773 | [滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/) | 困难 | [Python](Algorithms/773.滑动谜题/slidingPuzzle.py) |
 | 778 | [水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/) | 困难 | [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater.py), [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater_2.py), [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater_3.py), [Python](Algorithms/778.水位上升的泳池中游泳/swimInWater_4.py) |
 | 781 | [森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | 中等 | [Python](Algorithms/781.森林中的兔子/numRabbits.py), [Python](Algorithms/781.森林中的兔子/numRabbits_2.py) |
 | 783 | [二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | 简单 | [Python](Algorithms/783.二叉搜索树节点最小距离/minDiffInBST.py) |
@@ -365,6 +368,7 @@
 | 888 | [公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/) | 简单 | [Python](Algorithms/888.公平的糖果棒交换/fairCandySwap.py) |
 | 896 | [单调数列](Algorithms/896.单调数列/isMonotonic.py) | 简单 | [Python](Algorithms/896.单调数列/isMonotonic.py), [Python](Algorithms/896.单调数列/isMonotonic_2.py) |
 | 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | 简单 | [Python](Algorithms/897.递增顺序搜索树/increasingBST.py), [Python](Algorithms/897.递增顺序搜索树/increasingBST_2.py) |
+| 909 | [蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/) | 中等 | [Python](Algorithms/909.蛇梯棋/snakesAndLadders.py) |
 | 912 | [排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 中等 | [Python](Algorithms/912.排序数组/sortArray.py), [Python](Algorithms/912.排序数组/sortArray_2.py) |
 | 922 | [按奇偶排序数组II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | 简单 | [Python](Algorithms/922.按奇偶排序数组II/sortArrayByParityII.py), [Python](Algorithms/922.按奇偶排序数组II/sortArrayByParityII_2.py) |
 | 925 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | 简单 | [Java](Algorithms/925.长按键入/isLongPressedName.java), [Python](Algorithms/925.长按键入/isLongPressedName.py) |
@@ -411,6 +415,7 @@
 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | 简单 | [Python](Algorithms/1207.独一无二的出现次数/uniqueOccurrences.py) |
 | 1208 | [尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/) | 中等 | [Python](Algorithms/1208.尽可能使字符串相等/equalSubstring.py) |
 | 1232 | [缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | 简单 | [Python](Algorithms/1232.缀点成线/checkStraightLine.py), [Python](Algorithms/1232.缀点成线/checkStraightLine_2.py) |
+| 1239 | [串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | 中等 | [Python](Algorithms/1239.串联字符串的最大长度/maxLength.py) |
 | 1269 | [停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | 困难 | [Python](Algorithms/1269.停在原地的方案数/numWays.py) |
 | 1310 | [子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | 中等 | [Python](Algorithms/1310.子数组异或查询/xorQueries.py) |
 | 1319 | [连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | 中等 | [Python](Algorithms/1319.连通网络的操作次数/makeConnected.py) |
@@ -427,6 +432,7 @@
 | 1489 | [找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 困难 | [Python](Algorithms/1489.找到最小生成树里的关键边和伪关键边/findCriticalAndPseudoCriticalEdges.py) |
 | 1579 | [保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | 困难 | [Python](Algorithms/1579.保证图可完全遍历/maxNumEdgesToRemove.py) |
 | 1584 | [连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | 中等 | [Python](Algorithms/1584.连接所有点的最小费用/minCostConnectPoints.py) |
+| 1600 | [皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance/) | 中等 | [Python](Algorithms/1600.皇位继承顺序/ThroneInheritance.py) |
 | 1603 | [设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) | 简单 | [Python](Algorithms/1603.设计停车系统/ParkingSystem.py) |
 | 1631 | [最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 中等 | [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_2.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_3.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_4.py) |
 | 1707 | [与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 | [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor.py), [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor_2.py) |
