@@ -199,6 +199,7 @@
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 简单 | [Python](Algorithms/278.第一个错误的版本/firstBadVersion.py) |
 | 279 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 中等 | [Python](Algorithms/279.完全平方数/numSquares.py), [Python](Algorithms/279.完全平方数/numSquares_2.py) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 | [Python](Algorithms/283.移动零/moveZeroes.py) |
+| 287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | 中等 | [Python](Algorithms/287.寻找重复数/findDuplicate.py), [Python](Algorithms/287.寻找重复数/findDuplicate_2.py), [Python](Algorithms/287.寻找重复数/findDuplicate_3.py) |
 | 290 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | 简单 | [Python](Algorithms/290.单词规律/wordPattern.py) |
 | 295 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | 困难 | [Python](Algorithms/295.数据流的中位数/MedianFinder.py) |
 | 297 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | 困难 | [Python](Algorithms/297.二叉树的序列化与反序列化/Codec.py) |
@@ -262,6 +263,7 @@
 | 441 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | 简单 | [Python](Algorithms/441.排列硬币/arrangeCoins.py) |
 | 443 | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) | 中等 | [Python](Algorithms/443.压缩字符串/compress.py) |
 | 448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | 简单 | [Python](Algorithms/448.找到所有数组中消失的数字/findDisappearedNumbers.py), [Python](Algorithms/448.找到所有数组中消失的数字/findDisappearedNumbers_2.py), [Python](Algorithms/448.找到所有数组中消失的数字/findDisappearedNumbers_3.py) |
+| 451 | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/) | 中等 | [Python](Algorithms/451.根据字符出现频率排序/frequencySort.py), [Python](Algorithms/451.根据字符出现频率排序/frequencySort_2.py) |
 | 452 | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | 中等 | [Python](Algorithms/452.用最少数量的箭引爆气球/findMinArrowShots.py) |
 | 454 | [四数相加II](https://leetcode-cn.com/problems/4sum-ii/) | 中等 | [Python](Algorithms/454.四数相加II/fourSumCount.py) |
 | 455 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | 简单 | [Python](Algorithms/455.分发饼干/findContentChildren.py) |
@@ -308,6 +310,7 @@
 | 633 | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | 中等 | [Python](Algorithms/633.平方数之和/judgeSquareSum.py), [Python](Algorithms/633.平方数之和/judgeSquareSum_2.py), [Python](Algorithms/633.平方数之和/judgeSquareSum_3.py), [Python](Algorithms/633.平方数之和/judgeSquareSum_4.py) |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | 简单 | [Python](Algorithms/637.二叉树的层平均值/averageOfLevels.py) |
 | 643 | [子数组最大平均数I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | 简单 | [Python](Algorithms/643.子数组最大平均数I/findMaxAverage.py) |
+| 645 | [错误的集合](https://leetcode-cn.com/problems/set-mismatch/) | 简单 | [Python](Algorithms/645.错误的集合/findErrorNums.py), [Python](Algorithms/645.错误的集合/findErrorNums_2.py), [Python](Algorithms/645.错误的集合/findErrorNums_3.py) |
 | 647 | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | 中等 | [Python](Algorithms/647.回文子串/countSubstrings.py) |
 | 648 | [单词替换](https://leetcode-cn.com/problems/replace-words/) | 中等 | [Python](Algorithms/648.单词替换/replaceWords.py) |
 | 649 | [Dota2参议院](https://leetcode-cn.com/problems/dota2-senate/) | 中等 | [Python](Algorithms/649.Dota2参议院/predictPartyVictory.py) |
@@ -350,6 +353,7 @@
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785.判断二分图/isBipartite.py) |
 | 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | 困难 | [Java](Algorithms/803.打砖块/hitBricks.java), [Java](Algorithms/803.打砖块/hitBricks_2.java), [Python](Algorithms/803.打砖块/hitBricks.py) |
 | 810 | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 困难 | [Python](Algorithms/810.黑板异或游戏/xorGame.py) |
+| 815 | [公交路线](https://leetcode-cn.com/problems/bus-routes/) | 困难 | [Python](Algorithms/815.公交路线/numBusesToDestination.py) |
 | 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | 简单 | [Python](Algorithms/830.较大分组的位置/largeGroupPositions.py), [Python](Algorithms/830.较大分组的位置/largeGroupPositions_2.py) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/) | 简单 | [Python](Algorithms/832.翻转图像/flipAndInvertImage.py) |
 | 834 | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | 困难 | [C++](Algorithms/834.树中距离之和/sumOfDistancesInTree.cpp) |
@@ -442,6 +446,8 @@
 | 1738 | [找出第K大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | 中等 | [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue.py), [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue_2.py) |
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 中等 | [Python](Algorithms/1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？/canEat.py) |
 | 1787 | [使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | 困难 | [Python](Algorithms/1787.使所有区间的异或结果为零/minChanges.py) |
+| 1833 | [雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/) | 中等 | [Python](Algorithms/1833.雪糕的最大数量/maxIceCream.py) |
+| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | 简单 | [Python](Algorithms/LCP07.传递信息/numWays.py), [Python](Algorithms/LCP07.传递信息/numWays_2.py), [Python](Algorithms/LCP07.传递信息/numWays_3.py), [Python](Algorithms/LCP07.传递信息/numWays_4.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19.秋叶收藏集/minimumOperations.py) |
 
