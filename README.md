@@ -196,6 +196,7 @@
 | 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | 简单 | [Python](Algorithms/263.丑数/isUgly.py) |
 | 264 | [丑数II](https://leetcode-cn.com/problems/ugly-number-ii/) | 中等 | [Python](Algorithms/264.丑数II/nthUglyNumber.py) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | 简单 | [Python](Algorithms/268.缺失数字/missingNumber.py) |
+| 274 | [H指数](https://leetcode-cn.com/problems/h-index/) | 中等 | [Python](Algorithms/274.H指数/hIndex.py) |
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 简单 | [Python](Algorithms/278.第一个错误的版本/firstBadVersion.py) |
 | 279 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 中等 | [Python](Algorithms/279.完全平方数/numSquares.py), [Python](Algorithms/279.完全平方数/numSquares_2.py) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 | [Python](Algorithms/283.移动零/moveZeroes.py) |
@@ -336,6 +337,7 @@
 | 714 | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 中等 | [Python](Algorithms/714.买卖股票的最佳时机含手续费/maxProfit.py), [Python](Algorithms/714.买卖股票的最佳时机含手续费/maxProfit_2.py) |
 | 721 | [账户合并](https://leetcode-cn.com/problems/accounts-merge/) | 中等 | [Python](Algorithms/721.账户合并/accountsMerge.py) |
 | 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | 简单 | [Python](Algorithms/724.寻找数组的中心索引/pivotIndex.py), [Python](Algorithms/724.寻找数组的中心索引/pivotIndex_2.py) |
+| 726 | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) | 困难 | [Python](Algorithms/726.原子的数量/countOfAtoms.py) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | 简单 | [Python](Algorithms/733.图像渲染/floodFill.py) |
 | 738 | [单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/) | 中等 | [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_2.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_3.py) |
 | 740 | [删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | 中等 | [Python](Algorithms/740.删除并获得点数/deleteAndEarn.py) |
@@ -387,6 +389,7 @@
 | 976 | [三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | 简单 | [Python](Algorithms/976.三角形的最大周长/largestPerimeter.py) |
 | 977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | 简单 | [Java](Algorithms/977.有序数组的平方/sortedSquares.java), [Python](Algorithms/977.有序数组的平方/sortedSquares.py) |
 | 978 | [最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | 中等 | [Python](Algorithms/978.最长湍流子数组/maxTurbulenceSize.py), [Python](Algorithms/978.最长湍流子数组/maxTurbulenceSize_2.py) |
+| 981 | [基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store/) | 中等 | [Java](Algorithms/981.基于时间的键值存储/TimeMap.java) |
 | 989 | [数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | 简单 | [Java](Algorithms/989.数组形式的整数加法/addToArrayForm.java), [Python](Algorithms/989.数组形式的整数加法/addToArrayForm.py) |
 | 992 | [K个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | 困难 | [Python](Algorithms/992.K个不同整数的子数组/subarraysWithKDistinct.py), [Python](Algorithms/992.K个不同整数的子数组/subarraysWithKDistinct_2.py) |
 | 993 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | 简单 | [Python](Algorithms/993.二叉树的堂兄弟节点/isCousins.py) |
@@ -426,6 +429,7 @@
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_2.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_3.java), [Python](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.py) |
 | 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](Algorithms/1365.有多少小于当前数字的数字/smallerNumbersThanCurrent.py) |
 | 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | 简单 | [Java](Algorithms/1370.上升下降字符串/sortString.java), [Python](Algorithms/1370.上升下降字符串/sortString.py) |
+| 1418 | [点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) | 中等 | [Python](Algorithms/1418.点菜展示表/displayTable.py) |
 | 1423 | [可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | 中等 | [Python](Algorithms/1423.可获得的最大点数/maxScore.py) |
 | 1438 | [绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 中等 | [Java](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray.java), [Java](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray_2.java), [Python](Algorithms/1438.绝对差不超过限制的最长连续子数组/longestSubarray.py) |
 | 1442 | [形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | 中等 | [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets.py), [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets_2.py), [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets_3.py) |
@@ -440,6 +444,7 @@
 | 1603 | [设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) | 简单 | [Python](Algorithms/1603.设计停车系统/ParkingSystem.py) |
 | 1631 | [最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 中等 | [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_2.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_3.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_4.py) |
 | 1707 | [与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 | [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor.py), [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor_2.py) |
+| 1711 | [大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | 中等 | [Python](Algorithms/1711.大餐计数/countPairs.py), [Python](Algorithms/1711.大餐计数/countPairs_2.py) |
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | 简单 | [Python](Algorithms/1720.解码异或后的数组/decode.py) |
 | 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | 困难 | [Python](Algorithms/1723.完成所有工作的最短时间/minimumTimeRequired.py) |
 | 1734 | [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | 中等 | [Python](Algorithms/1734.解码异或后的排列/decode.py) |
@@ -536,6 +541,7 @@
 | 16.6 | [最小差](https://leetcode-cn.com/problems/smallest-difference-lcci/) | 中等 | [Python](程序员面试金典/16.6最小差/smallestDifference.py), [Python](程序员面试金典/16.6最小差/smallestDifference_2.py) |
 | 16.7 | [最大数值](https://leetcode-cn.com/problems/maximum-lcci/) | 简单 | [Java](程序员面试金典/16.7最大数值/maximum.java), [Java](程序员面试金典/16.7最大数值/maximum_2.java) |
 | 16.8 | [整数的英语表示](https://leetcode-cn.com/problems/english-int-lcci/) | 困难 | [Python](程序员面试金典/16.8整数的英语表示/numberToWords.py), [Python](程序员面试金典/16.8整数的英语表示/numberToWords_2.py) |
+| 17.10 | [主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | 简单 | [Python](程序员面试金典/17.10主要元素/majorityElement.py) |
 | 17.21 | [直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | 困难 | [Python](程序员面试金典/17.21直方图的水量/trap.py), [Python](程序员面试金典/17.21直方图的水量/trap_2.py), [Python](程序员面试金典/17.21直方图的水量/trap_3.py) |
 
 ## [剑指Offer](https://leetcode-cn.com/problemset/lcof/)
