@@ -41,6 +41,7 @@
 | 42 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | 困难 | [Python](Algorithms/42.接雨水/trap.py), [Python](Algorithms/42.接雨水/trap_2.py) |
 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 中等 | [Python](Algorithms/43.字符串相乘/multiply.py) |
 | 44 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 困难 | [Python](Algorithms/44.通配符匹配/isMatch.py) |
+| 45 | [跳跃游戏II](https://leetcode-cn.com/problems/jump-game/) | 中等 | [Python](Algorithms/45.跳跃游戏II/jump.py) |
 | 47 | [全排列II](https://leetcode-cn.com/problems/permutations-ii/) | 中等 | [Python](Algorithms/47.全排列II/permuteUnique.py) |
 | 48 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 中等 | [Python](Algorithms/48.旋转图像/rotate.py) |
 | 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 | [Python](Algorithms/49.字母异位词分组/groupAnagrams.py) |
@@ -49,6 +50,7 @@
 | 52 | [N皇后II](https://leetcode-cn.com/problems/n-queens-ii/) | 困难 | [Python](Algorithms/52.N皇后II/totalNQueens.py) |
 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 | [Java](Algorithms/53.最大子序和/maxSubArray.java), [Python](Algorithms/53.最大子序和/maxSubArray.py) |
 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | 中等 | [Python](Algorithms/54.螺旋矩阵/spiralOrder.py), [Python](Algorithms/54.螺旋矩阵/spiralOrder_2.py), [Python](Algorithms/54.螺旋矩阵/spiralOrder_3.py) |
+| 55 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | 中等 | [Python](Algorithms/55.跳跃游戏/canJump.py), [Python](Algorithms/55.跳跃游戏/canJump_2.py), [Python](Algorithms/55.跳跃游戏/canJump_3.py) |
 | 57 | [插入区间](https://leetcode-cn.com/problems/insert-interval/) | 困难 | [Python](Algorithms/57.插入区间/insert.py) |
 | 58 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 简单 | [Python](Algorithms/58.最后一个单词的长度/lengthOfLastWord.py) |
 | 59 | [螺旋矩阵II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 中等 | [Python](Algorithms/59.螺旋矩阵II/generateMatrix.py) |
@@ -172,6 +174,7 @@
 | 215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 中等 | [Python](Algorithms/215.数组中的第K个最大元素/findKthLargest.py), [Python](Algorithms/215.数组中的第K个最大元素/findKthLargest_2.py) |
 | 216 | [组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/) | 中等 | [Python](Algorithms/216.组合总和III/combinationSum3.py) |
 | 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | 简单 | [Python](Algorithms/217.存在重复元素/containsDuplicate.py) |
+| 218 | [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/) | 困难 | [Python](Algorithms/218.天际线问题/getSkyline.py) |
 | 219 | [存在重复元素II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | 简单 | [Python](Algorithms/219.存在重复元素II/containsNearbyDuplicate.py) |
 | 220 | [存在重复元素III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | 中等 | [Java](Algorithms/220.存在重复元素III/containsNearbyAlmostDuplicate.java), [Java](Algorithms/220.存在重复元素III/containsNearbyAlmostDuplicate_2.java) |
 | 222 | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 | [Python](Algorithms/222.完全二叉树的节点个数/countNodes.py), [Python](Algorithms/222.完全二叉树的节点个数/countNodes_2.py) |
@@ -197,6 +200,7 @@
 | 264 | [丑数II](https://leetcode-cn.com/problems/ugly-number-ii/) | 中等 | [Python](Algorithms/264.丑数II/nthUglyNumber.py) |
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | 简单 | [Python](Algorithms/268.缺失数字/missingNumber.py) |
 | 274 | [H指数](https://leetcode-cn.com/problems/h-index/) | 中等 | [Python](Algorithms/274.H指数/hIndex.py) |
+| 275 | [H指数II](https://leetcode-cn.com/problems/h-index-ii/) | 中等 | [Python](Algorithms/275.H指数II/hIndex.py) |
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 简单 | [Python](Algorithms/278.第一个错误的版本/firstBadVersion.py) |
 | 279 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 中等 | [Python](Algorithms/279.完全平方数/numSquares.py), [Python](Algorithms/279.完全平方数/numSquares_2.py) |
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 | [Python](Algorithms/283.移动零/moveZeroes.py) |
@@ -451,7 +455,9 @@
 | 1738 | [找出第K大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | 中等 | [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue.py), [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue_2.py) |
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 中等 | [Python](Algorithms/1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？/canEat.py) |
 | 1787 | [使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | 困难 | [Python](Algorithms/1787.使所有区间的异或结果为零/minChanges.py) |
+| 1818 | [绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/) | 中等 | [Python](Algorithms/1818.绝对差值和/minAbsoluteSumDiff.py) |
 | 1833 | [雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/) | 中等 | [Python](Algorithms/1833.雪糕的最大数量/maxIceCream.py) |
+| 1846 | [减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/) | 中等 | [Python](Algorithms/1846.减小和重新排列数组后的最大元素/maximumElementAfterDecrementingAndRearranging.py) |
 | LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | 简单 | [Python](Algorithms/LCP07.传递信息/numWays.py), [Python](Algorithms/LCP07.传递信息/numWays_2.py), [Python](Algorithms/LCP07.传递信息/numWays_3.py), [Python](Algorithms/LCP07.传递信息/numWays_4.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19.秋叶收藏集/minimumOperations.py) |
