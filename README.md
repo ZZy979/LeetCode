@@ -452,12 +452,17 @@
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | 简单 | [Python](Algorithms/1720.解码异或后的数组/decode.py) |
 | 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | 困难 | [Python](Algorithms/1723.完成所有工作的最短时间/minimumTimeRequired.py) |
 | 1734 | [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | 中等 | [Python](Algorithms/1734.解码异或后的排列/decode.py) |
+| 1736 | [替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/) | 简单 | [Python](Algorithms/1736.替换隐藏数字得到的最晚时间/maximumTime.py) |
 | 1738 | [找出第K大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | 中等 | [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue.py), [Python](Algorithms/1738.找出第K大的异或坐标值/kthLargestValue_2.py) |
+| 1743 | [从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/) | 中等 | [Python](Algorithms/1743.从相邻元素对还原数组/restoreArray.py) |
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 中等 | [Python](Algorithms/1744.你能在你最喜欢的那天吃到你最喜欢的糖果吗？/canEat.py) |
 | 1787 | [使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | 困难 | [Python](Algorithms/1787.使所有区间的异或结果为零/minChanges.py) |
 | 1818 | [绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/) | 中等 | [Python](Algorithms/1818.绝对差值和/minAbsoluteSumDiff.py) |
 | 1833 | [雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/) | 中等 | [Python](Algorithms/1833.雪糕的最大数量/maxIceCream.py) |
+| 1838 | [最高频元素的频数](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element/) | 中等 | [Python](Algorithms/1838.最高频元素的频数/maxFrequency.py) |
 | 1846 | [减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/) | 中等 | [Python](Algorithms/1846.减小和重新排列数组后的最大元素/maximumElementAfterDecrementingAndRearranging.py) |
+| 1877 | [数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/) | 中等 | [Python](Algorithms/1877.数组中最大数对和的最小值/minPairSum.py) |
+| 1893 | [检查是否区域内所有整数都被覆盖](https://leetcode-cn.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单 | [Python](Algorithms/1893.检查是否区域内所有整数都被覆盖/isCovered.py), [Python](Algorithms/1893.检查是否区域内所有整数都被覆盖/isCovered_2.py) |
 | LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | 简单 | [Python](Algorithms/LCP07.传递信息/numWays.py), [Python](Algorithms/LCP07.传递信息/numWays_2.py), [Python](Algorithms/LCP07.传递信息/numWays_3.py), [Python](Algorithms/LCP07.传递信息/numWays_4.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13.寻宝/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19.秋叶收藏集/minimumOperations.py) |
