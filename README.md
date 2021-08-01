@@ -324,6 +324,7 @@
 | 659 | [分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | 中等 | [Python](Algorithms/659.分割数组为连续子序列/isPossible.py), [Python](Algorithms/659.分割数组为连续子序列/isPossible_2.py) |
 | 664 | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) | 困难 | [Python](Algorithms/664.奇怪的打印机/strangePrinter.py) |
 | 665 | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) | 简单 | [Python](Algorithms/665.非递减数列/checkPossibility.py), [Python](Algorithms/665.非递减数列/checkPossibility_2.py) |
+| 671 | [二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | 简单 | [Python](Algorithms/671.二叉树中第二小的节点/findSecondMinimumValue.py), [Python](Algorithms/671.二叉树中第二小的节点/findSecondMinimumValue_2.py), [Python](Algorithms/671.二叉树中第二小的节点/findSecondMinimumValue_3.py) |
 | 674 | [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | 简单 | [Python](Algorithms/674.最长连续递增序列/findLengthOfLCIS.py) |
 | 679 | [24点游戏](https://leetcode-cn.com/problems/24-game/) | 困难 | [Python](Algorithms/679.24点游戏/judgePoint24.py) |
 | 684 | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | 中等 | [Python](Algorithms/684.冗余连接/findRedundantConnection.py) |
@@ -371,6 +372,7 @@
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) | 简单 | [Python](Algorithms/852.山脉数组的峰顶索引/peakIndexInMountainArray.py), [Python](Algorithms/852.山脉数组的峰顶索引/peakIndexInMountainArray_2.py) |
 | 860 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | 简单 | [Python](Algorithms/860.柠檬水找零/lemonadeChange.py) |
 | 861 | [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | 中等 | [Python](Algorithms/861.翻转矩阵后的得分/matrixScore.py), [Python](Algorithms/861.翻转矩阵后的得分/matrixScore_2.py) |
+| 863 | [二叉树中所有距离为K的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/) | 中等 | [Python](Algorithms/863.二叉树中所有距离为K的结点/distanceK.py), [Python](Algorithms/863.二叉树中所有距离为K的结点/distanceK_2.py) |
 | 867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | 简单 | [Python](Algorithms/867.转置矩阵/transpose.py), [Python](Algorithms/867.转置矩阵/transpose_2.py) |
 | 872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | 简单 | [Python](Algorithms/872.叶子相似的树/leafSimilar.py) |
 | 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/) | 中等 | [Python](Algorithms/877.石子游戏/stoneGame.py), [Python](Algorithms/877.石子游戏/stoneGame_2.py) |
@@ -394,6 +396,7 @@
 | 977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | 简单 | [Java](Algorithms/977.有序数组的平方/sortedSquares.java), [Python](Algorithms/977.有序数组的平方/sortedSquares.py) |
 | 978 | [最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | 中等 | [Python](Algorithms/978.最长湍流子数组/maxTurbulenceSize.py), [Python](Algorithms/978.最长湍流子数组/maxTurbulenceSize_2.py) |
 | 981 | [基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store/) | 中等 | [Java](Algorithms/981.基于时间的键值存储/TimeMap.java) |
+| 987 | [二叉树的垂序遍历](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/) | 困难 | [Python](Algorithms/987.二叉树的垂序遍历/verticalTraversal.py), [Python](Algorithms/987.二叉树的垂序遍历/verticalTraversal_2.py) |
 | 989 | [数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | 简单 | [Java](Algorithms/989.数组形式的整数加法/addToArrayForm.java), [Python](Algorithms/989.数组形式的整数加法/addToArrayForm.py) |
 | 992 | [K个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | 困难 | [Python](Algorithms/992.K个不同整数的子数组/subarraysWithKDistinct.py), [Python](Algorithms/992.K个不同整数的子数组/subarraysWithKDistinct_2.py) |
 | 993 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | 简单 | [Python](Algorithms/993.二叉树的堂兄弟节点/isCousins.py) |
@@ -415,6 +418,7 @@
 | 1052 | [爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) | 中等 | [Python](Algorithms/1052.爱生气的书店老板/maxSatisfied.py), [Python](Algorithms/1052.爱生气的书店老板/maxSatisfied_2.py) |
 | 1074 | [元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/) | 困难 | [Python](Algorithms/1074.元素和为目标值的子矩阵数量/numSubmatrixSumTarget.py) |
 | 1081 | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/) | 中等 | [Python](Algorithms/1081.不同字符的最小子序列/smallestSubsequence.py) |
+| 1104 | [二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/) | 中等 | [Python](Algorithms/1104.二叉树寻路/pathInZigZagTree.py) |
 | 1122 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | 简单 | [Java](Algorithms/1122.数组的相对排序/relativeSortArray.java), [Python](Algorithms/1122.数组的相对排序/relativeSortArray.py) |
 | 1128 | [等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | 简单 | [Python](Algorithms/1128.等价多米诺骨牌对的数量/numEquivDominoPairs.py) |
 | 1137 | [第N个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | 简单 | [Python](Algorithms/1137.第N个泰波那契数/tribonacci.py) |
@@ -430,6 +434,7 @@
 | 1269 | [停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | 困难 | [Python](Algorithms/1269.停在原地的方案数/numWays.py) |
 | 1310 | [子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | 中等 | [Python](Algorithms/1310.子数组异或查询/xorQueries.py) |
 | 1319 | [连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | 中等 | [Python](Algorithms/1319.连通网络的操作次数/makeConnected.py) |
+| 1337 | [矩阵中战斗力最弱的K行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/) | 简单 | [Python](Algorithms/1337.矩阵中战斗力最弱的K行/kWeakestRows.py) |
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_2.java), [Java](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits_3.java), [Python](Algorithms/1356.根据数字二进制下1的数目排序/sortByBits.py) |
 | 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](Algorithms/1365.有多少小于当前数字的数字/smallerNumbersThanCurrent.py) |
 | 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | 简单 | [Java](Algorithms/1370.上升下降字符串/sortString.java), [Python](Algorithms/1370.上升下降字符串/sortString.py) |
@@ -449,6 +454,7 @@
 | 1631 | [最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 中等 | [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_2.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_3.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_4.py) |
 | 1707 | [与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 | [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor.py), [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor_2.py) |
 | 1711 | [大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | 中等 | [Python](Algorithms/1711.大餐计数/countPairs.py), [Python](Algorithms/1711.大餐计数/countPairs_2.py) |
+| 1713 | [得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/) | 困难 | [Python](Algorithms/1713.得到子序列的最少操作次数/minOperations.py) |
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | 简单 | [Python](Algorithms/1720.解码异或后的数组/decode.py) |
 | 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | 困难 | [Python](Algorithms/1723.完成所有工作的最短时间/minimumTimeRequired.py) |
 | 1734 | [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | 中等 | [Python](Algorithms/1734.解码异或后的排列/decode.py) |
