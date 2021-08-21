@@ -268,7 +268,7 @@
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 简单 | [Python](Algorithms/434.字符串中的单词数/countSegments.py) |
 | 435 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) | 中等 | [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals.py), [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals_2.py), [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals_3.py) |
 | 441 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | 简单 | [Python](Algorithms/441.排列硬币/arrangeCoins.py) |
-| 443 | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) | 中等 | [Python](Algorithms/443.压缩字符串/compress.py) |
+| 443 | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) | 中等 | [Python](Algorithms/443.压缩字符串/compress.py), [Python](Algorithms/443.压缩字符串/compress_2.py) |
 | 446 | [等差数列划分II-子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/) | 困难 | [Python](Algorithms/446.等差数列划分II-子序列/numberOfArithmeticSlices.py) |
 | 448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | 简单 | [Python](Algorithms/448.找到所有数组中消失的数字/findDisappearedNumbers.py), [Python](Algorithms/448.找到所有数组中消失的数字/findDisappearedNumbers_2.py), [Python](Algorithms/448.找到所有数组中消失的数字/findDisappearedNumbers_3.py) |
 | 451 | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/) | 中等 | [Python](Algorithms/451.根据字符出现频率排序/frequencySort.py), [Python](Algorithms/451.根据字符出现频率排序/frequencySort_2.py) |
@@ -299,12 +299,16 @@
 | 518 | [零钱兑换II](https://leetcode-cn.com/problems/coin-change-2/) | 中等 | [Python](Algorithms/518.零钱兑换II/change.py) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | 中等 | [Python](Algorithms/523.连续的子数组和/checkSubarraySum.py), [Python](Algorithms/523.连续的子数组和/checkSubarraySum_2.py) |
 | 525 | [连续数组](https://leetcode-cn.com/problems/contiguous-array/) | 中等 | [Python](Algorithms/525.连续数组/findMaxLength.py) |
+| 526 | [优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/) | 中等 | [Python](Algorithms/526.优美的排列/countArrangement.py), [Python](Algorithms/526.优美的排列/countArrangement_2.py) |
 | 529 | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/) | 中等 | [Python](Algorithms/529.扫雷游戏/updateBoard.py) |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | 简单 | [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference.py), [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference_2.py) |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 中等 | [Python](Algorithms/538.把二叉搜索树转换为累加树/convertBST.py) |
+| 541 | [反转字符串II](https://leetcode-cn.com/problems/reverse-string-ii/) | 简单 | [Python](Algorithms/541.反转字符串II/reverseStr.py) |
 | 543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | 简单 | [Python](Algorithms/543.二叉树的直径/diameterOfBinaryTree.py) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | 困难 | [Java](Algorithms/546.移除盒子/removeBoxes.java) |
 | 547 | [省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | 中等 | [Python](Algorithms/547.省份数量/findCircleNum.py), [Python](Algorithms/547.省份数量/findCircleNum_2.py), [Python](Algorithms/547.省份数量/findCircleNum_3.py) |
+| 551 | [学生出勤记录I](https://leetcode-cn.com/problems/student-attendance-record-i/) | 简单 | [Python](Algorithms/551.学生出勤记录I/checkRecord.py), [Python](Algorithms/551.学生出勤记录I/checkRecord_2.py) |
+| 552 | [学生出勤记录II](https://leetcode-cn.com/problems/student-attendance-record-ii/) | 困难 | [Python](Algorithms/552.学生出勤记录II/checkRecord.py), [Python](Algorithms/552.学生出勤记录II/checkRecord_2.py), [Python](Algorithms/552.学生出勤记录II/checkRecord_3.py) |
 | 554 | [砖墙](https://leetcode-cn.com/problems/brick-wall/) | 中等 | [Python](Algorithms/554.砖墙/leastBricks.py) |
 | 556 | [下一个更大元素III](https://leetcode-cn.com/problems/next-greater-element-iii/) | 中等 | [Python](Algorithms/556.下一个更大元素III/nextGreaterElement.py) |
 | 557 | [反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 简单 | [Python](Algorithms/557.反转字符串中的单词III/reverseWords.py) |
@@ -367,6 +371,7 @@
 | 781 | [森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | 中等 | [Python](Algorithms/781.森林中的兔子/numRabbits.py), [Python](Algorithms/781.森林中的兔子/numRabbits_2.py) |
 | 783 | [二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | 简单 | [Python](Algorithms/783.二叉搜索树节点最小距离/minDiffInBST.py) |
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785.判断二分图/isBipartite.py) |
+| 789 | [逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts/) | 中等 | [Python](Algorithms/789.逃脱阻碍者/escapeGhosts.py) |
 | 802 | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/) | 中等 | [Python](Algorithms/802.找到最终的安全状态/eventualSafeNodes.py) |
 | 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | 困难 | [Java](Algorithms/803.打砖块/hitBricks.java), [Java](Algorithms/803.打砖块/hitBricks_2.java), [Python](Algorithms/803.打砖块/hitBricks.py) |
 | 810 | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 困难 | [Python](Algorithms/810.黑板异或游戏/xorGame.py) |

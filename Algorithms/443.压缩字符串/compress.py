@@ -12,9 +12,9 @@ class Solution:
                     chars[p] = last
                     p += 1
                 if count > 1:
-                    for a in str(count):
-                        chars[p] = a
-                        p += 1
+                    c = str(count)
+                    chars[p:p + len(c)] = c
+                    p += len(c)
                 last = chars[q]
                 count = 1
             else:
@@ -22,7 +22,7 @@ class Solution:
         chars[p] = last
         p += 1
         if count > 1:
-            for a in str(count):
-                chars[p] = a
-                p += 1
+            c = str(count)
+            chars[p:p + len(c)] = c
+            p += len(c)
         return p
