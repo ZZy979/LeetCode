@@ -371,7 +371,9 @@
 | 781 | [森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | 中等 | [Python](Algorithms/781.森林中的兔子/numRabbits.py), [Python](Algorithms/781.森林中的兔子/numRabbits_2.py) |
 | 783 | [二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | 简单 | [Python](Algorithms/783.二叉搜索树节点最小距离/minDiffInBST.py) |
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785.判断二分图/isBipartite.py) |
+| 787 | [K站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 中等 | [Python](Algorithms/787.K站中转内最便宜的航班/findCheapestPrice.py) |
 | 789 | [逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts/) | 中等 | [Python](Algorithms/789.逃脱阻碍者/escapeGhosts.py) |
+| 797 | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/) | 中等 | [Python](Algorithms/797.所有可能的路径/allPathsSourceTarget.py) |
 | 802 | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/) | 中等 | [Python](Algorithms/802.找到最终的安全状态/eventualSafeNodes.py) |
 | 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | 困难 | [Java](Algorithms/803.打砖块/hitBricks.java), [Java](Algorithms/803.打砖块/hitBricks_2.java), [Python](Algorithms/803.打砖块/hitBricks.py) |
 | 810 | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 困难 | [Python](Algorithms/810.黑板异或游戏/xorGame.py) |
@@ -393,6 +395,7 @@
 | 872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | 简单 | [Python](Algorithms/872.叶子相似的树/leafSimilar.py) |
 | 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/) | 中等 | [Python](Algorithms/877.石子游戏/stoneGame.py), [Python](Algorithms/877.石子游戏/stoneGame_2.py) |
 | 879 | [盈利计划](https://leetcode-cn.com/problems/profitable-schemes/) | 困难 | [Python](Algorithms/879.盈利计划/profitableSchemes.py) |
+| 881 | [救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) | 中等 | [Python](Algorithms/881.救生艇/numRescueBoats.py) |
 | 888 | [公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/) | 简单 | [Python](Algorithms/888.公平的糖果棒交换/fairCandySwap.py) |
 | 896 | [单调数列](Algorithms/896.单调数列/isMonotonic.py) | 简单 | [Python](Algorithms/896.单调数列/isMonotonic.py), [Python](Algorithms/896.单调数列/isMonotonic_2.py) |
 | 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | 简单 | [Python](Algorithms/897.递增顺序搜索树/increasingBST.py), [Python](Algorithms/897.递增顺序搜索树/increasingBST_2.py) |
@@ -460,15 +463,18 @@
 | 1442 | [形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | 中等 | [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets.py), [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets_2.py), [Python](Algorithms/1442.形成两个异或相等数组的三元组数目/countTriplets_3.py) |
 | 1449 | [数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | 困难 | [Python](Algorithms/1449.数位成本和为目标值的最大数字/largestNumber.py), [Python](Algorithms/1449.数位成本和为目标值的最大数字/largestNumber_2.py) |
 | 1473 | [粉刷房子III](https://leetcode-cn.com/problems/paint-house-iii/) | 困难 | [Python](Algorithms/1473.粉刷房子III/minCost.py) |
+| 1480 | [一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | 简单 | [Python](Algorithms/1480.一维数组的动态和/runningSum.py) |
 | 1482 | [制作m束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 中等 | [Python](Algorithms/1482.制作m束花所需的最少天数/minDays.py) |
 | 1486 | [数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | 简单 | [Python](Algorithms/1486.数组异或操作/xorOperation.py), [Python](Algorithms/1486.数组异或操作/xorOperation_2.py) |
 | 1489 | [找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 困难 | [Python](Algorithms/1489.找到最小生成树里的关键边和伪关键边/findCriticalAndPseudoCriticalEdges.py) |
 | 1579 | [保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | 困难 | [Python](Algorithms/1579.保证图可完全遍历/maxNumEdgesToRemove.py) |
 | 1583 | [统计不开心的朋友](https://leetcode-cn.com/problems/count-unhappy-friends/) | 中等 | [Python](Algorithms/1583.统计不开心的朋友/unhappyFriends.py) |
 | 1584 | [连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | 中等 | [Python](Algorithms/1584.连接所有点的最小费用/minCostConnectPoints.py) |
+| 1588 | [所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/) | 简单 | [Python](Algorithms/1588.所有奇数长度子数组的和/sumOddLengthSubarrays.py) |
 | 1600 | [皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance/) | 中等 | [Python](Algorithms/1600.皇位继承顺序/ThroneInheritance.py) |
 | 1603 | [设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) | 简单 | [Python](Algorithms/1603.设计停车系统/ParkingSystem.py) |
 | 1631 | [最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 中等 | [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_2.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_3.py), [Python](Algorithms/1631.最小体力消耗路径/minimumEffortPath_4.py) |
+| 1646 | [获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/) | 简单 | [Python](Algorithms/1646.获取生成数组中的最大值/getMaximumGenerated.py) |
 | 1707 | [与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 | [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor.py), [Python](Algorithms/1707.与数组中元素的最大异或值/maximizeXor_2.py) |
 | 1711 | [大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | 中等 | [Python](Algorithms/1711.大餐计数/countPairs.py), [Python](Algorithms/1711.大餐计数/countPairs_2.py) |
 | 1713 | [得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/) | 困难 | [Python](Algorithms/1713.得到子序列的最少操作次数/minOperations.py) |
