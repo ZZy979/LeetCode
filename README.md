@@ -18,6 +18,7 @@
 | 13 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 简单 | [Python](Algorithms/13.罗马数字转整数/romanToInt.py) |
 | 14 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | 简单 | [Python](Algorithms/14.最长公共前缀/longestCommonPrefix.py) |
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum/) | 中等 | [Python](Algorithms/15.三数之和/threeSum.py) |
+| 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | 中等 | [Python](Algorithms/16.最接近的三数之和/threeSumClosest.py) |
 | 17 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | 中等 | [Python](Algorithms/17.电话号码的字母组合/letterCombinations.py) |
 | 19 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 | [Python](Algorithms/19.删除链表的倒数第N个节点/removeNthFromEnd.py) |
 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Python](Algorithms/20.有效的括号/isValid.py) |
@@ -144,7 +145,7 @@
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 简单 | [Python](Algorithms/160.相交链表/getIntersectionNode.py) |
 | 162 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 中等 | [Python](Algorithms/162.寻找峰值/findPeakElement.py) |
 | 164 | [最大间距](https://leetcode-cn.com/problems/maximum-gap/) | 困难 | [Python](Algorithms/164.最大间距/maximumGap.py), [Python](Algorithms/164.最大间距/maximumGap_2.py) |
-| 165 | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | 中等 | [Python](Algorithms/165.比较版本号/compareVersion.py) |
+| 165 | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | 中等 | [Python](Algorithms/165.比较版本号/compareVersion.py), [Python](Algorithms/165.比较版本号/compareVersion_2.py) |
 | 167 | [两数之和II-输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 简单 | [Python](Algorithms/167.两数之和II-输入有序数组/twoSum.py) |
 | 168 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | 简单 | [Python](Algorithms/168.Excel表列名称/convertToTitle.py) |
 | 169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | 简单 | [Python](Algorithms/169.多数元素/majorityElement.py), [Python](Algorithms/169.多数元素/majorityElement_2.py) |
@@ -280,6 +281,7 @@
 | 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) | 简单 | [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern.py), [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern_2.py) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | 简单 | [Python](Algorithms/461.汉明距离/hammingDistance.py) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | 简单 | [Python](Algorithms/463.岛屿的周长/islandPerimeter.py) |
+| 470 | [用Rand7()实现Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) | 中等 | [Python](Algorithms/470.用Rand7()实现Rand10()/rand10.py) |
 | 474 | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) | 中等 | [Python](Algorithms/474.一和零/findMaxForm.py) |
 | 475 | [供暖器](https://leetcode-cn.com/problems/heaters/) | 中等 | [Python](Algorithms/475.供暖器/findRadius.py) |
 | 477 | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) | 中等 | [Python](Algorithms/477.汉明距离总和/totalHammingDistance.py) |
@@ -300,6 +302,7 @@
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | 中等 | [Python](Algorithms/523.连续的子数组和/checkSubarraySum.py), [Python](Algorithms/523.连续的子数组和/checkSubarraySum_2.py) |
 | 525 | [连续数组](https://leetcode-cn.com/problems/contiguous-array/) | 中等 | [Python](Algorithms/525.连续数组/findMaxLength.py) |
 | 526 | [优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/) | 中等 | [Python](Algorithms/526.优美的排列/countArrangement.py), [Python](Algorithms/526.优美的排列/countArrangement_2.py) |
+| 528 | [按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/) | 中等 | [Python](Algorithms/528.按权重随机选择/pickIndex.py), [Python](Algorithms/528.按权重随机选择/pickIndex_2.py) |
 | 529 | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/) | 中等 | [Python](Algorithms/529.扫雷游戏/updateBoard.py) |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | 简单 | [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference.py), [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference_2.py) |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 中等 | [Python](Algorithms/538.把二叉搜索树转换为累加树/convertBST.py) |
@@ -438,6 +441,9 @@
 | 1074 | [元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/) | 困难 | [Python](Algorithms/1074.元素和为目标值的子矩阵数量/numSubmatrixSumTarget.py) |
 | 1081 | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/) | 中等 | [Python](Algorithms/1081.不同字符的最小子序列/smallestSubsequence.py) |
 | 1104 | [二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/) | 中等 | [Python](Algorithms/1104.二叉树寻路/pathInZigZagTree.py) |
+| 1109 | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) | 中等 | [Pytohn](Algorithms/1109.航班预订统计/corpFlightBookings.py) |
+| 1114 | [按序打印](https://leetcode-cn.com/problems/print-in-order/) | 简单 | [Java](Algorithms/1114.按序打印/Foo.java), [Java](Algorithms/1114.按序打印/Foo_2.java), [Python](Algorithms/1114.按序打印/Foo.py), [Python](Algorithms/1114.按序打印/Foo_2.py) |
+| 1115 | [交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/) | 中等 | [Java](Algorithms/1115.交替打印FooBar/FooBar.java), [Python](Algorithms/1115.交替打印FooBar/FooBar.py) |
 | 1122 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | 简单 | [Java](Algorithms/1122.数组的相对排序/relativeSortArray.java), [Python](Algorithms/1122.数组的相对排序/relativeSortArray.py) |
 | 1128 | [等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | 简单 | [Python](Algorithms/1128.等价多米诺骨牌对的数量/numEquivDominoPairs.py) |
 | 1137 | [第N个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | 简单 | [Python](Algorithms/1137.第N个泰波那契数/tribonacci.py) |
@@ -582,6 +588,7 @@
 | 16.7 | [最大数值](https://leetcode-cn.com/problems/maximum-lcci/) | 简单 | [Java](程序员面试金典/16.7最大数值/maximum.java), [Java](程序员面试金典/16.7最大数值/maximum_2.java) |
 | 16.8 | [整数的英语表示](https://leetcode-cn.com/problems/english-int-lcci/) | 困难 | [Python](程序员面试金典/16.8整数的英语表示/numberToWords.py), [Python](程序员面试金典/16.8整数的英语表示/numberToWords_2.py) |
 | 17.10 | [主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | 简单 | [Python](程序员面试金典/17.10主要元素/majorityElement.py) |
+| 17.14 | [最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci/) | 中等 | [Python](程序员面试金典/17.14最小K个数/smallestK.py), [Python](程序员面试金典/17.14最小K个数/smallestK_2.py) |
 | 17.21 | [直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/) | 困难 | [Python](程序员面试金典/17.21直方图的水量/trap.py), [Python](程序员面试金典/17.21直方图的水量/trap_2.py), [Python](程序员面试金典/17.21直方图的水量/trap_3.py) |
 
 ## [剑指Offer](https://leetcode-cn.com/problemset/lcof/)
