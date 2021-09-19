@@ -1,5 +1,6 @@
 from collections import defaultdict
 
+# DFS（超时）
 class Solution:
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
         m, n = len(board), len(board[0])
