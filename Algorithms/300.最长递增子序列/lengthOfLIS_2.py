@@ -5,7 +5,7 @@ import bisect
 # 48 ms
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        d = []
+        d = []  # d[i]示长度为i的最长上升子序列的末尾元素的最小值
         for n in nums:
             if not d or n > d[-1]:
                 d.append(n)
