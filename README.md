@@ -181,6 +181,7 @@
 | 219 | [存在重复元素II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | 简单 | [Python](Algorithms/219.存在重复元素II/containsNearbyDuplicate.py) |
 | 220 | [存在重复元素III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | 中等 | [Java](Algorithms/220.存在重复元素III/containsNearbyAlmostDuplicate.java), [Java](Algorithms/220.存在重复元素III/containsNearbyAlmostDuplicate_2.java) |
 | 222 | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 | [Python](Algorithms/222.完全二叉树的节点个数/countNodes.py), [Python](Algorithms/222.完全二叉树的节点个数/countNodes_2.py) |
+| 223 | [矩形面积](https://leetcode-cn.com/problems/rectangle-area/) | 中等 | [Python](Algorithms/223.矩形面积/computeArea.py) |
 | 224 | [基本计算器](https://leetcode-cn.com/problems/basic-calculator/) | 困难 | [Python](Algorithms/224.基本计算器/calculate.py) |
 | 225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | 简单 | [Python](Algorithms/225.用队列实现栈/MyStack.py) |
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 简单 | [Python](Algorithms/226.翻转二叉树/invertTree.py) |
@@ -273,6 +274,7 @@
 | 430 | [扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | 中等 | [Python](Algorithms/430.扁平化多级双向链表/flatten.py) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 简单 | [Python](Algorithms/434.字符串中的单词数/countSegments.py) |
 | 435 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) | 中等 | [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals.py), [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals_2.py), [Python](Algorithms/435.无重叠区间/eraseOverlapIntervals_3.py) |
+| 437 | [路径总和III](https://leetcode-cn.com/problems/path-sum-iii/) | 中等 | [Python](Algorithms/437.路径总和III/pathSum.py), [Python](Algorithms/437.路径总和III/pathSum_2.py), [Python](Algorithms/437.路径总和III/pathSum_3.py) |
 | 441 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | 简单 | [Python](Algorithms/441.排列硬币/arrangeCoins.py) |
 | 443 | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) | 中等 | [Python](Algorithms/443.压缩字符串/compress.py), [Python](Algorithms/443.压缩字符串/compress_2.py) |
 | 446 | [等差数列划分II-子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/) | 困难 | [Python](Algorithms/446.等差数列划分II-子序列/numberOfArithmeticSlices.py) |
@@ -305,6 +307,7 @@
 | 509 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | 简单 | [Python](Algorithms/509.斐波那契数/fib.py), [Python](Algorithms/509.斐波那契数/fib_2.py) |
 | 514 | [自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 | [Java](Algorithms/514.自由之路/findRotateSteps.java), [Python](Algorithms/514.自由之路/findRotateSteps.py) |
 | 516 | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | 中等 | [Python](Algorithms/516.最长回文子序列/longestPalindromeSubseq.py) |
+| 517 | [超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines/) | 困难 | [Python](Algorithms/517.超级洗衣机/findMinMoves.py) |
 | 518 | [零钱兑换II](https://leetcode-cn.com/problems/coin-change-2/) | 中等 | [Python](Algorithms/518.零钱兑换II/change.py) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | 中等 | [Python](Algorithms/523.连续的子数组和/checkSubarraySum.py), [Python](Algorithms/523.连续的子数组和/checkSubarraySum_2.py) |
 | 524 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | 中等 | [Python](Algorithms/524.通过删除字母匹配到字典里最长单词/findLongestWord.py), [Python](Algorithms/524.通过删除字母匹配到字典里最长单词/findLongestWord_2.py) |
@@ -339,6 +342,7 @@
 | 632 | [最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | 困难 | [Python](Algorithms/632.最小区间/smallestRange.py) |
 | 633 | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | 中等 | [Python](Algorithms/633.平方数之和/judgeSquareSum.py), [Python](Algorithms/633.平方数之和/judgeSquareSum_2.py), [Python](Algorithms/633.平方数之和/judgeSquareSum_3.py), [Python](Algorithms/633.平方数之和/judgeSquareSum_4.py) |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | 简单 | [Python](Algorithms/637.二叉树的层平均值/averageOfLevels.py) |
+| 639 | [解码方法II](https://leetcode-cn.com/problems/decode-ways-ii/) | 困难 | [Python](Algorithms/639.解码方法II/numDecodings.py) |
 | 643 | [子数组最大平均数I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | 简单 | [Python](Algorithms/643.子数组最大平均数I/findMaxAverage.py) |
 | 645 | [错误的集合](https://leetcode-cn.com/problems/set-mismatch/) | 简单 | [Python](Algorithms/645.错误的集合/findErrorNums.py), [Python](Algorithms/645.错误的集合/findErrorNums_2.py), [Python](Algorithms/645.错误的集合/findErrorNums_3.py) |
 | 647 | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | 中等 | [Python](Algorithms/647.回文子串/countSubstrings.py) |
