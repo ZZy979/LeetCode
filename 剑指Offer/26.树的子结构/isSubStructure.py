@@ -5,6 +5,7 @@
 #         self.left = None
 #         self.right = None
 
+# DFS，时间复杂度O(mn)，空间复杂度O(m)，其中m和n分别为A和B的节点数
 class Solution:
     def isSubStructure(self, A: TreeNode, B: TreeNode) -> bool:
         if not A or not B:
