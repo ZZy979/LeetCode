@@ -226,6 +226,7 @@
 | 297 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | 困难 | [Python](Algorithms/297.二叉树的序列化与反序列化/Codec.py) |
 | 299 | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/) | 中等 | [Python](Algorithms/299.猜数字游戏/getHint.py), [Python](Algorithms/299.猜数字游戏/getHint_2.py) |
 | 300 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 中等 | [Python](Algorithms/300.最长递增子序列/lengthOfLIS.py), [Python](Algorithms/300.最长递增子序列/lengthOfLIS_2.py) |
+| 301 | [删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | 困难 | [Python](Algorithms/301.删除无效的括号/removeInvalidParentheses.py), [Python](Algorithms/301.删除无效的括号/removeInvalidParentheses_2.py) |
 | 303 | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 简单 | [Python](Algorithms/303.区域和检索-数组不可变/NumArray.py) |
 | 304 | [二维区域和检索-矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 中等 | [Python](Algorithms/304.二维区域和检索-矩阵不可变/NumMatrix.py), [Python](Algorithms/304.二维区域和检索-矩阵不可变/NumMatrix_2.py) |
 | 312 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/) | 困难 | [Python](Algorithms/312.戳气球/maxCoins.py) |
@@ -241,6 +242,7 @@
 | 330 | [按要求补齐数组](https://leetcode-cn.com/problems/patching-array/) | 困难 | [Python](Algorithms/330.按要求补齐数组/minPatches.py), [Python](Algorithms/330.按要求补齐数组/minPatches_2.py) |
 | 331 | [验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | 中等 | [Python](Algorithms/331.验证二叉树的前序序列化/isValidSerialization.py), [Python](Algorithms/331.验证二叉树的前序序列化/isValidSerialization_2.py), [Python](Algorithms/331.验证二叉树的前序序列化/isValidSerialization_3.py) |
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | 中等 | [Python](Algorithms/332.重新安排行程/findItinerary.py) |
+| 335 | [路径交叉](https://leetcode-cn.com/problems/self-crossing/) | 困难 | [Python](Algorithms/335.路径交叉/isSelfCrossing.py) |
 | 336 | [回文对](https://leetcode-cn.com/problems/palindrome-pairs/) | 困难 | [Python](Algorithms/336.回文对/palindromePairs.py), [Python](Algorithms/336.回文对/palindromePairs_2.py) |
 | 337 | [打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/) | 中等 | [Python](Algorithms/337.打家劫舍III/rob.py), [Python](Algorithms/337.打家劫舍III/rob_2.py) |
 | 338 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | 中等 | [Python](Algorithms/338.比特位计数/countBits.py), [Python](Algorithms/338.比特位计数/countBits_2.py), [Python](Algorithms/338.比特位计数/countBits_3.py) |
@@ -317,6 +319,7 @@
 | 493 | [翻转对](https://leetcode-cn.com/problems/reverse-pairs/) | 困难 | [Java](Algorithms/493.翻转对/reversePairs.java), [Python](Algorithms/493.翻转对/reversePairs.py) |
 | 494 | [目标和](https://leetcode-cn.com/problems/target-sum/) | 中等 | [Python](Algorithms/494.目标和/findTargetSumWays.py) |
 | 496 | [下一个更大元素I](https://leetcode-cn.com/problems/next-greater-element-i/) | 简单 | [Python](Algorithms/496.下一个更大元素I/nextGreaterElement.py) |
+| 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | 简单 | [Python](Algorithms/500.键盘行/findWords.py), [Python](Algorithms/500.键盘行/findWords_2.py), [Python](Algorithms/500.键盘行/findWords_3.py) |
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | 简单 | [Python](Algorithms/501.二叉搜索树中的众数/findMode.py), [Python](Algorithms/501.二叉搜索树中的众数/findMode_2.py) |
 | 502 | [IPO](https://leetcode-cn.com/problems/ipo/) | 困难 | [Python](Algorithms/502.IPO/findMaximizedCapital.py) |
 | 503 | [下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/) | 中等 | [Python](Algorithms/503.下一个更大元素II/nextGreaterElements.py), [Python](Algorithms/503.下一个更大元素II/nextGreaterElements_2.py) |
@@ -431,6 +434,7 @@
 | 861 | [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | 中等 | [Python](Algorithms/861.翻转矩阵后的得分/matrixScore.py), [Python](Algorithms/861.翻转矩阵后的得分/matrixScore_2.py) |
 | 863 | [二叉树中所有距离为K的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/) | 中等 | [Python](Algorithms/863.二叉树中所有距离为K的结点/distanceK.py), [Python](Algorithms/863.二叉树中所有距离为K的结点/distanceK_2.py) |
 | 867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | 简单 | [Python](Algorithms/867.转置矩阵/transpose.py), [Python](Algorithms/867.转置矩阵/transpose_2.py) |
+| 869 | [重新排序得到2的幂](https://leetcode-cn.com/problems/reordered-power-of-2/) | 中等 | [Python](Algorithms/869.重新排序得到2的幂/reorderedPowerOf2.py) |
 | 872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | 简单 | [Python](Algorithms/872.叶子相似的树/leafSimilar.py) |
 | 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/) | 中等 | [Python](Algorithms/877.石子游戏/stoneGame.py), [Python](Algorithms/877.石子游戏/stoneGame_2.py) |
 | 879 | [盈利计划](https://leetcode-cn.com/problems/profitable-schemes/) | 困难 | [Python](Algorithms/879.盈利计划/profitableSchemes.py) |
@@ -681,6 +685,7 @@
 | 41 | [数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | 困难 | [Python](剑指Offer/41.数据流中的中位数/MedianFinder.py) |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | 简单 | [Python](剑指Offer/42.连续子数组的最大和/maxSubArray.py), [Python](剑指Offer/42.连续子数组的最大和/maxSubArray_2.py) |
 | 43 | [1～n整数中1出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | 困难 | [Python](剑指Offer/43.1～n整数中1出现的次数/countDigitOne.py), [Python](剑指Offer/43.1～n整数中1出现的次数/countDigitOne_2.py), [Python](剑指Offer/43.1～n整数中1出现的次数/countDigitOne_3.py), [Python](剑指Offer/43.1～n整数中1出现的次数/countDigitOne_4.py) |
+| 45 | [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | 中等 | [Python](剑指Offer/45.把数组排成最小的数/minNumber.py) |
 | 46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | 中等 | [Python](剑指Offer/46.把数字翻译成字符串/translateNum.py), [Python](剑指Offer/46.把数字翻译成字符串/translateNum_2.py) |
 | 47 | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | 中等 | [Python](剑指Offer/47.礼物的最大价值/maxValue.py), [Python](剑指Offer/47.礼物的最大价值/maxValue_2.py) |
 | 48 | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | 中等 | [Python](剑指Offer/48.最长不含重复字符的子字符串/lengthOfLongestSubstring.py) |
