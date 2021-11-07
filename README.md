@@ -210,7 +210,7 @@
 | 260 | [只出现一次的数字III](https://leetcode-cn.com/problems/single-number-iii/) | 中等 | [Python](Algorithms/260.只出现一次的数字III/singleNumber.py) |
 | 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/) | 简单 | [Python](Algorithms/263.丑数/isUgly.py) |
 | 264 | [丑数II](https://leetcode-cn.com/problems/ugly-number-ii/) | 中等 | [Python](Algorithms/264.丑数II/nthUglyNumber.py) |
-| 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | 简单 | [Python](Algorithms/268.缺失数字/missingNumber.py) |
+| 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/) | 简单 | [Python](Algorithms/268.缺失数字/missingNumber.py), [Python](Algorithms/268.缺失数字/missingNumber_2.py) |
 | 273 | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) | 困难 | [Python](Algorithms/273.整数转换英文表示/numberToWords.py), [Python](Algorithms/273.整数转换英文表示/numberToWords_2.py) |
 | 274 | [H指数](https://leetcode-cn.com/problems/h-index/) | 中等 | [Python](Algorithms/274.H指数/hIndex.py) |
 | 275 | [H指数II](https://leetcode-cn.com/problems/h-index-ii/) | 中等 | [Python](Algorithms/275.H指数II/hIndex.py) |
@@ -257,7 +257,7 @@
 | 352 | [将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | 困难 | [Java](Algorithms/352.将数据流变为多个不相交区间/SummaryRanges.java), [Python](Algorithms/352.将数据流变为多个不相交区间/SummaryRanges.py) |
 | 354 | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) | 困难 | [Python](Algorithms/354.俄罗斯套娃信封问题/maxEnvelopes.py), [Python](Algorithms/354.俄罗斯套娃信封问题/maxEnvelopes_2.py) |
 | 363 | [矩形区域不超过K的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | 困难 | [Java](Algorithms/363.矩形区域不超过K的最大数值和/maxSumSubmatrix.java) |
-| 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | 简单 | [Python](Algorithms/367.有效的完全平方数/isPerfectSquare.py), [Python](Algorithms/367.有效的完全平方数/isPerfectSquare_2.py) |
+| 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | 简单 | [Python](Algorithms/367.有效的完全平方数/isPerfectSquare.py), [Python](Algorithms/367.有效的完全平方数/isPerfectSquare_2.py), [Python](Algorithms/367.有效的完全平方数/isPerfectSquare_3.py) |
 | 368 | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | 中等 | [Python](Algorithms/368.最大整除子集/largestDivisibleSubset.py), [Python](Algorithms/368.最大整除子集/largestDivisibleSubset_2.py) |
 | 371 | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) | 中等 | [Java](Algorithms/371.两整数之和/getSum.java), [Java](Algorithms/371.两整数之和/getSum_2.java) |
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | 简单 | [Python](Algorithms/374.猜数字大小/guessNumber.py) |
@@ -277,6 +277,7 @@
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | 简单 | [Python](Algorithms/404.左叶子之和/sumOfLeftLeaves.py) |
 | 405 | [数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | 简单 | [Java](Algorithms/405.数字转换为十六进制数/toHex.java), [Python](Algorithms/405.数字转换为十六进制数/toHex.py) |
 | 406 | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | 中等 | [Python](Algorithms/406.根据身高重建队列/reconstructQueue.py), [Python](Algorithms/406.根据身高重建队列/reconstructQueue_2.py), [Python](Algorithms/406.根据身高重建队列/reconstructQueue_3.py) |
+| 407 | [接雨水II](https://leetcode-cn.com/problems/trapping-rain-water-ii/) | 困难 | [Python](Algorithms/407.接雨水II/trapRainWater.py) |
 | 410 | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | 困难 | [Python](Algorithms/410.分割数组的最大值/splitArray.py) |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | 简单 | [Python](Algorithms/412.Fizz%20Buzz/fizzBuzz.py) |
 | 413 | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | 中等 | [Python](Algorithms/413.等差数列划分/numberOfArithmeticSlices.py), [Python](Algorithms/413.等差数列划分/numberOfArithmeticSlices_2.py) |
@@ -349,9 +350,11 @@
 | 561 | [数组拆分I](https://leetcode-cn.com/problems/array-partition-i/) | 简单 | [Python](Algorithms/561.数组拆分I/arrayPairSum.py) |
 | 566 | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) | 简单 | [Python](Algorithms/566.重塑矩阵/matrixReshape.py) |
 | 567 | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | 中等 | [Python](Algorithms/567.字符串的排列/checkInclusion.py), [Python](Algorithms/567.字符串的排列/checkInclusion_2.py) |
+| 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/) | 简单 | [Python](Algorithms/575.分糖果/distributeCandies.py) |
 | 576 | [出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/) | 中等 | [Python](Algorithms/576.出界的路径数/findPaths.py), [Python](Algorithms/576.出界的路径数/findPaths_2.py), [Python](Algorithms/576.出界的路径数/findPaths_3.py) |
 | 581 | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | 中等 | [Python](Algorithms/581.最短无序连续子数组/findUnsortedSubarray.py), [Python](Algorithms/581.最短无序连续子数组/findUnsortedSubarray_2.py) |
 | 583 | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 中等 | [Python](Algorithms/583.两个字符串的删除操作/minDistance.py), [Python](Algorithms/583.两个字符串的删除操作/minDistance_2.py) |
+| 598 | [范围求和II](https://leetcode-cn.com/problems/range-addition-ii/) | 简单 | [Python](Algorithms/598.范围求和II/maxCount.py) |
 | 600 | [不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | 困难 | [Python](Algorithms/600.不含连续1的非负整数/findIntegers.py), [Python](Algorithms/600.不含连续1的非负整数/findIntegers_2.py) |
 | 605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | 简单 | [Python](Algorithms/605.种花问题/canPlaceFlowers.py), [Python](Algorithms/605.种花问题/canPlaceFlowers_2.py) |
 | 611 | [有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/) | 中等 | [Python](Algorithms/611.有效三角形的个数/triangleNumber.py), [Python](Algorithms/611.有效三角形的个数/triangleNumber_2.py), [Python](Algorithms/611.有效三角形的个数/triangleNumber_3.py) |
@@ -493,6 +496,7 @@
 | 1203 | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | 困难 | [Python](Algorithms/1203.项目管理/sortItems.py) |
 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | 简单 | [Python](Algorithms/1207.独一无二的出现次数/uniqueOccurrences.py) |
 | 1208 | [尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/) | 中等 | [Python](Algorithms/1208.尽可能使字符串相等/equalSubstring.py) |
+| 1218 | [最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 中等 | [Python](Algorithms/1218.最长定差子序列/longestSubsequence.py) |
 | 1221 | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | 简单 | [Python](Algorithms/1221.分割平衡字符串/balancedStringSplit.py), [Python](Algorithms/1221.分割平衡字符串/balancedStringSplit_2.py) |
 | 1232 | [缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | 简单 | [Python](Algorithms/1232.缀点成线/checkStraightLine.py), [Python](Algorithms/1232.缀点成线/checkStraightLine_2.py) |
 | 1239 | [串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | 中等 | [Python](Algorithms/1239.串联字符串的最大长度/maxLength.py) |
@@ -655,8 +659,8 @@
 | 13 | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | 中等 | [Python](剑指Offer/13.机器人的运动范围/movingCount.py), [Python](剑指Offer/13.机器人的运动范围/movingCount_2.py) |
 | 14-I | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | 中等 | [Python](剑指Offer/14-I.剪绳子/cuttingRope.py) |
 | 14-II | [剪绳子II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | 中等 | [Python](剑指Offer/14-II.剪绳子II/cuttingRope.py) |
-| 15 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 简单 | [Java](剑指Offer/15.二进制中1的个数/hammingWeight.java), [Python](剑指Offer/15.二进制中1的个数/hammingWeight.py) |
-| 16 | [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 中等 | [Python](剑指Offer/16.数值的整数次方/myPow.py) |
+| 15 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 简单 | [Java](剑指Offer/15.二进制中1的个数/hammingWeight.java), [Python](剑指Offer/15.二进制中1的个数/hammingWeight.py), [Python](剑指Offer/15.二进制中1的个数/hammingWeight_2.py) |
+| 16 | [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 中等 | [Python](剑指Offer/16.数值的整数次方/myPow.py), [Python](剑指Offer/16.数值的整数次方/myPow_2.py) |
 | 17 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | 简单 | [Python](剑指Offer/17.打印从1到最大的n位数/printNumbers.py) |
 | 18 | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | 简单 | [Python](剑指Offer/18.删除链表的节点/deleteNode.py) |
 | 19 | [正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/) | 困难 | [Python](剑指Offer/19.正则表达式匹配/isMatch.py) |
@@ -710,7 +714,7 @@
 | 61 | [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | 简单 | [Python](剑指Offer/61.扑克牌中的顺子/isStraight.py), [Python](剑指Offer/61.扑克牌中的顺子/isStraight_2.py), [Python](剑指Offer/61.扑克牌中的顺子/isStraight_3.py) |
 | 62 | [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 简单 | [Python](剑指Offer/62.圆圈中最后剩下的数字/lastRemaining.py) |
 | 63 | [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | 中等 | [Python](剑指Offer/63.股票的最大利润/maxProfit.py) |
-| 64 | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | 中等 | [C++](剑指Offer/64.求1+2+…+n/sumNums.cpp), [C++](剑指Offer/64.求1+2+…+n/sumNums_2.cpp) |
+| 64 | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | 中等 | [C++](剑指Offer/64.求1+2+…+n/sumNums.cpp), [C++](剑指Offer/64.求1+2+…+n/sumNums_2.cpp), [Python](剑指Offer/64.求1+2+…+n/sumNums.py) |
 | 65 | [不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | 简单 | [Java](剑指Offer/65.不用加减乘除做加法/add.java), [Java](剑指Offer/65.不用加减乘除做加法/add_2.java), [Python](剑指Offer/65.不用加减乘除做加法/add.py) |
 | 66 | [构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) | 中等 | [Python](剑指Offer/66.构建乘积数组/constructArr.py) |
 | 67 | [把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/) | 中等 | [Python](剑指Offer/67.把字符串转换成整数/strToInt.py) |
