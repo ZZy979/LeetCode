@@ -11,10 +11,8 @@ class Solution:
                 secret.pop(i)
             else:
                 i += 1
-        i = 0
-        while i < len(guess):
-            if guess[i] in secret:
+        for x in guess:
+            if x in secret:
                 cows += 1
-                secret.remove(guess[i])
-            i += 1
+                secret.remove(x)
         return '{}A{}B'.format(bulls, cows)

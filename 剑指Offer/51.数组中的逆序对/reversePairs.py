@@ -1,33 +1,28 @@
+# 官方题解1：归并排序，时间复杂度O(nlog n)
+# 1324 ms
 class Solution:
     def reversePairs(self, nums: List[int]) -> int:
         n = len(nums)
         tmp = [0] * n
-        return mergeSort(nums, tmp, 0, n - 1)
+        return merge_sort(nums, tmp, 0, n - 1)
 
 
-def mergeSort(nums, tmp, left, right):
+def merge_sort(nums, tmp, left, right):
     if left >= right:
         return 0
-    mid = (left + right) // 2
-    rev_count = mergeSort(nums, tmp, left, mid) + mergeSort(nums, tmp, mid + 1, right)
-    i, j, p = left, mid + 1, left
-    while i <= mid and j <= right:
-        if nums[i] <= nums[j]:
-            tmp[p] = nums[i]
-            i += 1
-            rev_count += j - (mid + 1)
-        else:
-            tmp[p] = nums[j]
+    m = (left + right) // 2
+    res = merge_sort(nums, tmp, left, m) + merge_sort(nums, tmp, m + 1, right)
+    i, j = left, m + 1
+    tmp[left:right + 1] = nums[left:right + 1]
+    for k in range(left, right + 1):
+        if i == m + 1:
+            nums[k] = tmp[j]
             j += 1
-        p += 1
-    while i <= mid:
-        tmp[p] = nums[i]
-        rev_count += j - (mid + 1)
-        i += 1
-        p += 1
-    while j <= right:
-        tmp[p] = nums[j]
-        j += 1
-        p += 1
-    nums[left:right + 1] = tmp[left:right + 1]
-    return rev_count
+        elif j == right + 1 or tmp[i] <= tmp[j]:
+            nums[k] = tmp[i]
+            i += 1
+            res += j - m - 1
+        else:
+            nums[k] = tmp[j]
+            j += 1
+    return res
