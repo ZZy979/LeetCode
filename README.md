@@ -73,7 +73,7 @@
 | 72 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 困难 | [Python](Algorithms/72.编辑距离/minDistance.py) |
 | 73 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 中等 | [Python](Algorithms/73.矩阵置零/setZeroes.py), [Python](Algorithms/73.矩阵置零/setZeroes_2.py) |
 | 74 | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 中等 | [Python](Algorithms/74.搜索二维矩阵/searchMatrix.py), [Python](Algorithms/74.搜索二维矩阵/searchMatrix_2.py) |
-| 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/submissions/) | 中等 | [Python](Algorithms/75.颜色分类/sortColors.py) |
+| 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 中等 | [Python](Algorithms/75.颜色分类/sortColors.py) |
 | 76 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | 困难 | [Python](Algorithms/76.最小覆盖子串/minWindow.py), [Python](Algorithms/76.最小覆盖子串/minWindow_2.py) |
 | 77 | [组合](https://leetcode-cn.com/problems/combinations/) | 中等 | [Python](Algorithms/77.组合/combine.py) |
 | 78 | [子集](https://leetcode-cn.com/problems/subsets/) | 中等 | [Python](Algorithms/78.子集/subsets.py), [Python](Algorithms/78.子集/subsets_2.py) |
@@ -83,7 +83,7 @@
 | 82 | [删除排序链表中的重复元素II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 中等 | [Python](Algorithms/82.删除排序链表中的重复元素II/deleteDuplicates.py), [Python](Algorithms/82.删除排序链表中的重复元素II/deleteDuplicates_2.py) |
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [Python](Algorithms/83.删除排序链表中的重复元素/deleteDuplicates.py) |
 | 84 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 困难 | [Python](Algorithms/84.柱状图中最大的矩形/largestRectangleArea.py), [Python](Algorithms/84.柱状图中最大的矩形/largestRectangleArea_2.py) |
-| 85 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 | [Java](Algorithms/85.最大矩形/maximalRectangle.java), [Java](Algorithms/85.最大矩形/maximalRectangle_2.java), [Java](Algorithms/85.最大矩形/maximalRectangle_3.java) |
+| 85 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 困难 | [Java](Algorithms/85.最大矩形/maximalRectangle.java), [Java](Algorithms/85.最大矩形/maximalRectangle_2.java), [Java](Algorithms/85.最大矩形/maximalRectangle_3.java), [Python](Algorithms/85.最大矩形/maximalRectangle.py) |
 | 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 | [Python](Algorithms/86.分隔链表/partition.py), [Python](Algorithms/86.分隔链表/partition_2.py) |
 | 87 | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 | [Python](Algorithms/87.扰乱字符串/isScramble.py), [Python](Algorithms/87.扰乱字符串/isScramble_2.py) |
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | [Python](Algorithms/88.合并两个有序数组/merge.py) |
@@ -166,6 +166,7 @@
 | 190 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 简单 | [Java](Algorithms/190.颠倒二进制位/reverseBits.java), [Python](Algorithms/190.颠倒二进制位/reverseBits.py) |
 | 191 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 简单 | [Python](Algorithms/191.位1的个数/hammingWeight.py), [Python](Algorithms/191.位1的个数/hammingWeight_2.py) |
 | 198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 简单 | [Python](Algorithms/198.打家劫舍/rob.py) |
+| 199 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | 中等 | [Python](Algorithms/199.二叉树的右视图/rightSideView.py) |
 | 200 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | 中等 | [Python](Algorithms/200.岛屿数量/numIslands.py), [Python](Algorithms/200.岛屿数量/numIslands_2.py) |
 | 201 | [数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) | 中等 | [Python](Algorithms/201.数字范围按位与/rangeBitwiseAnd.py) |
 | 202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | 简单 | [Python](Algorithms/202.快乐数/isHappy.py) |
@@ -269,6 +270,7 @@
 | 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | 中等 | [Python](Algorithms/380.常数时间插入、删除和获取随机元素/RandomizedSet.py) |
 | 381 | [O(1)时间插入、删除和获取随机元素-允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | 困难 | [Python](Algorithms/381.O(1)时间插入、删除和获取随机元素-允许重复/RandomizedCollection.py) |
 | 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | 简单 | [Python](Algorithms/383.赎金信/canConstruct.py) |
+| 384 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 中等 | [Python](Algorithms/384.打乱数组/shuffle.py) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 简单 | [Python](Algorithms/387.字符串中的第一个唯一字符/firstUniqChar.py), [Python](Algorithms/387.字符串中的第一个唯一字符/firstUniqChar_2.py) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | 简单 | [Python](Algorithms/389.找不同/findTheDifference.py), [Python](Algorithms/389.找不同/findTheDifference_2.py) |
 | 391 | [完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/) | 困难 | [Python](Algorithms/391.完美矩形/isRectangleCover.py) |
@@ -291,6 +293,7 @@
 | 415 | [字符串相加](https://leetcode-cn.com/problems/add-strings/) | 简单 | [Python](Algorithms/415.字符串相加/addStrings.py) |
 | 416 | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 中等 | [Python](Algorithms/416.分割等和子集/canPartition.py), [Python](Algorithms/416.分割等和子集/canPartition_2.py) |
 | 421 | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | 中等 | [Python](Algorithms/421.数组中两个数的最大异或值/findMaximumXOR.py), [Python](Algorithms/421.数组中两个数的最大异或值/findMaximumXOR_2.py) |
+| 423 | [从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | 中等 | [Python](Algorithms/423.从英文中重建数字/originalDigits.py), [Python](Algorithms/423.从英文中重建数字/originalDigits_2.py) |
 | 424 | [替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | 中等 | [Python](Algorithms/424.替换后的最长重复字符/characterReplacement.py) |
 | 430 | [扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | 中等 | [Python](Algorithms/430.扁平化多级双向链表/flatten.py) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 简单 | [Python](Algorithms/434.字符串中的单词数/countSegments.py) |
@@ -310,6 +313,7 @@
 | 455 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | 简单 | [Python](Algorithms/455.分发饼干/findContentChildren.py) |
 | 456 | [132模式](https://leetcode-cn.com/problems/132-pattern/) | 中等 | [Python](Algorithms/456.132模式/find132pattern.py) |
 | 457 | [环形数组是否存在循环](https://leetcode-cn.com/problems/circular-array-loop/) | 中等| [Python](Algorithms/457.环形数组是否存在循环/circularArrayLoop.py) |
+| 458 | [可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/) | 困难 | [Python](Algorithms/458.可怜的小猪/poorPigs.py) |
 | 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) | 简单 | [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern.py), [Python](Algorithms/459.重复的子字符串/repeatedSubstringPattern_2.py) |
 | 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | 简单 | [Python](Algorithms/461.汉明距离/hammingDistance.py) |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | 简单 | [Python](Algorithms/463.岛屿的周长/islandPerimeter.py) |
@@ -335,10 +339,13 @@
 | 502 | [IPO](https://leetcode-cn.com/problems/ipo/) | 困难 | [Python](Algorithms/502.IPO/findMaximizedCapital.py) |
 | 503 | [下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/) | 中等 | [Python](Algorithms/503.下一个更大元素II/nextGreaterElements.py), [Python](Algorithms/503.下一个更大元素II/nextGreaterElements_2.py) |
 | 509 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | 简单 | [Python](Algorithms/509.斐波那契数/fib.py), [Python](Algorithms/509.斐波那契数/fib_2.py) |
+| 513 | [找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/) | 中等 | [Python](Algorithms/513.找树左下角的值/findBottomLeftValue.py) |
 | 514 | [自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 | [Java](Algorithms/514.自由之路/findRotateSteps.java), [Python](Algorithms/514.自由之路/findRotateSteps.py) |
+| 515 | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) | 中等 | [Python](Algorithms/515.在每个树行中找最大值/largestValues.py) |
 | 516 | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | 中等 | [Python](Algorithms/516.最长回文子序列/longestPalindromeSubseq.py) |
 | 517 | [超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines/) | 困难 | [Python](Algorithms/517.超级洗衣机/findMinMoves.py) |
 | 518 | [零钱兑换II](https://leetcode-cn.com/problems/coin-change-2/) | 中等 | [Python](Algorithms/518.零钱兑换II/change.py) |
+| 519 | [随机翻转矩阵](https://leetcode-cn.com/problems/random-flip-matrix/) | 中等 | [Python](Algorithms/519.随机翻转矩阵/flip.py), [Python](Algorithms/519.随机翻转矩阵/flip_2.py) |
 | 520 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | 简单 | [Python](Algorithms/520.检测大写字母/detectCapitalUse.py) |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | 中等 | [Python](Algorithms/523.连续的子数组和/checkSubarraySum.py), [Python](Algorithms/523.连续的子数组和/checkSubarraySum_2.py) |
 | 524 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | 中等 | [Python](Algorithms/524.通过删除字母匹配到字典里最长单词/findLongestWord.py), [Python](Algorithms/524.通过删除字母匹配到字典里最长单词/findLongestWord_2.py) |
@@ -348,6 +355,7 @@
 | 529 | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/) | 中等 | [Python](Algorithms/529.扫雷游戏/updateBoard.py) |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | 简单 | [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference.py), [Python](Algorithms/530.二叉搜索树的最小绝对差/getMinimumDifference_2.py) |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 中等 | [Python](Algorithms/538.把二叉搜索树转换为累加树/convertBST.py) |
+| 539 | [最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/) | 中等 | [Python](Algorithms/539.最小时间差/findMinDifference.py) |
 | 541 | [反转字符串II](https://leetcode-cn.com/problems/reverse-string-ii/) | 简单 | [Python](Algorithms/541.反转字符串II/reverseStr.py) |
 | 543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | 简单 | [Python](Algorithms/543.二叉树的直径/diameterOfBinaryTree.py) |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | 困难 | [Java](Algorithms/546.移除盒子/removeBoxes.java) |
@@ -407,6 +415,7 @@
 | 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | 中等 | [Python](Algorithms/695.岛屿的最大面积/maxAreaOfIsland.py), [Python](Algorithms/695.岛屿的最大面积/maxAreaOfIsland_2.py) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/) | 简单 | [Python](Algorithms/696.计数二进制子串/countBinarySubstrings.py) |
 | 697 | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 简单 | [Python](Algorithms/697.数组的度/findShortestSubArray.py) |
+| 700 | [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | 简单 | [Python](Algorithms/700.二叉搜索树中的搜索/searchBST.py) |
 | 701 | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | 中等 | [Python](Algorithms/701.二叉搜索树中的插入操作/insertIntoBST.py), [Python](Algorithms/701.二叉搜索树中的插入操作/insertIntoBST_2.py) |
 | 703 | [数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | 简单| [Python](Algorithms/703.数据流中的第K大元素/KthLargest.py), [Python](Algorithms/703.数据流中的第K大元素/KthLargest_2.py) |
 | 704 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | 简单 | [Python](Algorithms/704.二分查找/search.py) |
@@ -419,7 +428,9 @@
 | 725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | 中等 | [Python](Algorithms/725.分隔链表/splitListToParts.py), [Python](Algorithms/725.分隔链表/splitListToParts_2.py) |
 | 726 | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) | 困难 | [Python](Algorithms/726.原子的数量/countOfAtoms.py) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | 简单 | [Python](Algorithms/733.图像渲染/floodFill.py) |
+| 735 | [行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/) | 中等 | [Python](Algorithms/735.行星碰撞/asteroidCollision.py) |
 | 738 | [单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/) | 中等 | [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_2.py), [Python](Algorithms/738.单调递增的数字/monotoneIncreasingDigits_3.py) |
+| 739 | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 中等 | [Python](Algorithms/739.每日温度/dailyTemperatures.py) |
 | 740 | [删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | 中等 | [Python](Algorithms/740.删除并获得点数/deleteAndEarn.py) |
 | 743 | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) | 中等 | [Python](Algorithms/743.网络延迟时间/networkDelayTime.py) |
 | 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | 简单 | [Python](Algorithms/746.使用最小花费爬楼梯/minCostClimbingStairs.py) |
@@ -451,6 +462,7 @@
 | 845 | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | 中等 | [Python](Algorithms/845.数组中的最长山脉/longestMountain.py), [Python](Algorithms/845.数组中的最长山脉/longestMountain_2.py), [Python](Algorithms/845.数组中的最长山脉/longestMountain_3.py) |
 | 847 | [访问所有节点的最短路径](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/) | 困难 | [Python](Algorithms/847.访问所有节点的最短路径/shortestPathLength.py) |
 | 852 | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) | 简单 | [Python](Algorithms/852.山脉数组的峰顶索引/peakIndexInMountainArray.py), [Python](Algorithms/852.山脉数组的峰顶索引/peakIndexInMountainArray_2.py) |
+| 859 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/) | 简单 | [Python](Algorithms/859.亲密字符串/buddyStrings.py), [Python](Algorithms/859.亲密字符串/buddyStrings_2.py) |
 | 860 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | 简单 | [Python](Algorithms/860.柠檬水找零/lemonadeChange.py) |
 | 861 | [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | 中等 | [Python](Algorithms/861.翻转矩阵后的得分/matrixScore.py), [Python](Algorithms/861.翻转矩阵后的得分/matrixScore_2.py) |
 | 863 | [二叉树中所有距离为K的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/) | 中等 | [Python](Algorithms/863.二叉树中所有距离为K的结点/distanceK.py), [Python](Algorithms/863.二叉树中所有距离为K的结点/distanceK_2.py) |
@@ -465,13 +477,16 @@
 | 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | 简单 | [Python](Algorithms/897.递增顺序搜索树/increasingBST.py), [Python](Algorithms/897.递增顺序搜索树/increasingBST_2.py) |
 | 909 | [蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/) | 中等 | [Python](Algorithms/909.蛇梯棋/snakesAndLadders.py) |
 | 912 | [排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 中等 | [Python](Algorithms/912.排序数组/sortArray.py), [Python](Algorithms/912.排序数组/sortArray_2.py) |
+| 919 | [完全二叉树插入器](https://leetcode-cn.com/problems/complete-binary-tree-inserter/) | 中等 | [Python](Algorithms/919.完全二叉树插入器/CBTInserter.py), [Python](Algorithms/919.完全二叉树插入器/CBTInserter_2.py), [Python](Algorithms/919.完全二叉树插入器/CBTInserter_3.py) |
 | 922 | [按奇偶排序数组II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | 简单 | [Python](Algorithms/922.按奇偶排序数组II/sortArrayByParityII.py), [Python](Algorithms/922.按奇偶排序数组II/sortArrayByParityII_2.py) |
 | 925 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | 简单 | [Java](Algorithms/925.长按键入/isLongPressedName.java), [Python](Algorithms/925.长按键入/isLongPressedName.py) |
 | 930 | [和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) | 中等 | [Python](Algorithms/930.和相同的二元子数组/numSubarraysWithSum.py), [Python](Algorithms/930.和相同的二元子数组/numSubarraysWithSum_2.py), [Python](Algorithms/930.和相同的二元子数组/numSubarraysWithSum_3.py), [Python](Algorithms/930.和相同的二元子数组/numSubarraysWithSum_4.py) |
+| 933 | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/) | 简单 | [Python](Algorithms/933.最近的请求次数/RecentCounter.py) |
 | 938 | [二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) | 简单 | [Python](Algorithms/938.二叉搜索树的范围和/rangeSumBST.py), [Python](Algorithms/938.二叉搜索树的范围和/rangeSumBST_2.py) |
 | 941 | [有效的山脉数组](https://leetcode-cn.com/problems/valid-mountain-array/) | 简单 | [Python](Algorithms/941.有效的山脉数组/validMountainArray.py) |
 | 946 | [验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) | 中等 | [Python](Algorithms/946.验证栈序列/validateStackSequences.py) |
 | 947 | [移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | 中等 | [Python](Algorithms/947.移除最多的同行或同列石头/removeStones.py), [Python](Algorithms/947.移除最多的同行或同列石头/removeStones_2.py) |
+| 953 | [验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) | 简单 | [Python](Algorithms/953.验证外星语词典/isAlienSorted.py), [Python](Algorithms/953.验证外星语词典/isAlienSorted_2.py) |
 | 959 | [由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/) | 中等 | [Python](Algorithms/959.由斜杠划分区域/regionsBySlashes.py) |
 | 968 | [监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/) | 困难 | [Python](Algorithms/968.监控二叉树/minCameraCover.py) |
 | 973 | [最接近原点的K个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | 中等 | [Python](Algorithms/973.最接近原点的K个点/kClosest.py) |
@@ -769,5 +784,25 @@
 | 23 | [两个链表的第一个重合节点](https://leetcode-cn.com/problems/3u1WK4/) | 简单 | [Python](剑指Offer（专项突击版）/23.两个链表的第一个重合节点/getIntersectionNode.py) |
 | 24 | [反转链表](https://leetcode-cn.com/problems/UHnkqh/) | 简单 | [Python](剑指Offer（专项突击版）/24.反转链表/reverseList.py) |
 | 25 | [链表中的两数相加](https://leetcode-cn.com/problems/lMSNwu/) | 中等 | [Python](剑指Offer（专项突击版）/25.链表中的两数相加/addTwoNumbers.py) |
-| 26 | [重排链表](https://leetcode-cn.com/problems/LGjMqU/submissions/) | 中等 | [Python](剑指Offer（专项突击版）/26.重排链表/reorderList.py) |
+| 26 | [重排链表](https://leetcode-cn.com/problems/LGjMqU/) | 中等 | [Python](剑指Offer（专项突击版）/26.重排链表/reorderList.py) |
+| 27 | [回文链表](https://leetcode-cn.com/problems/aMhZSa/) | 简单 | [Python](剑指Offer（专项突击版）/27.回文链表/isPalindrome.py) |
+| 28 | [展平多级双向链表](https://leetcode-cn.com/problems/Qv1Da2/) | 中等 | [Python](剑指Offer（专项突击版）/28.展平多级双向链表/flatten.py) |
+| 29 | [排序的循环链表](https://leetcode-cn.com/problems/4ueAj6/) | 中等 | [Python](剑指Offer（专项突击版）/29.排序的循环链表/insert.py) |
+| 30 | [插入、删除和随机访问都是O(1)的容器](https://leetcode-cn.com/problems/FortPu/) | 中等 | [Python](剑指Offer（专项突击版）/30.插入、删除和随机访问都是O(1)的容器/RandomizedSet.py) |
+| 31 | [最近最少使用缓存](https://leetcode-cn.com/problems/OrIXps/) | 中等 | [Python](剑指Offer（专项突击版）/31.最近最少使用缓存/LRUCache.py) |
+| 32 | [有效的变位词](https://leetcode-cn.com/problems/dKk3P7/) | 简单 | [Python](剑指Offer（专项突击版）/32.有效的变位词/isAnagram.py) |
+| 33 | [变位词组](https://leetcode-cn.com/problems/sfvd7V/) | 中等 | [Python](剑指Offer（专项突击版）/33.变位词组/groupAnagrams.py) |
+| 34 | [外星语言是否排序](https://leetcode-cn.com/problems/lwyVBB/) | 简单 | [Python](剑指Offer（专项突击版）/34.外星语言是否排序/isAlienSorted.py) |
+| 35 | [最小时间差](https://leetcode-cn.com/problems/569nqc/) | 中等 | [Python](剑指Offer（专项突击版）/35.最小时间差/findMinDifference.py) |
+| 36 | [后缀表达式](https://leetcode-cn.com/problems/8Zf90G/) | 中等 | [Python](剑指Offer（专项突击版）/36.后缀表达式/evalRPN.py) |
+| 37 | [小行星碰撞](https://leetcode-cn.com/problems/XagZNi/) | 中等 | [Python](剑指Offer（专项突击版）/37.小行星碰撞/asteroidCollision.py) |
+| 38 | [每日温度](https://leetcode-cn.com/problems/iIQa4I/) | 中等 | [Python](剑指Offer（专项突击版）/38.每日温度/dailyTemperatures.py) |
+| 39 | [直方图最大矩形面积](https://leetcode-cn.com/problems/0ynMMM/) | 困难 | [Python](剑指Offer（专项突击版）/39.直方图最大矩形面积/largestRectangleArea.py) |
+| 40 | [矩阵中最大的矩形](https://leetcode-cn.com/problems/PLYXKQ/) | 困难 | [Python](剑指Offer（专项突击版）/40.矩阵中最大的矩形/maximalRectangle.py) |
+| 41 | [滑动窗口的平均值](https://leetcode-cn.com/problems/qIsx9U/) | 简单 | [Python](剑指Offer（专项突击版）/41.滑动窗口的平均值/MovingAverage.py) |
+| 42 | [最近请求次数](https://leetcode-cn.com/problems/H8086Q/) | 简答 | [Python](剑指Offer（专项突击版）/42.最近请求次数/RecentCounter.py) |
+| 43 | [往完全二叉树添加节点](https://leetcode-cn.com/problems/NaqhDT/) | 中等 | [Python](剑指Offer（专项突击版）/43.往完全二叉树添加节点/CBTInserter.py) |
+| 44 | [二叉树每层的最大值](https://leetcode-cn.com/problems/hPov7L/) | 中等 | [Python](剑指Offer（专项突击版）/44.二叉树每层的最大值/largestValues.py) |
+| 45 | [二叉树最底层最左边的值](https://leetcode-cn.com/problems/LwUNpT/) | 中等 | [Python](剑指Offer（专项突击版）/45.二叉树最底层最左边的值/findBottomLeftValue.py) |
+| 46 | [二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk/) | 中等 | [Python](剑指Offer（专项突击版）/46.二叉树的右侧视图/rightSideView.py) |
 | 69 | [山峰数组的顶部](https://leetcode-cn.com/problems/B1IidL/) | 简单 | [Python](剑指Offer（专项突击版）/69.山峰数组的顶部/peakIndexInMountainArray.py) |
