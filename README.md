@@ -48,6 +48,7 @@
 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 中等 | [Python](Algorithms/43/multiply.py) |
 | 44 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 困难 | [Python](Algorithms/44/isMatch.py) |
 | 45 | [跳跃游戏II](https://leetcode-cn.com/problems/jump-game/) | 中等 | [Python](Algorithms/45/jump.py) |
+| 46 | [全排列](https://leetcode-cn.com/problems/permutations/) | 中等 | [Python](Algorithms/46/permute.py), [Python](Algorithms/46/permute_2.py) |
 | 47 | [全排列II](https://leetcode-cn.com/problems/permutations-ii/) | 中等 | [Python](Algorithms/47/permuteUnique.py) |
 | 48 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 中等 | [Python](Algorithms/48/rotate.py) |
 | 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 | [Python](Algorithms/49/groupAnagrams.py) |
@@ -90,7 +91,7 @@
 | 90 | [子集II](https://leetcode-cn.com/problems/subsets-ii/) | 中等 | [Python](Algorithms/90/subsetsWithDup.py) |
 | 91 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | 中等 | [Python](Algorithms/91/numDecodings.py) |
 | 92 | [反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 中等 | [Python](Algorithms/92/reverseBetween.py), [Python](Algorithms/92/reverseBetween_2.py) |
-| 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 中等 | [Python](Algorithms/93/restoreIpAddresses.py), [Python](Algorithms/93/restoreIpAddresses_2.py) |
+| 93 | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 中等 | [Python](Algorithms/93/restoreIpAddresses.py), [Python](Algorithms/93/restoreIpAddresses_2.py), [Python|(Algorithms/93/restoreIpAddresses_3.py)
 | 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | [Python](Algorithms/94/inorderTraversal.py), [Python](Algorithms/94/inorderTraversal_2.py) |
 | 95 | [不同的二叉搜索树II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 中等 | [Python](Algorithms/95/generateTrees.py) |
 | 96 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 中等 | [Python](Algorithms/96/numTrees.py) |
@@ -422,6 +423,7 @@
 | 704 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | 简单 | [Python](Algorithms/704/search.py) |
 | 705 | [设计哈希集合](https://leetcode-cn.com/problems/design-hashset/) | 简单 | [Python](Algorithms/705/MyHashSet.py) |
 | 706 | [设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/) | 简单 | [Python](Algorithms/706/MyHashMap.py) |
+| 709 | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) | 简单 | [Python](Algorithms/709/toLowerCase.py), [Python](Algorithms/709/toLowerCase_2.py) |
 | 713 | [乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/) | 中等 | [Python](Algorithms/713/numSubarrayProductLessThanK.py) |
 | 714 | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 中等 | [Python](Algorithms/714/maxProfit.py), [Python](Algorithms/714/maxProfit_2.py) |
 | 721 | [账户合并](https://leetcode-cn.com/problems/accounts-merge/) | 中等 | [Python](Algorithms/721/accountsMerge.py) |
@@ -479,6 +481,7 @@
 | 896 | [单调数列](Algorithms/896/isMonotonic.py) | 简单 | [Python](Algorithms/896/isMonotonic.py), [Python](Algorithms/896/isMonotonic_2.py) |
 | 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | 简单 | [Python](Algorithms/897/increasingBST.py), [Python](Algorithms/897/increasingBST_2.py) |
 | 909 | [蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/) | 中等 | [Python](Algorithms/909/snakesAndLadders.py) |
+| 911 | [在线选举](https://leetcode-cn.com/problems/online-election/) | 中等 | [Python](Algorithms/911/TopVotedCandidate.py) |
 | 912 | [排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 中等 | [Python](Algorithms/912/sortArray.py), [Python](Algorithms/912/sortArray_2.py) |
 | 919 | [完全二叉树插入器](https://leetcode-cn.com/problems/complete-binary-tree-inserter/) | 中等 | [Python](Algorithms/919/CBTInserter.py), [Python](Algorithms/919/CBTInserter_2.py), [Python](Algorithms/919/CBTInserter_3.py) |
 | 922 | [按奇偶排序数组II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | 简单 | [Python](Algorithms/922/sortArrayByParityII.py), [Python](Algorithms/922/sortArrayByParityII_2.py) |
@@ -819,3 +822,9 @@
 | 54 | [所有大于等于节点的值之和](https://leetcode-cn.com/problems/w6cpku/) | 中等 | [Python](剑指Offer2/54/convertBST.py) |
 | 55 | [二叉搜索树迭代器](https://leetcode-cn.com/problems/kTOapQ/) | 中等 | [Python](剑指Offer2/55/BSTIterator.py) |
 | 69 | [山峰数组的顶部](https://leetcode-cn.com/problems/B1IidL/) | 简单 | [Python](剑指Offer2/69/peakIndexInMountainArray.py) |
+| 82 | [含有重复元素集合的组合](https://leetcode-cn.com/problems/4sjJUc/) | 中等 | [Python](剑指Offer2/82/combinationSum2.py) |
+| 83 | [没有重复元素集合的全排列](https://leetcode-cn.com/problems/VvJkup/) | 中等 | [Python](剑指Offer2/83/permute.py) |
+| 84 | [含有重复元素集合的全排列](https://leetcode-cn.com/problems/7p8L0Z/) | 中等 | [Python](剑指Offer2/84/permuteUnique.py) |
+| 85 | [生成匹配的括号](https://leetcode-cn.com/problems/IDBivT/) | 中等 | [Python](剑指Offer2/85/generateParenthesis.py) |
+| 86 | [分割回文子字符串](https://leetcode-cn.com/problems/M99OJA/) | 中等 | [Python](剑指Offer2/86/partition.py) |
+| 87 | [复原IP](https://leetcode-cn.com/problems/0on3uN/) | 中等 | [Python](剑指Offer2/87/restoreIpAddresses.py) |
