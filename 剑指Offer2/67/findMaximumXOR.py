@@ -1,6 +1,3 @@
-# 官方题解1：哈希表，从高到低依次确定答案的每一位
-# 时间复杂度O(nlog C)，空间复杂度O(n)
-# 272 ms
 class Solution:
     def findMaximumXOR(self, nums: List[int]) -> int:
         x = 0

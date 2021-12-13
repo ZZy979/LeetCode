@@ -1,16 +1,18 @@
-import bisect
+import heapq
 
-# 二分查找插入，时间复杂度O(n)
-# 128 ms
 class KthLargest:
 
     def __init__(self, k: int, nums: List[int]):
         self.k = k
-        self.nums = sorted(-x for x in nums)
+        self.heap = []
+        for x in nums:
+            self.add(x)
 
     def add(self, val: int) -> int:
-        bisect.insort(self.nums, -val)
-        return -self.nums[self.k - 1]
+        heapq.heappush(self.heap, val)
+        if len(self.heap) > self.k:
+            heapq.heappop(self.heap)
+        return self.heap[0]
 
 
 # Your KthLargest object will be instantiated and called as such:
