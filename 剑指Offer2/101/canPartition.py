@@ -1,4 +1,3 @@
-# 官方题解
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
         n = len(nums)
