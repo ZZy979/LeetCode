@@ -68,6 +68,10 @@ class SolutionFileTestCase(unittest.TestCase):
                 f'题目“{p}”的解答与文件不一致'
             )
 
+    def test_right_link(self):
+        for p in self.problems:
+            self.assertFalse(p.url.endswith('submissions/'), f'题目“{p}”的链接不正确')
+
 
 if __name__ == '__main__':
     unittest.main()
