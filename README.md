@@ -89,6 +89,7 @@
 | 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | 中等 | [Python](Algorithms/86/partition.py), [Python](Algorithms/86/partition_2.py) |
 | 87 | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 困难 | [Python](Algorithms/87/isScramble.py), [Python](Algorithms/87/isScramble_2.py) |
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | [Python](Algorithms/88/merge.py) |
+| 89 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | 中等 | [Python](Algorithms/89/grayCode.py), [Python](Algorithms/89/grayCode_2.py) |
 | 90 | [子集II](https://leetcode-cn.com/problems/subsets-ii/) | 中等 | [Python](Algorithms/90/subsetsWithDup.py) |
 | 91 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | 中等 | [Python](Algorithms/91/numDecodings.py) |
 | 92 | [反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 中等 | [Python](Algorithms/92/reverseBetween.py), [Python](Algorithms/92/reverseBetween_2.py) |
@@ -281,6 +282,7 @@
 | 384 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 中等 | [Python](Algorithms/384/shuffle.py) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 简单 | [Python](Algorithms/387/firstUniqChar.py), [Python](Algorithms/387/firstUniqChar_2.py) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | 简单 | [Python](Algorithms/389/findTheDifference.py), [Python](Algorithms/389/findTheDifference_2.py) |
+| 390 | [消除游戏](https://leetcode-cn.com/problems/elimination-game/) | 中等 | [Python](Algorithms/390/lastRemaining.py), [Python](Algorithms/390/lastRemaining_2.py), [Python](Algorithms/390/lastRemaining_3.py) |
 | 391 | [完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/) | 困难 | [Python](Algorithms/391/isRectangleCover.py) |
 | 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 简单 | [Python](Algorithms/392/isSubsequence.py) |
 | 395 | [至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 中等 | [Python](Algorithms/395/longestSubstring.py), [Python](Algorithms/395/longestSubstring_2.py) |
@@ -510,6 +512,7 @@
 | 909 | [蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/) | 中等 | [Python](Algorithms/909/snakesAndLadders.py) |
 | 911 | [在线选举](https://leetcode-cn.com/problems/online-election/) | 中等 | [Python](Algorithms/911/TopVotedCandidate.py) |
 | 912 | [排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 中等 | [Python](Algorithms/912/sortArray.py), [Python](Algorithms/912/sortArray_2.py) |
+| 913 | [猫和老鼠](https://leetcode-cn.com/problems/cat-and-mouse/) | 困难 | [Python](Algorithms/913/catMouseGame.py), [Python](Algorithms/913/catMouseGame_2.py) |
 | 919 | [完全二叉树插入器](https://leetcode-cn.com/problems/complete-binary-tree-inserter/) | 中等 | [Python](Algorithms/919/CBTInserter.py), [Python](Algorithms/919/CBTInserter_2.py), [Python](Algorithms/919/CBTInserter_3.py) |
 | 922 | [按奇偶排序数组II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | 简单 | [Python](Algorithms/922/sortArrayByParityII.py), [Python](Algorithms/922/sortArrayByParityII_2.py) |
 | 925 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | 简单 | [Java](Algorithms/925/isLongPressedName.java), [Python](Algorithms/925/isLongPressedName.py) |
@@ -564,6 +567,7 @@
 | 1143 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | 中等 | [Python](Algorithms/1143/longestCommonSubsequence.py) |
 | 1156 | [一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year/) | 简单 | [Python](Algorithms/1156/dayOfYear.py), [Python](Algorithms/1156/dayOfYear_2.py), [Python](Algorithms/1156/dayOfYear_3.py) |
 | 1178 | [猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | 困难 | [Python](Algorithms/1178/findNumOfValidWords.py), [Python](Algorithms/1178/findNumOfValidWords_2.py) |
+| 1185 | [一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week/) | 简单 | [Python](Algorithms/1185/dayOfTheWeek.py), [Python](Algorithms/1185/dayOfTheWeek_2.py) |
 | 1190 | [反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 中等 | [Python](Algorithms/1190/reverseParentheses.py) |
 | 1202 | [交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | 中等 | [Python](Algorithms/1202/smallestStringWithSwaps.py) |
 | 1203 | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | 困难 | [Python](Algorithms/1203/sortItems.py) |
@@ -594,6 +598,7 @@
 | 1486 | [数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | 简单 | [Python](Algorithms/1486/xorOperation.py), [Python](Algorithms/1486/xorOperation_2.py) |
 | 1489 | [找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 困难 | [Python](Algorithms/1489/findCriticalAndPseudoCriticalEdges.py) |
 | 1518 | [换酒问题](https://leetcode-cn.com/problems/water-bottles/) | 简单 | [Python](Algorithms/1518/numWaterBottles.py), [Python](Algorithms/1518/numWaterBottles_2.py) |
+| 1576 | [替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | 简单 | [Python](Algorithms/1576/modifyString.py) |
 | 1579 | [保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | 困难 | [Python](Algorithms/1579/maxNumEdgesToRemove.py) |
 | 1583 | [统计不开心的朋友](https://leetcode-cn.com/problems/count-unhappy-friends/) | 中等 | [Python](Algorithms/1583/unhappyFriends.py) |
 | 1584 | [连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | 中等 | [Python](Algorithms/1584/minCostConnectPoints.py) |
@@ -602,6 +607,8 @@
 | 1603 | [设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) | 简单 | [Python](Algorithms/1603/ParkingSystem.py) |
 | 1609 | [奇偶树](https://leetcode-cn.com/problems/even-odd-tree/) | 中等 | [Python](Algorithms/1609/isEvenOddTree.py), [Python](Algorithms/1609/isEvenOddTree_2.py) |
 | 1610 | [可见点的最大数目](https://leetcode-cn.com/problems/maximum-number-of-visible-points/) | 困难 | [Python](Algorithms/1610/visiblePoints.py) |
+| 1614 | [括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | 简单 | [Python](Algorithms/1614/maxDepth.py), [Python](Algorithms/1614/maxDepth_2.py) |
+| 1629 | [按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/) | 简单 | [Python](Algorithms/1629/slowestKey.py), [Python](Algorithms/1629/slowestKey_2.py) |
 | 1631 | [最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 中等 | [Python](Algorithms/1631/minimumEffortPath.py), [Python](Algorithms/1631/minimumEffortPath_2.py), [Python](Algorithms/1631/minimumEffortPath_3.py), [Python](Algorithms/1631/minimumEffortPath_4.py) |
 | 1646 | [获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/) | 简单 | [Python](Algorithms/1646/getMaximumGenerated.py) |
 | 1705 | [吃苹果的最大数目](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/) | 中等 | [Python](Algorithms/1705/eatenApples.py) |
@@ -626,6 +633,7 @@
 | 1894 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | 中等 | [Python](Algorithms/1894/chalkReplacer.py) |
 | 1991 | [找到数组的中间位置](https://leetcode-cn.com/problems/find-the-middle-index-in-array/) | 简单 | [Python](Algorithms/1991/findMiddleIndex.py) |
 | 1995 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | 简单 | [Python](Algorithms/1995/countQuadruplets.py), [Python](Algorithms/1995/countQuadruplets_2.py), [Python](Algorithms/1995/countQuadruplets_3.py) |
+| 2022 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | 简单 | [Python](Algorithms/2022/construct2DArray.py) |
 | LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | 简单 | [Python](Algorithms/LCP07/numWays.py), [Python](Algorithms/LCP07/numWays_2.py), [Python](Algorithms/LCP07/numWays_3.py), [Python](Algorithms/LCP07/numWays_4.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19/minimumOperations.py) |
