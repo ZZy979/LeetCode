@@ -237,6 +237,7 @@
 | 301 | [删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | 困难 | [Python](Algorithms/301/removeInvalidParentheses.py), [Python](Algorithms/301/removeInvalidParentheses_2.py) |
 | 303 | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 简单 | [Python](Algorithms/303/NumArray.py) |
 | 304 | [二维区域和检索-矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 中等 | [Python](Algorithms/304/NumMatrix.py), [Python](Algorithms/304/NumMatrix_2.py) |
+| 306 | [累加数](https://leetcode-cn.com/problems/additive-number/) | 中等 | [Python](Algorithms/306/isAdditiveNumber.py) |
 | 312 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/) | 困难 | [Python](Algorithms/312/maxCoins.py) |
 | 313 | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/) | 中等 | [Python](Algorithms/313/nthSuperUglyNumber.py), [Python](Algorithms/313/nthSuperUglyNumber_2.py) |
 | 315 | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | 困难 | [Python](Algorithms/315/countSmaller.py) |
@@ -252,6 +253,7 @@
 | 330 | [按要求补齐数组](https://leetcode-cn.com/problems/patching-array/) | 困难 | [Python](Algorithms/330/minPatches.py), [Python](Algorithms/330/minPatches_2.py) |
 | 331 | [验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | 中等 | [Python](Algorithms/331/isValidSerialization.py), [Python](Algorithms/331/isValidSerialization_2.py), [Python](Algorithms/331/isValidSerialization_3.py) |
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/) | 中等 | [Python](Algorithms/332/findItinerary.py) |
+| 334 | [递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) | 中等 | [Python](Algorithms/334/increasingTriplet.py) |
 | 335 | [路径交叉](https://leetcode-cn.com/problems/self-crossing/) | 困难 | [Python](Algorithms/335/isSelfCrossing.py) |
 | 336 | [回文对](https://leetcode-cn.com/problems/palindrome-pairs/) | 困难 | [Python](Algorithms/336/palindromePairs.py), [Python](Algorithms/336/palindromePairs_2.py) |
 | 337 | [打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/) | 中等 | [Python](Algorithms/337/rob.py), [Python](Algorithms/337/rob_2.py) |
@@ -278,6 +280,7 @@
 | 377 | [组合总和Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | 中等 | [Python](Algorithms/377/combinationSum4.py) |
 | 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | 中等 | [Python](Algorithms/380/RandomizedSet.py) |
 | 381 | [O(1)时间插入、删除和获取随机元素-允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | 困难 | [Python](Algorithms/381/RandomizedCollection.py) |
+| 382 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | 中等 | [Python](Algorithms/382/getRandom.py), [Python](Algorithms/382/getRandom_2.py) |
 | 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | 简单 | [Python](Algorithms/383/canConstruct.py) |
 | 384 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 中等 | [Python](Algorithms/384/shuffle.py) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 简单 | [Python](Algorithms/387/firstUniqChar.py), [Python](Algorithms/387/firstUniqChar_2.py) |
@@ -457,6 +460,7 @@
 | 740 | [删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | 中等 | [Python](Algorithms/740/deleteAndEarn.py) |
 | 743 | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) | 中等 | [Python](Algorithms/743/networkDelayTime.py) |
 | 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | 简单 | [Python](Algorithms/746/minCostClimbingStairs.py) |
+| 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | 简单 | [Python](Algorithms/747/dominantIndex.py), [Python](Algorithms/747/dominantIndex_2.py) |
 | 748 | [最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/) | 简单 | [Python](Algorithms/748/shortestCompletingWord.py), [Python](Algorithms/748/shortestCompletingWord_2.py) |
 | 752 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/) | 中等 | [Python](Algorithms/752/openLock.py) |
 | 763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 中等 | [Python](Algorithms/763/partitionLabels.py), [Python](Algorithms/763/partitionLabels_2.py) |
@@ -550,6 +554,7 @@
 | 1030 | [距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | 简单 | [Python](Algorithms/1030/allCellsDistOrder.py), [Python](Algorithms/1030/allCellsDistOrder_2.py) |
 | 1034 | [边界着色](https://leetcode-cn.com/problems/coloring-a-border/) | 中等 | [Python](Algorithms/1034/colorBorder.py) |
 | 1035 | [不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/) | 中等 | [Python](Algorithms/1035/maxUncrossedLines.py) |
+| 1036 | [逃离大迷宫](https://leetcode-cn.com/problems/escape-a-large-maze/) | 困难 | [Python](Algorithms/1036/isEscapePossible.py) |
 | 1038 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | 中等 | [Python](Algorithms/1038/bstToGst.py) |
 | 1044 | [最长重复子串](https://leetcode-cn.com/problems/longest-duplicate-substring/) | 困难 | [Python](Algorithms/1044/longestDupSubstring.py), [Python](Algorithms/1044/longestDupSubstring_2.py) |
 | 1046 | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | 简单 | [Python](Algorithms/1046/lastStoneWeight.py) |
@@ -615,6 +620,7 @@
 | 1707 | [与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 | [Python](Algorithms/1707/maximizeXor.py), [Python](Algorithms/1707/maximizeXor_2.py) |
 | 1711 | [大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | 中等 | [Python](Algorithms/1711/countPairs.py), [Python](Algorithms/1711/countPairs_2.py) |
 | 1713 | [得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/) | 困难 | [Python](Algorithms/1713/minOperations.py) |
+| 1716 | [计算力扣银行的钱](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/) | 简单 | [Python](Algorithms/1716/totalMoney.py) |
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | 简单 | [Python](Algorithms/1720/decode.py) |
 | 1723 | [完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | 困难 | [Python](Algorithms/1723/minimumTimeRequired.py) |
 | 1734 | [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | 中等 | [Python](Algorithms/1734/decode.py) |
