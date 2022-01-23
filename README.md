@@ -192,7 +192,7 @@
 | 216 | [组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/) | 中等 | [Python](Algorithms/216/combinationSum3.py) |
 | 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | 简单 | [Python](Algorithms/217/containsDuplicate.py) |
 | 218 | [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/) | 困难 | [Python](Algorithms/218/getSkyline.py) |
-| 219 | [存在重复元素II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | 简单 | [Python](Algorithms/219/containsNearbyDuplicate.py) |
+| 219 | [存在重复元素II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | 简单 | [Python](Algorithms/219/containsNearbyDuplicate.py), [Python](Algorithms/219/containsNearbyDuplicate_2.py) |
 | 220 | [存在重复元素III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | 中等 | [Java](Algorithms/220/containsNearbyAlmostDuplicate.java), [Java](Algorithms/220/containsNearbyAlmostDuplicate_2.java) |
 | 222 | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 | [Python](Algorithms/222/countNodes.py), [Python](Algorithms/222/countNodes_2.py) |
 | 223 | [矩形面积](https://leetcode-cn.com/problems/rectangle-area/) | 中等 | [Python](Algorithms/223/computeArea.py) |
@@ -569,6 +569,7 @@
 | 1122 | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | 简单 | [Java](Algorithms/1122/relativeSortArray.java), [Python](Algorithms/1122/relativeSortArray.py) |
 | 1128 | [等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | 简单 | [Python](Algorithms/1128/numEquivDominoPairs.py) |
 | 1137 | [第N个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) | 简单 | [Python](Algorithms/1137/tribonacci.py) |
+| 1140 | [石子游戏II](https://leetcode-cn.com/problems/stone-game-ii/) | 中等 | [Python](Algorithms/1140/stoneGameII.py) |
 | 1143 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | 中等 | [Python](Algorithms/1143/longestCommonSubsequence.py) |
 | 1156 | [一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year/) | 简单 | [Python](Algorithms/1156/dayOfYear.py), [Python](Algorithms/1156/dayOfYear_2.py), [Python](Algorithms/1156/dayOfYear_3.py) |
 | 1178 | [猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | 困难 | [Python](Algorithms/1178/findNumOfValidWords.py), [Python](Algorithms/1178/findNumOfValidWords_2.py) |
@@ -579,6 +580,7 @@
 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | 简单 | [Python](Algorithms/1207/uniqueOccurrences.py) |
 | 1208 | [尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/) | 中等 | [Python](Algorithms/1208/equalSubstring.py) |
 | 1218 | [最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 中等 | [Python](Algorithms/1218/longestSubsequence.py) |
+| 1220 | [统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation/) | 困难 | [Python](Algorithms/1220/countVowelPermutation.py), [Python](Algorithms/1220/countVowelPermutation_2.py) |
 | 1221 | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | 简单 | [Python](Algorithms/1221/balancedStringSplit.py), [Python](Algorithms/1221/balancedStringSplit_2.py) |
 | 1232 | [缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | 简单 | [Python](Algorithms/1232/checkStraightLine.py), [Python](Algorithms/1232/checkStraightLine_2.py) |
 | 1239 | [串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | 中等 | [Python](Algorithms/1239/maxLength.py) |
@@ -586,10 +588,13 @@
 | 1296 | [划分数组为连续数字的集合](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 中等 | [Python](Algorithms/1296/isPossibleDivide.py) |
 | 1310 | [子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | 中等 | [Python](Algorithms/1310/xorQueries.py) |
 | 1319 | [连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | 中等 | [Python](Algorithms/1319/makeConnected.py), [Python](Algorithms/1319/makeConnected_2.py) |
+| 1332 | [删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | 简单 | [Python](Algorithms/1332/removePalindromeSub.py) |
 | 1337 | [矩阵中战斗力最弱的K行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/) | 简单 | [Python](Algorithms/1337/kWeakestRows.py) |
+| 1345 | [跳跃游戏IV](https://leetcode-cn.com/problems/jump-game-iv/) | 困难 | [Python](Algorithms/1345/minJumps.py) |
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](Algorithms/1356/sortByBits.java), [Java](Algorithms/1356/sortByBits_2.java), [Java](Algorithms/1356/sortByBits_3.java), [Python](Algorithms/1356/sortByBits.py) |
 | 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](Algorithms/1365/smallerNumbersThanCurrent.py) |
 | 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | 简单 | [Java](Algorithms/1370/sortString.java), [Python](Algorithms/1370/sortString.py) |
+| 1406 | [石子游戏III](https://leetcode-cn.com/problems/stone-game-iii/) | 困难 | [Python](Algorithms/1406/stoneGameIII.py), [Python](Algorithms/1406/stoneGameIII_2.py), [Python](Algorithms/1406/stoneGameIII_3.py) |
 | 1418 | [点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) | 中等 | [Python](Algorithms/1418/displayTable.py) |
 | 1423 | [可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | 中等 | [Python](Algorithms/1423/maxScore.py) |
 | 1436 | [旅行终点站](https://leetcode-cn.com/problems/destination-city/) | 简单 | [Python](Algorithms/1436/destCity.py) |
@@ -602,7 +607,9 @@
 | 1482 | [制作m束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 中等 | [Python](Algorithms/1482/minDays.py) |
 | 1486 | [数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | 简单 | [Python](Algorithms/1486/xorOperation.py), [Python](Algorithms/1486/xorOperation_2.py) |
 | 1489 | [找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 困难 | [Python](Algorithms/1489/findCriticalAndPseudoCriticalEdges.py) |
+| 1510 | [石子游戏IV](https://leetcode-cn.com/problems/stone-game-iv/) | 困难 | [Python](Algorithms/1510/winnerSquareGame.py) |
 | 1518 | [换酒问题](https://leetcode-cn.com/problems/water-bottles/) | 简单 | [Python](Algorithms/1518/numWaterBottles.py), [Python](Algorithms/1518/numWaterBottles_2.py) |
+| 1563 | [石子游戏V](https://leetcode-cn.com/problems/stone-game-v/) | 困难 | [Python](Algorithms/1563/stoneGameV.py), [Python](Algorithms/1563/stoneGameV_2.py) |
 | 1576 | [替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | 简单 | [Python](Algorithms/1576/modifyString.py) |
 | 1579 | [保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | 困难 | [Python](Algorithms/1579/maxNumEdgesToRemove.py) |
 | 1583 | [统计不开心的朋友](https://leetcode-cn.com/problems/count-unhappy-friends/) | 中等 | [Python](Algorithms/1583/unhappyFriends.py) |
@@ -640,6 +647,8 @@
 | 1991 | [找到数组的中间位置](https://leetcode-cn.com/problems/find-the-middle-index-in-array/) | 简单 | [Python](Algorithms/1991/findMiddleIndex.py) |
 | 1995 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | 简单 | [Python](Algorithms/1995/countQuadruplets.py), [Python](Algorithms/1995/countQuadruplets_2.py), [Python](Algorithms/1995/countQuadruplets_3.py) |
 | 2022 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | 简单 | [Python](Algorithms/2022/construct2DArray.py) |
+| 2029 | [石子游戏IX](https://leetcode-cn.com/problems/stone-game-ix/) | 中等 | [Python](Algorithms/2029/stoneGameIX.py) |
+| 2034 | [股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/) | 中等 | [Python](Algorithms/2034/StockPrice.py), [Python](Algorithms/2034/StockPrice_2.py) |
 | LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | 简单 | [Python](Algorithms/LCP07/numWays.py), [Python](Algorithms/LCP07/numWays_2.py), [Python](Algorithms/LCP07/numWays_3.py), [Python](Algorithms/LCP07/numWays_4.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19/minimumOperations.py) |
