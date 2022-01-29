@@ -510,6 +510,7 @@
 | 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/) | 中等 | [Python](Algorithms/877/stoneGame.py), [Python](Algorithms/877/stoneGame_2.py) |
 | 879 | [盈利计划](https://leetcode-cn.com/problems/profitable-schemes/) | 困难 | [Python](Algorithms/879/profitableSchemes.py) |
 | 881 | [救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) | 中等 | [Python](Algorithms/881/numRescueBoats.py) |
+| 884 | [两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | 简单 | [Python](Algorithms/884/uncommonFromSentences.py), [Python](Algorithms/884/uncommonFromSentences_2.py) |
 | 888 | [公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/) | 简单 | [Python](Algorithms/888/fairCandySwap.py) |
 | 896 | [单调数列](Algorithms/896/isMonotonic.py) | 简单 | [Python](Algorithms/896/isMonotonic.py), [Python](Algorithms/896/isMonotonic_2.py) |
 | 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | 简单 | [Python](Algorithms/897/increasingBST.py), [Python](Algorithms/897/increasingBST_2.py) |
@@ -623,6 +624,7 @@
 | 1629 | [按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/) | 简单 | [Python](Algorithms/1629/slowestKey.py), [Python](Algorithms/1629/slowestKey_2.py) |
 | 1631 | [最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 中等 | [Python](Algorithms/1631/minimumEffortPath.py), [Python](Algorithms/1631/minimumEffortPath_2.py), [Python](Algorithms/1631/minimumEffortPath_3.py), [Python](Algorithms/1631/minimumEffortPath_4.py) |
 | 1646 | [获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/) | 简单 | [Python](Algorithms/1646/getMaximumGenerated.py) |
+| 1688 | [比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | 简单 | [Python](Algorithms/1688/numberOfMatches.py) |
 | 1705 | [吃苹果的最大数目](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/) | 中等 | [Python](Algorithms/1705/eatenApples.py) |
 | 1707 | [与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | 困难 | [Python](Algorithms/1707/maximizeXor.py), [Python](Algorithms/1707/maximizeXor_2.py) |
 | 1711 | [大餐计数](https://leetcode-cn.com/problems/count-good-meals/) | 中等 | [Python](Algorithms/1711/countPairs.py), [Python](Algorithms/1711/countPairs_2.py) |
@@ -635,6 +637,7 @@
 | 1738 | [找出第K大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | 中等 | [Python](Algorithms/1738/kthLargestValue.py), [Python](Algorithms/1738/kthLargestValue_2.py) |
 | 1743 | [从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/) | 中等 | [Python](Algorithms/1743/restoreArray.py) |
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 中等 | [Python](Algorithms/1744/canEat.py) |
+| 1765 | [地图中的最高点](https://leetcode-cn.com/problems/map-of-highest-peak/) | 中等 | [Python](Algorithms/1765/highestPeak.py) |
 | 1787 | [使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | 困难 | [Python](Algorithms/1787/minChanges.py) |
 | 1816 | [截断句子](https://leetcode-cn.com/problems/truncate-sentence/) | 简单 | [Python](Algorithms/1816/truncateSentence.py) |
 | 1818 | [绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/) | 中等 | [Python](Algorithms/1818/minAbsoluteSumDiff.py) |
@@ -646,9 +649,13 @@
 | 1894 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | 中等 | [Python](Algorithms/1894/chalkReplacer.py) |
 | 1991 | [找到数组的中间位置](https://leetcode-cn.com/problems/find-the-middle-index-in-array/) | 简单 | [Python](Algorithms/1991/findMiddleIndex.py) |
 | 1995 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | 简单 | [Python](Algorithms/1995/countQuadruplets.py), [Python](Algorithms/1995/countQuadruplets_2.py), [Python](Algorithms/1995/countQuadruplets_3.py) |
+| 1996 | [游戏中弱角色的数量](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/) | 中等 | [Python](Algorithms/1996/numberOfWeakCharacters.py), [Python](Algorithms/1996/numberOfWeakCharacters_2.py) |
+| 2013 | [检测正方形](https://leetcode-cn.com/problems/detect-squares/) | 中等 | [Python](Algorithms/2013/DetectSquares.py) |
 | 2022 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | 简单 | [Python](Algorithms/2022/construct2DArray.py) |
 | 2029 | [石子游戏IX](https://leetcode-cn.com/problems/stone-game-ix/) | 中等 | [Python](Algorithms/2029/stoneGameIX.py) |
 | 2034 | [股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/) | 中等 | [Python](Algorithms/2034/StockPrice.py), [Python](Algorithms/2034/StockPrice_2.py) |
+| 2045 | [到达目的地的第二短时间](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/) | 困难 | [Python](Algorithms/2045/secondMinimum.py) |
+| 2047 | [句子中的有效单词数](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/) | 简单 | [Python](Algorithms/2047/countValidWords.py) |
 | LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | 简单 | [Python](Algorithms/LCP07/numWays.py), [Python](Algorithms/LCP07/numWays_2.py), [Python](Algorithms/LCP07/numWays_3.py), [Python](Algorithms/LCP07/numWays_4.py) |
 | LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | 困难 | [C++](Algorithms/LCP13/minimalSteps.cpp) |
 | LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | 中等 | [Python](Algorithms/LCP19/minimumOperations.py) |
