@@ -542,6 +542,7 @@
 | 993 | [二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | 简单 | [Python](Algorithms/993/isCousins.py) |
 | 995 | [K连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | 困难 | [Java](Algorithms/995/minKBitFlips.java), [Java](Algorithms/995/minKBitFlips_2.java), [Java](Algorithms/995/minKBitFlips_3.java) |
 | 997 | [找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/) | 简单 | [Python](Algorithms/997/findJudge.py), [Python](Algorithms/997/findJudge_2.py) |
+| 1001 | [网格照明](https://leetcode-cn.com/problems/grid-illumination/) | 困难 | [Python](Algorithms/1001/gridIllumination.py) |
 | 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | 简单 | [Python](Algorithms/1002/commonChars.py), [Python](Algorithms/1002/commonChars_2.py) |
 | 1004 | [最大连续1的个数III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | 中等 | [Python](Algorithms/1004/longestOnes.py) |
 | 1005 | [K次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/) | 简单 | [Python](Algorithms/1005/largestSumAfterKNegations.py), [Python](Algorithms/1005/largestSumAfterKNegations_2.py) |
@@ -550,6 +551,7 @@
 | 1009 | [十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/) | 简单 | [Python](Algorithms/1009/bitwiseComplement.py) |
 | 1011 | [在D天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | 中等 | [Python](Algorithms/1011/shipWithinDays.py) |
 | 1018 | [可被5整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | 简单 | [Python](Algorithms/1018/prefixesDivBy5.py) |
+| 1020 | [飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/) | 中等 | [Python](Algorithms/1020/numEnclaves.py), [Python](Algorithms/1020/numEnclaves_2.py) |
 | 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 中等 | [Python](Algorithms/1024/videoStitching.py), [Python](Algorithms/1024/videoStitching_2.py) |
 | 1025 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/) | 简单 | [Python](Algorithms/1025/divisorGame.py) |
 | 1030 | [距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | 简单 | [Python](Algorithms/1030/allCellsDistOrder.py), [Python](Algorithms/1030/allCellsDistOrder_2.py) |
@@ -575,6 +577,7 @@
 | 1156 | [一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year/) | 简单 | [Python](Algorithms/1156/dayOfYear.py), [Python](Algorithms/1156/dayOfYear_2.py), [Python](Algorithms/1156/dayOfYear_3.py) |
 | 1178 | [猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | 困难 | [Python](Algorithms/1178/findNumOfValidWords.py), [Python](Algorithms/1178/findNumOfValidWords_2.py) |
 | 1185 | [一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week/) | 简单 | [Python](Algorithms/1185/dayOfTheWeek.py), [Python](Algorithms/1185/dayOfTheWeek_2.py) |
+| 1189 | [“气球”的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | 简单 | [Python](Algorithms/1189/maxNumberOfBalloons.py) |
 | 1190 | [反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | 中等 | [Python](Algorithms/1190/reverseParentheses.py) |
 | 1202 | [交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | 中等 | [Python](Algorithms/1202/smallestStringWithSwaps.py) |
 | 1203 | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | 困难 | [Python](Algorithms/1203/sortItems.py) |
@@ -597,6 +600,7 @@
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](Algorithms/1356/sortByBits.java), [Java](Algorithms/1356/sortByBits_2.java), [Java](Algorithms/1356/sortByBits_3.java), [Python](Algorithms/1356/sortByBits.py) |
 | 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](Algorithms/1365/smallerNumbersThanCurrent.py) |
 | 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | 简单 | [Java](Algorithms/1370/sortString.java), [Python](Algorithms/1370/sortString.py) |
+| 1405 | [最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/) | 中等 | [Python](Algorithms/1405/longestDiverseString.py) |
 | 1406 | [石子游戏III](https://leetcode-cn.com/problems/stone-game-iii/) | 困难 | [Python](Algorithms/1406/stoneGameIII.py), [Python](Algorithms/1406/stoneGameIII_2.py), [Python](Algorithms/1406/stoneGameIII_3.py) |
 | 1414 | [和为K的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | 中等 | [Python](Algorithms/1414/findMinFibonacciNumbers.py), [Python](Algorithms/1414/findMinFibonacciNumbers_2.py) |
 | 1418 | [点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) | 中等 | [Python](Algorithms/1418/displayTable.py) |
@@ -605,6 +609,7 @@
 | 1438 | [绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 中等 | [Java](Algorithms/1438/longestSubarray.java), [Java](Algorithms/1438/longestSubarray_2.java), [Python](Algorithms/1438/longestSubarray.py) |
 | 1442 | [形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | 中等 | [Python](Algorithms/1442/countTriplets.py), [Python](Algorithms/1442/countTriplets_2.py), [Python](Algorithms/1442/countTriplets_3.py) |
 | 1446 | [连续字符](https://leetcode-cn.com/problems/consecutive-characters/) | 简单 | [Python](Algorithms/1446/maxPower.py) |
+| 1447 | [最简分数](https://leetcode-cn.com/problems/simplified-fractions/) | 中等 | [Python](Algorithms/1447/simplifiedFractions.py) |
 | 1449 | [数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | 困难 | [Python](Algorithms/1449/largestNumber.py), [Python](Algorithms/1449/largestNumber_2.py) |
 | 1473 | [粉刷房子III](https://leetcode-cn.com/problems/paint-house-iii/) | 困难 | [Python](Algorithms/1473/minCost.py) |
 | 1480 | [一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/) | 简单 | [Python](Algorithms/1480/runningSum.py) |
@@ -653,10 +658,12 @@
 | 1877 | [数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/) | 中等 | [Python](Algorithms/1877/minPairSum.py) |
 | 1893 | [检查是否区域内所有整数都被覆盖](https://leetcode-cn.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单 | [Python](Algorithms/1893/isCovered.py), [Python](Algorithms/1893/isCovered_2.py) |
 | 1894 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | 中等 | [Python](Algorithms/1894/chalkReplacer.py) |
+| 1984 | [学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 简单 | [Python](Algorithms/1984/minimumDifference.py) |
 | 1991 | [找到数组的中间位置](https://leetcode-cn.com/problems/find-the-middle-index-in-array/) | 简单 | [Python](Algorithms/1991/findMiddleIndex.py) |
 | 1995 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | 简单 | [Python](Algorithms/1995/countQuadruplets.py), [Python](Algorithms/1995/countQuadruplets_2.py), [Python](Algorithms/1995/countQuadruplets_3.py) |
 | 1996 | [游戏中弱角色的数量](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/) | 中等 | [Python](Algorithms/1996/numberOfWeakCharacters.py), [Python](Algorithms/1996/numberOfWeakCharacters_2.py) |
 | 2000 | [反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | 简单 | [Python](Algorithms/2000/reversePrefix.py) |
+| 2006 | [差的绝对值为K的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | 简单 | [Python](Algorithms/2006/countKDifference.py), [Python](Algorithms/2006/countKDifference_2.py) |
 | 2013 | [检测正方形](https://leetcode-cn.com/problems/detect-squares/) | 中等 | [Python](Algorithms/2013/DetectSquares.py) |
 | 2022 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | 简单 | [Python](Algorithms/2022/construct2DArray.py) |
 | 2029 | [石子游戏IX](https://leetcode-cn.com/problems/stone-game-ix/) | 中等 | [Python](Algorithms/2029/stoneGameIX.py) |
