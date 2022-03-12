@@ -288,6 +288,7 @@
 | 390 | [消除游戏](https://leetcode-cn.com/problems/elimination-game/) | 中等 | [Python](Algorithms/390/lastRemaining.py), [Python](Algorithms/390/lastRemaining_2.py), [Python](Algorithms/390/lastRemaining_3.py) |
 | 391 | [完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/) | 困难 | [Python](Algorithms/391/isRectangleCover.py) |
 | 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 简单 | [Python](Algorithms/392/isSubsequence.py) |
+| 393 | [UTF-8编码验证](https://leetcode-cn.com/problems/utf-8-validation/) | 中等 | [Python](Algorithms/393/validUtf8.py), [Python](Algorithms/393/validUtf8_2.py), [Python](Algorithms/393/validUtf8_3.py) |
 | 395 | [至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 中等 | [Python](Algorithms/395/longestSubstring.py), [Python](Algorithms/395/longestSubstring_2.py) |
 | 397 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | 中等 | [Python](Algorithms/397/integerReplacement.py), [Python](Algorithms/397/integerReplacement_2.py) |
 | 399 | [除法求值](https://leetcode-cn.com/problems/evaluate-division/) | 中等 | [Python](Algorithms/399/calcEquation.py), [Python](Algorithms/399/calcEquation_2.py) |
@@ -353,6 +354,7 @@
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | 简单 | [Python](Algorithms/501/findMode.py), [Python](Algorithms/501/findMode_2.py) |
 | 502 | [IPO](https://leetcode-cn.com/problems/ipo/) | 困难 | [Python](Algorithms/502/findMaximizedCapital.py) |
 | 503 | [下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/) | 中等 | [Python](Algorithms/503/nextGreaterElements.py), [Python](Algorithms/503/nextGreaterElements_2.py) |
+| 504 | [七进制数](https://leetcode-cn.com/problems/base-7/) | 简单 | [Python](Algorithms/504/convertToBase7.py) |
 | 506 | [相对名次](https://leetcode-cn.com/problems/relative-ranks/) | 简单 | [Python](Algorithms/506/findRelativeRanks.py) |
 | 507 | [完美数](https://leetcode-cn.com/problems/perfect-number/) | 简单 | [Python](Algorithms/507/checkPerfectNumber.py), [Python](Algorithms/507/checkPerfectNumber_2.py) |
 | 509 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | 简单 | [Python](Algorithms/509/fib.py), [Python](Algorithms/509/fib_2.py) |
@@ -399,6 +401,8 @@
 | 576 | [出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/) | 中等 | [Python](Algorithms/576/findPaths.py), [Python](Algorithms/576/findPaths_2.py), [Python](Algorithms/576/findPaths_3.py) |
 | 581 | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | 中等 | [Python](Algorithms/581/findUnsortedSubarray.py), [Python](Algorithms/581/findUnsortedSubarray_2.py) |
 | 583 | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 中等 | [Python](Algorithms/583/minDistance.py), [Python](Algorithms/583/minDistance_2.py) |
+| 589 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | 简单 | [Python](Algorithms/589/preorder.py), [Python](Algorithms/589/preorder_2.py) |
+| 590 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | 简单 | [Python](Algorithms/590/postorder.py), [Python](Algorithms/590/postorder_2.py), [Python](Algorithms/590/postorder_3.py) |
 | 594 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | 简单 | [Python](Algorithms/594/findLHS.py), [Python](Algorithms/594/findLHS_2.py) |
 | 598 | [范围求和II](https://leetcode-cn.com/problems/range-addition-ii/) | 简单 | [Python](Algorithms/598/maxCount.py) |
 | 600 | [不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | 困难 | [Python](Algorithms/600/findIntegers.py), [Python](Algorithms/600/findIntegers_2.py) |
@@ -485,6 +489,7 @@
 | 789 | [逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts/) | 中等 | [Python](Algorithms/789/escapeGhosts.py) |
 | 794 | [有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/) | 中等 | [Python](Algorithms/794/validTicTacToe.py) |
 | 797 | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/) | 中等 | [Python](Algorithms/797/allPathsSourceTarget.py) |
+| 798 | [得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/) | 困难 | [Python](Algorithms/798/bestRotation.py) |
 | 802 | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/) | 中等 | [Python](Algorithms/802/eventualSafeNodes.py) |
 | 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | 困难 | [Java](Algorithms/803/hitBricks.java), [Java](Algorithms/803/hitBricks_2.java), [Python](Algorithms/803/hitBricks.py) |
 | 807 | [保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | 中等 | [Python](Algorithms/807/maxIncreaseKeepingSkyline.py) |
@@ -687,6 +692,8 @@
 | 2034 | [股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/) | 中等 | [Python](Algorithms/2034/StockPrice.py), [Python](Algorithms/2034/StockPrice_2.py) |
 | 2045 | [到达目的地的第二短时间](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/) | 困难 | [Python](Algorithms/2045/secondMinimum.py) |
 | 2047 | [句子中的有效单词数](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/) | 简单 | [Python](Algorithms/2047/countValidWords.py) |
+| 2049 | [统计最高分的节点数目](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/) | 中等 | [Python](Algorithms/2049/countHighestScoreNodes.py) |
+| 2055 | [蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/) | 中等 | [Python](Algorithms/2055/platesBetweenCandles.py), [Python](Algorithms/2055/platesBetweenCandles_2.py) |
 | 2100 | [适合打劫银行的日子](https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank/) | 中等 | [Python](Algorithms/2100/goodDaysToRobBank.py) |
 | 2104 | [子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges/) | 中等 | [Python](Algorithms/2104/subArrayRanges.py), [Python](Algorithms/2104/subArrayRanges_2.py) |
 | LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | 简单 | [Python](Algorithms/LCP07/numWays.py), [Python](Algorithms/LCP07/numWays_2.py), [Python](Algorithms/LCP07/numWays_3.py), [Python](Algorithms/LCP07/numWays_4.py) |
