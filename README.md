@@ -311,6 +311,7 @@
 | 423 | [从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | 中等 | [Python](Algorithms/423/originalDigits.py), [Python](Algorithms/423/originalDigits_2.py) |
 | 424 | [替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | 中等 | [Python](Algorithms/424/characterReplacement.py) |
 | 430 | [扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | 中等 | [Python](Algorithms/430/flatten.py) |
+| 432 | [全O(1)的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/) | 困难 | [Python](Algorithms/432/AllOne.py) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 简单 | [Python](Algorithms/434/countSegments.py) |
 | 435 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) | 中等 | [Python](Algorithms/435/eraseOverlapIntervals.py), [Python](Algorithms/435/eraseOverlapIntervals_2.py), [Python](Algorithms/435/eraseOverlapIntervals_3.py) |
 | 437 | [路径总和III](https://leetcode-cn.com/problems/path-sum-iii/) | 中等 | [Python](Algorithms/437/pathSum.py), [Python](Algorithms/437/pathSum_2.py), [Python](Algorithms/437/pathSum_3.py) |
@@ -405,8 +406,10 @@
 | 590 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | 简单 | [Python](Algorithms/590/postorder.py), [Python](Algorithms/590/postorder_2.py), [Python](Algorithms/590/postorder_3.py) |
 | 594 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | 简单 | [Python](Algorithms/594/findLHS.py), [Python](Algorithms/594/findLHS_2.py) |
 | 598 | [范围求和II](https://leetcode-cn.com/problems/range-addition-ii/) | 简单 | [Python](Algorithms/598/maxCount.py) |
+| 599 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | 简单 | [Python](Algorithms/599/findRestaurant.py) |
 | 600 | [不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | 困难 | [Python](Algorithms/600/findIntegers.py), [Python](Algorithms/600/findIntegers_2.py) |
 | 605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | 简单 | [Python](Algorithms/605/canPlaceFlowers.py), [Python](Algorithms/605/canPlaceFlowers_2.py) |
+| 606 | [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | 简单 | [Python](Algorithms/606/tree2str.py) |
 | 611 | [有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/) | 中等 | [Python](Algorithms/611/triangleNumber.py), [Python](Algorithms/611/triangleNumber_2.py), [Python](Algorithms/611/triangleNumber_3.py) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 简单 | [Python](Algorithms/617/mergeTrees.py), [Python](Algorithms/617/mergeTrees_2.py) |
 | 621 | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | 中等 | [Python](Algorithms/621/leastInterval.py), [Python](Algorithms/621/leastInterval_2.py) |
@@ -459,6 +462,7 @@
 | 713 | [乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/) | 中等 | [Python](Algorithms/713/numSubarrayProductLessThanK.py) |
 | 714 | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 中等 | [Python](Algorithms/714/maxProfit.py), [Python](Algorithms/714/maxProfit_2.py) |
 | 717 | [1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | 简单 | [Python](Algorithms/717/isOneBitCharacter.py), [Python](Algorithms/717/isOneBitCharacter_2.py) |
+| 720 | [词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/) | 简单 | [Python](Algorithms/720/longestWord.py), [Python](Algorithms/720/longestWord_2.py) |
 | 721 | [账户合并](https://leetcode-cn.com/problems/accounts-merge/) | 中等 | [Python](Algorithms/721/accountsMerge.py) |
 | 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | 简单 | [Python](Algorithms/724/pivotIndex.py), [Python](Algorithms/724/pivotIndex_2.py) |
 | 725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | 中等 | [Python](Algorithms/725/splitListToParts.py), [Python](Algorithms/725/splitListToParts_2.py) |
@@ -690,6 +694,9 @@
 | 2022 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | 简单 | [Python](Algorithms/2022/construct2DArray.py) |
 | 2029 | [石子游戏IX](https://leetcode-cn.com/problems/stone-game-ix/) | 中等 | [Python](Algorithms/2029/stoneGameIX.py) |
 | 2034 | [股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/) | 中等 | [Python](Algorithms/2034/StockPrice.py), [Python](Algorithms/2034/StockPrice_2.py) |
+| 2039 | [网络空闲的时刻](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/) | 中等 | [Python](Algorithms/2039/networkBecomesIdle.py), [Python](Algorithms/2039/networkBecomesIdle_2.py) |
+| 2043 | [简易银行系统](https://leetcode-cn.com/problems/simple-bank-system/) | 中等 | [Python](Algorithms/2043/Bank.py) |
+| 2044 | [统计按位或能得到最大值的子集数目](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | 中等 | [Python](Algorithms/2044/countMaxOrSubsets.py), [Python](Algorithms/2044/countMaxOrSubsets_2.py) |
 | 2045 | [到达目的地的第二短时间](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/) | 困难 | [Python](Algorithms/2045/secondMinimum.py) |
 | 2047 | [句子中的有效单词数](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/) | 简单 | [Python](Algorithms/2047/countValidWords.py) |
 | 2049 | [统计最高分的节点数目](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/) | 中等 | [Python](Algorithms/2049/countHighestScoreNodes.py) |
