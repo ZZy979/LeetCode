@@ -316,6 +316,7 @@
 | 435 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) | 中等 | [Python](Algorithms/435/eraseOverlapIntervals.py), [Python](Algorithms/435/eraseOverlapIntervals_2.py), [Python](Algorithms/435/eraseOverlapIntervals_3.py) |
 | 437 | [路径总和III](https://leetcode-cn.com/problems/path-sum-iii/) | 中等 | [Python](Algorithms/437/pathSum.py), [Python](Algorithms/437/pathSum_2.py), [Python](Algorithms/437/pathSum_3.py) |
 | 438 | [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | 中等 | [Python](Algorithms/438/findAnagrams.py), [Python](Algorithms/438/findAnagrams_2.py) |
+| 440 | [字典序的第K小数字](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/) | 困难 | [Python](Algorithms/440/findKthNumber.py) |
 | 441 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | 简单 | [Python](Algorithms/441/arrangeCoins.py), [Python](Algorithms/441/arrangeCoins_2.py) |
 | 443 | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) | 中等 | [Python](Algorithms/443/compress.py), [Python](Algorithms/443/compress_2.py) |
 | 445 | [两数相加II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | 中等 | [Python](Algorithms/445/addTwoNumbers.py), [Python](Algorithms/445/addTwoNumbers_2.py), [Python](Algorithms/445/addTwoNumbers_3.py) |
@@ -431,6 +432,7 @@
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | 简单 | [Python](Algorithms/657/judgeCircle.py), [Python](Algorithms/657/judgeCircle_2.py) |
 | 658 | [找到K个最接近的元素](https://leetcode-cn.com/problems/find-k-closest-elements/) | 中等 | [Python](Algorithms/658/findClosestElements.py) |
 | 659 | [分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | 中等 | [Python](Algorithms/659/isPossible.py), [Python](Algorithms/659/isPossible_2.py) |
+| 661 | [图片平滑器](https://leetcode-cn.com/problems/image-smoother/) | 简单 | [Python](Algorithms/661/imageSmoother.py), [Python](Algorithms/661/imageSmoother_2.py) |
 | 664 | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) | 困难 | [Python](Algorithms/664/strangePrinter.py) |
 | 665 | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) | 简单 | [Python](Algorithms/665/checkPossibility.py), [Python](Algorithms/665/checkPossibility_2.py) |
 | 671 | [二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | 简单 | [Python](Algorithms/671/findSecondMinimumValue.py), [Python](Algorithms/671/findSecondMinimumValue_2.py), [Python](Algorithms/671/findSecondMinimumValue_3.py) |
@@ -441,6 +443,7 @@
 | 678 | [有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/) | 中等 | [Python](Algorithms/678/checkValidString.py), [Python](Algorithms/678/checkValidString_2.py) |
 | 679 | [24点游戏](https://leetcode-cn.com/problems/24-game/) | 困难 | [Python](Algorithms/679/judgePoint24.py) |
 | 680 | [验证回文字符串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 简单 | [Python](Algorithms/680/validPalindrome.py) |
+| 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/) | 简单 | [Python](Algorithms/682/calPoints.py) |
 | 684 | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | 中等 | [Python](Algorithms/684/findRedundantConnection.py) |
 | 685 | [冗余连接II](https://leetcode-cn.com/problems/redundant-connection-ii/) | 困难 | [Python](Algorithms/685/findRedundantDirectedConnection.py) |
 | 686 | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/) | 中等 | [Python](Algorithms/686/repeatedStringMatch.py), [Python](Algorithms/686/repeatedStringMatch_2.py), [Python](Algorithms/686/repeatedStringMatch_3.py) |
@@ -692,8 +695,10 @@
 | 2013 | [检测正方形](https://leetcode-cn.com/problems/detect-squares/) | 中等 | [Python](Algorithms/2013/DetectSquares.py) |
 | 2016 | [增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/) | 简单 | [Python](Algorithms/2016/maximumDifference.py) |
 | 2022 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | 简单 | [Python](Algorithms/2022/construct2DArray.py) |
+| 2028 | [找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/) | 中等 | [Python](Algorithms/2028/missingRolls.py) |
 | 2029 | [石子游戏IX](https://leetcode-cn.com/problems/stone-game-ix/) | 中等 | [Python](Algorithms/2029/stoneGameIX.py) |
 | 2034 | [股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/) | 中等 | [Python](Algorithms/2034/StockPrice.py), [Python](Algorithms/2034/StockPrice_2.py) |
+| 2038 | [如果相邻两个颜色均相同则删除当前颜色](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | 中等 | [Python](Algorithms/2038/winnerOfGame.py), [Python](Algorithms/2038/winnerOfGame_2.py), [Python](Algorithms/2038/winnerOfGame_3.py) |
 | 2039 | [网络空闲的时刻](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/) | 中等 | [Python](Algorithms/2039/networkBecomesIdle.py), [Python](Algorithms/2039/networkBecomesIdle_2.py) |
 | 2043 | [简易银行系统](https://leetcode-cn.com/problems/simple-bank-system/) | 中等 | [Python](Algorithms/2043/Bank.py) |
 | 2044 | [统计按位或能得到最大值的子集数目](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | 中等 | [Python](Algorithms/2044/countMaxOrSubsets.py), [Python](Algorithms/2044/countMaxOrSubsets_2.py) |

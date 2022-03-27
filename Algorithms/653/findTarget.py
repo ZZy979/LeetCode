@@ -5,15 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def findTarget(self, root: TreeNode, k: int) -> bool:
+    def __init__(self):
         self.vals = set()
-        self.k = k
-        return self.preorder(root)
-    
-    def preorder(self, root):
+
+    def findTarget(self, root: TreeNode, k: int) -> bool:
         if not root:
             return False
-        if self.k - root.val in self.vals:
+        if k - root.val in self.vals:
             return True
         self.vals.add(root.val)
-        return self.preorder(root.left) or self.preorder(root.right)
+        return self.findTarget(root.left, k) or self.findTarget(root.right, k)
