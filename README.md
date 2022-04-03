@@ -307,6 +307,7 @@
 | 415 | [字符串相加](https://leetcode-cn.com/problems/add-strings/) | 简单 | [Python](Algorithms/415/addStrings.py) |
 | 416 | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 中等 | [Python](Algorithms/416/canPartition.py), [Python](Algorithms/416/canPartition_2.py) |
 | 419 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | 中等 | [Python](Algorithms/419/countBattleships.py), [Python](Algorithms/419/countBattleships_2.py) |
+| 420 | [强密码检验器](https://leetcode-cn.com/problems/strong-password-checker/) | 困难 | [Python](Algorithms/420/strongPasswordChecker.py), [Python](Algorithms/420/strongPasswordChecker_2.py) |
 | 421 | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | 中等 | [Python](Algorithms/421/findMaximumXOR.py), [Python](Algorithms/421/findMaximumXOR_2.py) |
 | 423 | [从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | 中等 | [Python](Algorithms/423/originalDigits.py), [Python](Algorithms/423/originalDigits_2.py) |
 | 424 | [替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | 中等 | [Python](Algorithms/424/characterReplacement.py) |
@@ -452,6 +453,7 @@
 | 689 | [三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | 困难 | [Python](Algorithms/689/maxSumOfThreeSubarrays.py) |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/) | 简单 | [Python](Algorithms/690/getImportance.py) |
 | 692 | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) | 中等 | [Python](Algorithms/692/topKFrequent.py), [Python](Algorithms/692/topKFrequent_2.py), [Python](Algorithms/692/topKFrequent_3.py) |
+| 693 | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | 简单 | [Python](Algorithms/693/hasAlternatingBits.py) |
 | 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | 中等 | [Python](Algorithms/695/maxAreaOfIsland.py), [Python](Algorithms/695/maxAreaOfIsland_2.py) |
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/) | 简单 | [Python](Algorithms/696/countBinarySubstrings.py) |
 | 697 | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 简单 | [Python](Algorithms/697/findShortestSubArray.py), [Python](Algorithms/697/findShortestSubArray_2.py) |
@@ -470,6 +472,7 @@
 | 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | 简单 | [Python](Algorithms/724/pivotIndex.py), [Python](Algorithms/724/pivotIndex_2.py) |
 | 725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | 中等 | [Python](Algorithms/725/splitListToParts.py), [Python](Algorithms/725/splitListToParts_2.py) |
 | 726 | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) | 困难 | [Python](Algorithms/726/countOfAtoms.py) |
+| 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/) | 简单 | [Python](Algorithms/728/selfDividingNumbers.py) |
 | 729 | [我的日程安排表I](https://leetcode-cn.com/problems/my-calendar-i/) | 中等 | [Java](Algorithms/729/MyCalendar.java) |
 | 733 | [图像渲染](https://leetcode-cn.com/problems/flood-fill/) | 简单 | [Python](Algorithms/733/floodFill.py) |
 | 735 | [行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/) | 中等 | [Python](Algorithms/735/asteroidCollision.py) |
@@ -477,6 +480,7 @@
 | 739 | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 中等 | [Python](Algorithms/739/dailyTemperatures.py) |
 | 740 | [删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | 中等 | [Python](Algorithms/740/deleteAndEarn.py) |
 | 743 | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) | 中等 | [Python](Algorithms/743/networkDelayTime.py) |
+| 744 | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) | 简单 | [Python](Algorithms/744/nextGreatestLetter.py) |
 | 746 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | 简单 | [Python](Algorithms/746/minCostClimbingStairs.py) |
 | 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | 简单 | [Python](Algorithms/747/dominantIndex.py), [Python](Algorithms/747/dominantIndex_2.py) |
 | 748 | [最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/) | 简单 | [Python](Algorithms/748/shortestCompletingWord.py), [Python](Algorithms/748/shortestCompletingWord_2.py) |
@@ -550,6 +554,7 @@
 | 946 | [验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) | 中等 | [Python](Algorithms/946/validateStackSequences.py) |
 | 947 | [移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | 中等 | [Python](Algorithms/947/removeStones.py), [Python](Algorithms/947/removeStones_2.py) |
 | 953 | [验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) | 简单 | [Python](Algorithms/953/isAlienSorted.py), [Python](Algorithms/953/isAlienSorted_2.py) |
+| 954 | [二倍数对数组](https://leetcode-cn.com/problems/array-of-doubled-pairs/) | 中等 | [Python](Algorithms/954/canReorderDoubled.py) |
 | 959 | [由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/) | 中等 | [Python](Algorithms/959/regionsBySlashes.py) |
 | 968 | [监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/) | 困难 | [Python](Algorithms/968/minCameraCover.py) |
 | 969 | [煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) | 中等 | [Python](Algorithms/969/pancakeSort.py) |
@@ -650,6 +655,7 @@
 | 1600 | [皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance/) | 中等 | [Python](Algorithms/1600/ThroneInheritance.py) |
 | 1601 | [最多可达成的换楼请求数目](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/) | 困难 | [Python](Algorithms/1601/maximumRequests.py) |
 | 1603 | [设计停车系统](https://leetcode-cn.com/problems/design-parking-system/) | 简单 | [Python](Algorithms/1603/ParkingSystem.py) |
+| 1606 | [找到处理最多请求的服务器](https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/) | 困难 | [Python](Algorithms/1606/busiestServers.py), [Python](Algorithms/1606/busiestServers_2.py) |
 | 1609 | [奇偶树](https://leetcode-cn.com/problems/even-odd-tree/) | 中等 | [Python](Algorithms/1609/isEvenOddTree.py), [Python](Algorithms/1609/isEvenOddTree_2.py) |
 | 1610 | [可见点的最大数目](https://leetcode-cn.com/problems/maximum-number-of-visible-points/) | 困难 | [Python](Algorithms/1610/visiblePoints.py) |
 | 1614 | [括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | 简单 | [Python](Algorithms/1614/maxDepth.py), [Python](Algorithms/1614/maxDepth_2.py) |
@@ -695,6 +701,7 @@
 | 2013 | [检测正方形](https://leetcode-cn.com/problems/detect-squares/) | 中等 | [Python](Algorithms/2013/DetectSquares.py) |
 | 2016 | [增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/) | 简单 | [Python](Algorithms/2016/maximumDifference.py) |
 | 2022 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | 简单 | [Python](Algorithms/2022/construct2DArray.py) |
+| 2024 | [考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/) | 中等 | [Python](Algorithms/2024/maxConsecutiveAnswers.py), [Python](Algorithms/2024/maxConsecutiveAnswers_2.py) |
 | 2028 | [找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/) | 中等 | [Python](Algorithms/2028/missingRolls.py) |
 | 2029 | [石子游戏IX](https://leetcode-cn.com/problems/stone-game-ix/) | 中等 | [Python](Algorithms/2029/stoneGameIX.py) |
 | 2034 | [股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/) | 中等 | [Python](Algorithms/2034/StockPrice.py), [Python](Algorithms/2034/StockPrice_2.py) |
