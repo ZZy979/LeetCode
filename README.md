@@ -238,6 +238,8 @@
 | 303 | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 简单 | [Python](Algorithms/303/NumArray.py) |
 | 304 | [二维区域和检索-矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 中等 | [Python](Algorithms/304/NumMatrix.py), [Python](Algorithms/304/NumMatrix_2.py) |
 | 306 | [累加数](https://leetcode-cn.com/problems/additive-number/) | 中等 | [Python](Algorithms/306/isAdditiveNumber.py) |
+| 307 | [区域和检索-数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable/) | 中等 | [Python](Algorithms/307/NumArray.py), [Python](Algorithms/307/NumArray_2.py), [Python](Algorithms/307/NumArray_3.py) |
+| 310 | [最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) | 中等 | [Python](Algorithms/310/findMinHeightTrees.py), [Python](Algorithms/310/findMinHeightTrees_2.py), [Python](Algorithms/310/findMinHeightTrees_3.py) |
 | 312 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/) | 困难 | [Python](Algorithms/312/maxCoins.py) |
 | 313 | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/) | 中等 | [Python](Algorithms/313/nthSuperUglyNumber.py), [Python](Algorithms/313/nthSuperUglyNumber_2.py) |
 | 315 | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | 困难 | [Python](Algorithms/315/countSmaller.py) |
@@ -311,6 +313,7 @@
 | 421 | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | 中等 | [Python](Algorithms/421/findMaximumXOR.py), [Python](Algorithms/421/findMaximumXOR_2.py) |
 | 423 | [从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | 中等 | [Python](Algorithms/423/originalDigits.py), [Python](Algorithms/423/originalDigits_2.py) |
 | 424 | [替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | 中等 | [Python](Algorithms/424/characterReplacement.py) |
+| 429 | [N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | 中等 | [Python](Algorithms/429/levelOrder.py) |
 | 430 | [扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | 中等 | [Python](Algorithms/430/flatten.py) |
 | 432 | [全O(1)的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/) | 困难 | [Python](Algorithms/432/AllOne.py) |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 简单 | [Python](Algorithms/434/countSegments.py) |
@@ -485,6 +488,7 @@
 | 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | 简单 | [Python](Algorithms/747/dominantIndex.py), [Python](Algorithms/747/dominantIndex_2.py) |
 | 748 | [最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/) | 简单 | [Python](Algorithms/748/shortestCompletingWord.py), [Python](Algorithms/748/shortestCompletingWord_2.py) |
 | 752 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/) | 中等 | [Python](Algorithms/752/openLock.py) |
+| 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/) | 简单 | [Python](Algorithms/762/countPrimeSetBits.py), [Python](Algorithms/762/countPrimeSetBits_2.py) |
 | 763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 中等 | [Python](Algorithms/763/partitionLabels.py), [Python](Algorithms/763/partitionLabels_2.py) |
 | 765 | [情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/) | 困难 | [Python](Algorithms/765/minSwapsCouples.py), [Python](Algorithms/765/minSwapsCouples_2.py) |
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/) | 简单 | [Python](Algorithms/766/isToeplitzMatrix.py) |
@@ -492,6 +496,7 @@
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | 简单 | [Python](Algorithms/771/numJewelsInStones.py) |
 | 773 | [滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/) | 困难 | [Python](Algorithms/773/slidingPuzzle.py) |
 | 778 | [水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/) | 困难 | [Python](Algorithms/778/swimInWater.py), [Python](Algorithms/778/swimInWater_2.py), [Python](Algorithms/778/swimInWater_3.py), [Python](Algorithms/778/swimInWater_4.py) |
+| 780 | [到达终点](https://leetcode-cn.com/problems/reaching-points/) | 困难 | [Python](Algorithms/780/reachingPoints.py) |
 | 781 | [森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/) | 中等 | [Python](Algorithms/781/numRabbits.py), [Python](Algorithms/781/numRabbits_2.py) |
 | 783 | [二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | 简单 | [Python](Algorithms/783/minDiffInBST.py) |
 | 785 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | 中等 | [Python](Algorithms/785/isBipartite.py), [Python](Algorithms/785/isBipartite_2.py) |
@@ -499,10 +504,12 @@
 | 787 | [K站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 中等 | [Python](Algorithms/787/findCheapestPrice.py) |
 | 789 | [逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts/) | 中等 | [Python](Algorithms/789/escapeGhosts.py) |
 | 794 | [有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/) | 中等 | [Python](Algorithms/794/validTicTacToe.py) |
+| 796 | [旋转字符串](https://leetcode-cn.com/problems/rotate-string/) | 简单 | [Python](Algorithms/796/rotateString.py) |
 | 797 | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/) | 中等 | [Python](Algorithms/797/allPathsSourceTarget.py) |
 | 798 | [得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/) | 困难 | [Python](Algorithms/798/bestRotation.py) |
 | 802 | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/) | 中等 | [Python](Algorithms/802/eventualSafeNodes.py) |
 | 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | 困难 | [Java](Algorithms/803/hitBricks.java), [Java](Algorithms/803/hitBricks_2.java), [Python](Algorithms/803/hitBricks.py) |
+| 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | 简单 | [Python](Algorithms/804/uniqueMorseRepresentations.py) |
 | 807 | [保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | 中等 | [Python](Algorithms/807/maxIncreaseKeepingSkyline.py) |
 | 810 | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 困难 | [Python](Algorithms/810/xorGame.py) |
 | 814 | [二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning/) | 中等 | [Python](Algorithms/814/pruneTree.py) |
