@@ -270,6 +270,7 @@
 | 350 | [两个数组的交集II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | 简单 | [Python](Algorithms/350/intersect.py) |
 | 352 | [将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | 困难 | [Java](Algorithms/352/SummaryRanges.java), [Python](Algorithms/352/SummaryRanges.py) |
 | 354 | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) | 困难 | [Python](Algorithms/354/maxEnvelopes.py), [Python](Algorithms/354/maxEnvelopes_2.py) |
+| 357 | [统计各位数字都不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | 中等 | [Python](Algorithms/357/countNumbersWithUniqueDigits.py) |
 | 363 | [矩形区域不超过K的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | 困难 | [Java](Algorithms/363/maxSumSubmatrix.java) |
 | 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | 简单 | [Python](Algorithms/367/isPerfectSquare.py), [Python](Algorithms/367/isPerfectSquare_2.py), [Python](Algorithms/367/isPerfectSquare_3.py) |
 | 368 | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | 中等 | [Python](Algorithms/368/largestDivisibleSubset.py), [Python](Algorithms/368/largestDivisibleSubset_2.py) |
@@ -285,6 +286,7 @@
 | 382 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | 中等 | [Python](Algorithms/382/getRandom.py), [Python](Algorithms/382/getRandom_2.py) |
 | 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | 简单 | [Python](Algorithms/383/canConstruct.py) |
 | 384 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 中等 | [Python](Algorithms/384/shuffle.py) |
+| 385 | [迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/) | 中等 | [Python](Algorithms/385/Solution.py) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 简单 | [Python](Algorithms/387/firstUniqChar.py), [Python](Algorithms/387/firstUniqChar_2.py) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | 简单 | [Python](Algorithms/389/findTheDifference.py), [Python](Algorithms/389/findTheDifference_2.py) |
 | 390 | [消除游戏](https://leetcode-cn.com/problems/elimination-game/) | 中等 | [Python](Algorithms/390/lastRemaining.py), [Python](Algorithms/390/lastRemaining_2.py), [Python](Algorithms/390/lastRemaining_3.py) |
@@ -344,6 +346,7 @@
 | 475 | [供暖器](https://leetcode-cn.com/problems/heaters/) | 中等 | [Python](Algorithms/475/findRadius.py) |
 | 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/) | 简单 | [Python](Algorithms/476/findComplement.py) |
 | 477 | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) | 中等 | [Python](Algorithms/477/totalHammingDistance.py) |
+| 479 | [最大回文数乘积](https://leetcode-cn.com/problems/largest-palindrome-product/) | 困难 | [Python](Algorithms/479/largestPalindrome.py), [Python](Algorithms/479/largestPalindrome_2.py) |
 | 480 | [滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median/) | 困难 | [Python](Algorithms/480/medianSlidingWindow.py), [Python](Algorithms/480/medianSlidingWindow_2.py) |
 | 482 | [密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/) | 简单 | [Python](Algorithms/482/licenseKeyFormatting.py) |
 | 483 | [最小好进制](https://leetcode-cn.com/problems/smallest-good-base/) | 困难 | [Python](Algorithms/483/smallestGoodBase.py) |
@@ -510,10 +513,12 @@
 | 802 | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/) | 中等 | [Python](Algorithms/802/eventualSafeNodes.py) |
 | 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | 困难 | [Java](Algorithms/803/hitBricks.java), [Java](Algorithms/803/hitBricks_2.java), [Python](Algorithms/803/hitBricks.py) |
 | 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | 简单 | [Python](Algorithms/804/uniqueMorseRepresentations.py) |
+| 806 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | 简单 | [Python](Algorithms/806/numberOfLines.py) |
 | 807 | [保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | 中等 | [Python](Algorithms/807/maxIncreaseKeepingSkyline.py) |
 | 810 | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 困难 | [Python](Algorithms/810/xorGame.py) |
 | 814 | [二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning/) | 中等 | [Python](Algorithms/814/pruneTree.py) |
 | 815 | [公交路线](https://leetcode-cn.com/problems/bus-routes/) | 困难 | [Python](Algorithms/815/numBusesToDestination.py) |
+| 819 | [最常见的单词](https://leetcode-cn.com/problems/most-common-word/) | 简单 | [Python](Algorithms/819/mostCommonWord.py) |
 | 820 | [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/) | 中等 | [Python](Algorithms/820/minimumLengthEncoding.py), [Python](Algorithms/820/minimumLengthEncoding_2.py) |
 | 825 | [适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages/) | 中等 | [Python](Algorithms/825/numFriendRequests.py) |
 | 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | 简单 | [Python](Algorithms/830/largeGroupPositions.py), [Python](Algorithms/830/largeGroupPositions_2.py) |
@@ -669,6 +674,7 @@
 | 1629 | [按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/) | 简单 | [Python](Algorithms/1629/slowestKey.py), [Python](Algorithms/1629/slowestKey_2.py) |
 | 1631 | [最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 中等 | [Python](Algorithms/1631/minimumEffortPath.py), [Python](Algorithms/1631/minimumEffortPath_2.py), [Python](Algorithms/1631/minimumEffortPath_3.py), [Python](Algorithms/1631/minimumEffortPath_4.py) |
 | 1646 | [获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/) | 简单 | [Python](Algorithms/1646/getMaximumGenerated.py) |
+| 1672 | [最富有客户的资产总量](https://leetcode-cn.com/problems/richest-customer-wealth/) | 简单 | [Python](Algorithms/1672/maximumWealth.py), [Python](Algorithms/1672/maximumWealth_2.py) |
 | 1688 | [比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | 简单 | [Python](Algorithms/1688/numberOfMatches.py) |
 | 1705 | [吃苹果的最大数目](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/) | 中等 | [Python](Algorithms/1705/eatenApples.py) |
 | 1706 | [球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/) | 中等 | [Python](Algorithms/1706/findBall.py), [Python](Algorithms/1706/findBall_2.py) |
