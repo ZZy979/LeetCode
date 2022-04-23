@@ -287,13 +287,16 @@
 | 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | 简单 | [Python](Algorithms/383/canConstruct.py) |
 | 384 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 中等 | [Python](Algorithms/384/shuffle.py) |
 | 385 | [迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/) | 中等 | [Python](Algorithms/385/Solution.py) |
+| 386 | [字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/) | 中等 | [Python](Algorithms/386/lexicalOrder.py) |
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 简单 | [Python](Algorithms/387/firstUniqChar.py), [Python](Algorithms/387/firstUniqChar_2.py) |
+| 388 | [文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path/) | 中等 | [Python](Algorithms/388/lengthLongestPath.py) |
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | 简单 | [Python](Algorithms/389/findTheDifference.py), [Python](Algorithms/389/findTheDifference_2.py) |
 | 390 | [消除游戏](https://leetcode-cn.com/problems/elimination-game/) | 中等 | [Python](Algorithms/390/lastRemaining.py), [Python](Algorithms/390/lastRemaining_2.py), [Python](Algorithms/390/lastRemaining_3.py) |
 | 391 | [完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/) | 困难 | [Python](Algorithms/391/isRectangleCover.py) |
 | 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 简单 | [Python](Algorithms/392/isSubsequence.py) |
 | 393 | [UTF-8编码验证](https://leetcode-cn.com/problems/utf-8-validation/) | 中等 | [Python](Algorithms/393/validUtf8.py), [Python](Algorithms/393/validUtf8_2.py), [Python](Algorithms/393/validUtf8_3.py) |
 | 395 | [至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 中等 | [Python](Algorithms/395/longestSubstring.py), [Python](Algorithms/395/longestSubstring_2.py) |
+| 396 | [旋转函数](https://leetcode-cn.com/problems/rotate-function/) | 中等 | [Python](Algorithms/396/maxRotateFunction.py) |
 | 397 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | 中等 | [Python](Algorithms/397/integerReplacement.py), [Python](Algorithms/397/integerReplacement_2.py) |
 | 399 | [除法求值](https://leetcode-cn.com/problems/evaluate-division/) | 中等 | [Python](Algorithms/399/calcEquation.py), [Python](Algorithms/399/calcEquation_2.py) |
 | 400 | [第N位数字](https://leetcode-cn.com/problems/nth-digit/) | 中等 | [Python](Algorithms/400/findNthDigit.py) |
@@ -410,6 +413,7 @@
 | 576 | [出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/) | 中等 | [Python](Algorithms/576/findPaths.py), [Python](Algorithms/576/findPaths_2.py), [Python](Algorithms/576/findPaths_3.py) |
 | 581 | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | 中等 | [Python](Algorithms/581/findUnsortedSubarray.py), [Python](Algorithms/581/findUnsortedSubarray_2.py) |
 | 583 | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 中等 | [Python](Algorithms/583/minDistance.py), [Python](Algorithms/583/minDistance_2.py) |
+| 587 | [安装栅栏](https://leetcode-cn.com/problems/erect-the-fence/) | 困难 | [Python](Algorithms/587/outerTrees.py) |
 | 589 | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | 简单 | [Python](Algorithms/589/preorder.py), [Python](Algorithms/589/preorder_2.py) |
 | 590 | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | 简单 | [Python](Algorithms/590/postorder.py), [Python](Algorithms/590/postorder_2.py), [Python](Algorithms/590/postorder_3.py) |
 | 594 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | 简单 | [Python](Algorithms/594/findLHS.py), [Python](Algorithms/594/findLHS_2.py) |
@@ -520,6 +524,8 @@
 | 815 | [公交路线](https://leetcode-cn.com/problems/bus-routes/) | 困难 | [Python](Algorithms/815/numBusesToDestination.py) |
 | 819 | [最常见的单词](https://leetcode-cn.com/problems/most-common-word/) | 简单 | [Python](Algorithms/819/mostCommonWord.py) |
 | 820 | [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/) | 中等 | [Python](Algorithms/820/minimumLengthEncoding.py), [Python](Algorithms/820/minimumLengthEncoding_2.py) |
+| 821 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | 简单 | [Python](Algorithms/821/shortestToChar.py), [Python](Algorithms/821/shortestToChar_2.py) |
+| 824 | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/) | 简单 | [Python](Algorithms/824/toGoatLatin.py) |
 | 825 | [适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages/) | 中等 | [Python](Algorithms/825/numFriendRequests.py) |
 | 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | 简单 | [Python](Algorithms/830/largeGroupPositions.py), [Python](Algorithms/830/largeGroupPositions_2.py) |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/) | 简单 | [Python](Algorithms/832/flipAndInvertImage.py) |
@@ -539,6 +545,7 @@
 | 861 | [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | 中等 | [Python](Algorithms/861/matrixScore.py), [Python](Algorithms/861/matrixScore_2.py) |
 | 863 | [二叉树中所有距离为K的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/) | 中等 | [Python](Algorithms/863/distanceK.py), [Python](Algorithms/863/distanceK_2.py) |
 | 867 | [转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | 简单 | [Python](Algorithms/867/transpose.py), [Python](Algorithms/867/transpose_2.py) |
+| 868 | [二进制间距](https://leetcode-cn.com/problems/binary-gap/) | 简单 | [Python](Algorithms/868/binaryGap.py), [Python](Algorithms/868/binaryGap_2.py) |
 | 869 | [重新排序得到2的幂](https://leetcode-cn.com/problems/reordered-power-of-2/) | 中等 | [Python](Algorithms/869/reorderedPowerOf2.py) |
 | 872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | 简单 | [Python](Algorithms/872/leafSimilar.py) |
 | 873 | [最长的斐波那契子序列的长度](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/) | 中等 | [Python](Algorithms/873/lenLongestFibSubseq.py), [Python](Algorithms/873/lenLongestFibSubseq_2.py) |
