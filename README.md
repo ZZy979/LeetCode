@@ -298,6 +298,7 @@
 | 395 | [至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 中等 | [Python](Algorithms/395/longestSubstring.py), [Python](Algorithms/395/longestSubstring_2.py) |
 | 396 | [旋转函数](https://leetcode-cn.com/problems/rotate-function/) | 中等 | [Python](Algorithms/396/maxRotateFunction.py) |
 | 397 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | 中等 | [Python](Algorithms/397/integerReplacement.py), [Python](Algorithms/397/integerReplacement_2.py) |
+| 398 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/) | 中等 | [Python](Algorithms/398/Solution.py), [Python](Algorithms/398/Solution_2.py) |
 | 399 | [除法求值](https://leetcode-cn.com/problems/evaluate-division/) | 中等 | [Python](Algorithms/399/calcEquation.py), [Python](Algorithms/399/calcEquation_2.py) |
 | 400 | [第N位数字](https://leetcode-cn.com/problems/nth-digit/) | 中等 | [Python](Algorithms/400/findNthDigit.py) |
 | 401 | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) | 简单 | [Python](Algorithms/401/readBinaryWatch.py), [Python](Algorithms/401/readBinaryWatch_2.py) |
@@ -313,11 +314,13 @@
 | 414 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | 简单 | [Python](Algorithms/414/thirdMax.py) |
 | 415 | [字符串相加](https://leetcode-cn.com/problems/add-strings/) | 简单 | [Python](Algorithms/415/addStrings.py) |
 | 416 | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 中等 | [Python](Algorithms/416/canPartition.py), [Python](Algorithms/416/canPartition_2.py) |
+| 417 | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | 中等 | [Python](Algorithms/417/pacificAtlantic.py) |
 | 419 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | 中等 | [Python](Algorithms/419/countBattleships.py), [Python](Algorithms/419/countBattleships_2.py) |
 | 420 | [强密码检验器](https://leetcode-cn.com/problems/strong-password-checker/) | 困难 | [Python](Algorithms/420/strongPasswordChecker.py), [Python](Algorithms/420/strongPasswordChecker_2.py) |
 | 421 | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | 中等 | [Python](Algorithms/421/findMaximumXOR.py), [Python](Algorithms/421/findMaximumXOR_2.py) |
 | 423 | [从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | 中等 | [Python](Algorithms/423/originalDigits.py), [Python](Algorithms/423/originalDigits_2.py) |
 | 424 | [替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | 中等 | [Python](Algorithms/424/characterReplacement.py) |
+| 427 | [建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/) | 中等 | [Python](Algorithms/427/construct.py) |
 | 429 | [N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | 中等 | [Python](Algorithms/429/levelOrder.py) |
 | 430 | [扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | 中等 | [Python](Algorithms/430/flatten.py) |
 | 432 | [全O(1)的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/) | 困难 | [Python](Algorithms/432/AllOne.py) |
@@ -553,10 +556,13 @@
 | 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/) | 中等 | [Python](Algorithms/877/stoneGame.py), [Python](Algorithms/877/stoneGame_2.py) |
 | 879 | [盈利计划](https://leetcode-cn.com/problems/profitable-schemes/) | 困难 | [Python](Algorithms/879/profitableSchemes.py) |
 | 881 | [救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) | 中等 | [Python](Algorithms/881/numRescueBoats.py) |
+| 883 | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) | 简单 | [Python](Algorithms/883/projectionArea.py), [Python](Algorithms/883/projectionArea_2.py) |
 | 884 | [两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | 简单 | [Python](Algorithms/884/uncommonFromSentences.py), [Python](Algorithms/884/uncommonFromSentences_2.py) |
 | 888 | [公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/) | 简单 | [Python](Algorithms/888/fairCandySwap.py) |
 | 896 | [单调数列](Algorithms/896/isMonotonic.py) | 简单 | [Python](Algorithms/896/isMonotonic.py), [Python](Algorithms/896/isMonotonic_2.py) |
 | 897 | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/) | 简单 | [Python](Algorithms/897/increasingBST.py), [Python](Algorithms/897/increasingBST_2.py) |
+| 905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) | 简单 | [Python](Algorithms/905/sortArrayByParity.py), [Python](Algorithms/905/sortArrayByParity_2.py) |
+| 908 | [最小差值I](https://leetcode-cn.com/problems/smallest-range-i/) | 简单 | [Python](Algorithms/908/smallestRangeI.py) |
 | 909 | [蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/) | 中等 | [Python](Algorithms/909/snakesAndLadders.py) |
 | 911 | [在线选举](https://leetcode-cn.com/problems/online-election/) | 中等 | [Python](Algorithms/911/TopVotedCandidate.py) |
 | 912 | [排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 中等 | [Python](Algorithms/912/sortArray.py), [Python](Algorithms/912/sortArray_2.py) |
