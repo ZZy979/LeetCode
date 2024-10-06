@@ -1,5 +1,6 @@
 import re
 import unittest
+from collections import defaultdict
 from pathlib import Path
 
 
@@ -27,6 +28,7 @@ class Problem:
 
 
 LINK_PATTERN = re.compile(r'\[(.+)\]\((.+)\)')
+PROBLEM_START_PATTERN = re.compile(r'\| [\w\-\.]+ \| \[')
 PROBLEM_PATTERN = re.compile(r'\| ([\w\-\.]+) \| (.+) \| (简单|中等|困难) \| (.+) \|')
 
 
@@ -37,11 +39,14 @@ def parse_link(link):
     return m.group(1), m.group(2)
 
 
-def parse_readme():
+def parse_solution_file(filename):
     problems = []
-    with open('README.md', encoding='utf8') as f:
+    with open(filename, encoding='utf-8') as f:
         for line in f:
-            if (m := re.fullmatch(PROBLEM_PATTERN, line.strip())) is not None:
+            if re.match(PROBLEM_START_PATTERN, line):
+                m = re.fullmatch(PROBLEM_PATTERN, line.strip())
+                if m is None:
+                    raise ValueError('题目格式错误，文件：', filename, '题目：', line)
                 num, title, difficulty, solutions = m.group(1), m.group(2), m.group(3), m.group(4)
                 title, url = parse_link(title)
                 solutions = [Solution(sol[0], Path(sol[1])) for s in solutions.split(', ') if (sol := parse_link(s))]
@@ -53,24 +58,32 @@ class SolutionFileTestCase(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
-        cls.problems = parse_readme()
+        cls.problems = defaultdict(list)
+        for f in Path('.').glob('*/solutions*.md'):
+            cls.problems[f.parent].extend(parse_solution_file(f))
+        print('题目数量：', {str(p): len(cls.problems[p]) for p in cls.problems})
 
     def test_file_consistent_with_readme(self):
-        for p in self.problems:
-            self.assertTrue(
-                all(s.file.parent == p.solutions[0].file.parent for s in p.solutions),
-                f'题目“{p}”的解答不在同一个目录下'
-            )
-            parent = p.solutions[0].file.parent
-            self.assertEqual(p.num, parent.name)
-            self.assertEqual(
-                sorted(parent.iterdir()), sorted(s.file for s in p.solutions),
-                f'题目“{p}”的解答与文件不一致'
-            )
+        for problem_set_dir, problems in self.problems.items():
+            for p in problems:
+                self.assertTrue(
+                    len(set(s.file.parent for s in p.solutions)) == 1,
+                    f'题目“{p}”的解答不在同一个目录下'
+                )
+                self.assertEqual(
+                    p.num, p.solutions[0].file.parent.name,
+                    f'题目“{p}”的解答所在目录与题号不一致'
+                )
+                problem_dir = problem_set_dir / p.solutions[0].file.parent
+                self.assertSetEqual(
+                    set(problem_dir.iterdir()), set(problem_set_dir / s.file for s in p.solutions),
+                    f'题目“{p}”的解答与文件不一致'
+                )
 
     def test_right_link(self):
-        for p in self.problems:
-            self.assertFalse(p.url.endswith('submissions/'), f'题目“{p}”的链接不正确')
+        for problems in self.problems.values():
+            for p in problems:
+                self.assertFalse(p.url.endswith('submissions/'), f'题目“{p}”的链接不正确')
 
 
 if __name__ == '__main__':
