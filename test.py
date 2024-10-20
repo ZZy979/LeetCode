@@ -83,7 +83,9 @@ class SolutionFileTestCase(unittest.TestCase):
     def test_right_link(self):
         for problems in self.problems.values():
             for p in problems:
-                self.assertFalse(p.url.endswith('submissions/'), f'题目“{p}”的链接不正确')
+                for suffix in ('submissions', 'description'):
+                    for s in (f'/{suffix}', f'/{suffix}/'):
+                        self.assertFalse(p.url.endswith(s), f'题目“{p}”的链接不正确，不能以{suffix}结尾')
 
 
 if __name__ == '__main__':

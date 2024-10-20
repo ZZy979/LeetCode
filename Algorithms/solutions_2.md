@@ -194,6 +194,7 @@
 | 881 | [救生艇](https://leetcode.cn/problems/boats-to-save-people/) | 中等 | [Python](881/numRescueBoats.py) |
 | 883 | [三维形体投影面积](https://leetcode.cn/problems/projection-area-of-3d-shapes/) | 简单 | [Python](883/projectionArea.py), [Python](883/projectionArea_2.py) |
 | 884 | [两句话中的不常见单词](https://leetcode.cn/problems/uncommon-words-from-two-sentences/) | 简单 | [Python](884/uncommonFromSentences.py), [Python](884/uncommonFromSentences_2.py) |
+| 887 | [鸡蛋掉落](https://leetcode.cn/problems/super-egg-drop/) | 困难 | [Python](887/superEggDrop.py) |
 | 888 | [公平的糖果棒交换](https://leetcode.cn/problems/fair-candy-swap/) | 简单 | [Python](888/fairCandySwap.py) |
 | 896 | [单调数列](896/isMonotonic.py) | 简单 | [Python](896/isMonotonic.py), [Python](896/isMonotonic_2.py) |
 | 897 | [递增顺序搜索树](https://leetcode.cn/problems/increasing-order-search-tree/) | 简单 | [Python](897/increasingBST.py), [Python](897/increasingBST_2.py) |

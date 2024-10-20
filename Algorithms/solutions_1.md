@@ -62,6 +62,7 @@
 | 59 | [螺旋矩阵II](https://leetcode.cn/problems/spiral-matrix-ii/) | 中等 | [Python](59/generateMatrix.py) |
 | 60 | [第k个排列](https://leetcode.cn/problems/permutation-sequence/) | 困难 | [Python](60/getPermutation.py) |
 | 62 | [不同路径](https://leetcode.cn/problems/unique-paths/) | 中等 | [Python](62/uniquePaths.py), [Python](62/uniquePaths_2.py), [Python](62/uniquePaths_3.py) |
+| 63 | [不同路径 II](https://leetcode.cn/problems/unique-paths-ii/) | 中等 | [Python](63/uniquePathsWithObstacles.py) |
 | 64 | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | 中等 | [Python](64/minPathSum.py) |
 | 65 | [有效数字](https://leetcode.cn/problems/valid-number/) | 困难 | [Python](65/isNumber.py) |
 | 66 | [加一](https://leetcode.cn/problems/plus-one/) | 简单 | [Python](66/plusOne.py), [Python](66/plusOne_2.py) |
@@ -96,6 +97,7 @@
 | 95 | [不同的二叉搜索树II](https://leetcode.cn/problems/unique-binary-search-trees-ii/) | 中等 | [Python](95/generateTrees.py) |
 | 96 | [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/) | 中等 | [Python](96/numTrees.py) |
 | 97 | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | 中等 | [Python](97/isInterleave.py) |
+| 98 | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | 中等 | [Python](98/isValidBST.py), [Python](98/isValidBST_2.py) |
 | 99 | [恢复二叉搜索树](https://leetcode.cn/problems/recover-binary-search-tree/) | 困难 | [Python](99/recoverTree.py) |
 | 100 | [相同的树](https://leetcode.cn/problems/same-tree/) | 简单 | [Python](100/isSameTree.py) |
 | 101 | [对称二叉树](https://leetcode.cn/problems/symmetric-tree/) | 简单 | [Python](101/isSymmetric.py) |

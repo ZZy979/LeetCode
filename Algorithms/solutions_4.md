@@ -48,6 +48,7 @@
 | 1838 | [最高频元素的频数](https://leetcode.cn/problems/frequency-of-the-most-frequent-element/) | 中等 | [Python](1838/maxFrequency.py) |
 | 1846 | [减小和重新排列数组后的最大元素](https://leetcode.cn/problems/maximum-element-after-decreasing-and-rearranging/) | 中等 | [Python](1846/maximumElementAfterDecrementingAndRearranging.py) |
 | 1877 | [数组中最大数对和的最小值](https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/) | 中等 | [Python](1877/minPairSum.py) |
+| 1884 | [鸡蛋掉落-两枚鸡蛋](https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/) | 中等 | [Python](1884/twoEggDrop.py), [Python](1884/twoEggDrop_2.py) |
 | 1893 | [检查是否区域内所有整数都被覆盖](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单 | [Python](1893/isCovered.py), [Python](1893/isCovered_2.py) |
 | 1894 | [找到需要补充粉笔的学生编号](https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/) | 中等 | [Python](1894/chalkReplacer.py) |
 | 1984 | [学生分数的最小差值](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 简单 | [Python](1984/minimumDifference.py) |
