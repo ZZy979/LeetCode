@@ -3,6 +3,7 @@
 | # | 题名 | 难度 | 解答 |
 | --- | --- | --- | --- |
 | 3158 | [求出出现两次数字的 XOR 值](https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice/) | 简单 | [Python](3158/duplicateNumbersXOR.py), [Python](3158/duplicateNumbersXOR_2.py) |
+| 3165 | [不包含相邻元素的子序列的最大和](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) | 困难 | [Python](3165/maximumSumSubsequence.py) |
 | 3175 | [找到连续赢 K 场比赛的第一位玩家](https://leetcode.cn/problems/find-the-first-player-to-win-k-games-in-a-row/) | 中等 | [Python](3175/findWinningPlayer.py), [Python](3175/findWinningPlayer_2.py) |
 | 3180 | [执行操作可获得的最大总奖励 I](https://leetcode.cn/problems/maximum-total-reward-using-operations-i/) | 中等 | [Python](3180/maxTotalReward.py) |
 | 3181 | [执行操作可获得的最大总奖励 II](https://leetcode.cn/problems/maximum-total-reward-using-operations-ii/) | 困难 | [Python](3181/maxTotalReward.py) |
@@ -13,3 +14,7 @@
 | 3193 | [统计逆序对的数目](https://leetcode.cn/problems/count-the-number-of-inversions/) | 困难 | [Python](3193/numberOfPermutations.py) |
 | 3194 | [最小元素和最大元素的最小平均值](https://leetcode.cn/problems/minimum-average-of-smallest-and-largest-elements/) | 简单 | [Python](3194/minimumAverage.py) |
 | 3200 | [三角形的最大高度](https://leetcode.cn/problems/maximum-height-of-a-triangle/) | 简单 | [Python](3200/maxHeightOfTriangle.py) |
+| 3211 | [生成不含相邻零的二进制字符串](https://leetcode.cn/problems/generate-binary-strings-without-adjacent-zeros/) | 中等 | [Python](3211/validStrings.py), [Python](3211/validStrings_2.py), [Python](3211/validStrings_3.py) |
+| 3216 | [交换后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-a-swap/) | 简单 | [Python](3216/getSmallestString.py) |
+| 3226 | [使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/) | 简单 | [Python](3226/minChanges.py), [Python](3226/minChanges_2.py) |
+| 3259 | [超级饮料的最大强化能量](https://leetcode.cn/problems/maximum-energy-boost-from-two-drinks/) | 中等 | [Python](3259/maxEnergyBoost.py) |
