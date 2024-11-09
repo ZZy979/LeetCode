@@ -16,5 +16,10 @@
 | 3200 | [三角形的最大高度](https://leetcode.cn/problems/maximum-height-of-a-triangle/) | 简单 | [Python](3200/maxHeightOfTriangle.py) |
 | 3211 | [生成不含相邻零的二进制字符串](https://leetcode.cn/problems/generate-binary-strings-without-adjacent-zeros/) | 中等 | [Python](3211/validStrings.py), [Python](3211/validStrings_2.py), [Python](3211/validStrings_3.py) |
 | 3216 | [交换后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-a-swap/) | 简单 | [Python](3216/getSmallestString.py) |
+| 3222 | [求出硬币游戏的赢家](https://leetcode.cn/problems/find-the-winning-player-in-coin-game/) | 简单 | [Python](3222/losingPlayer.py) |
 | 3226 | [使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/) | 简单 | [Python](3226/minChanges.py), [Python](3226/minChanges_2.py) |
+| 3235 | [判断矩形的两个角落是否可达](https://leetcode.cn/problems/check-if-the-rectangle-corner-is-reachable/) | 困难 | [Python](3235/canReachCorner.py) |
+| 3242 | [设计相邻元素求和服务](https://leetcode.cn/problems/design-neighbor-sum-service/) | 简单 | [Python](3242/NeighborSum.py) |
+| 3254 | [长度为 K 的子数组的能量值 I](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-i/) | 中等 | [Python](3254/resultsArray.py) |
+| 3255 | [长度为 K 的子数组的能量值 II](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-ii/) | 中等 | [Python](3255/resultsArray.py) |
 | 3259 | [超级饮料的最大强化能量](https://leetcode.cn/problems/maximum-energy-boost-from-two-drinks/) | 中等 | [Python](3259/maxEnergyBoost.py) |
