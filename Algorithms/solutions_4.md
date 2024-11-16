@@ -4,6 +4,7 @@
 | --- | --- | --- | --- |
 | 1510 | [石子游戏IV](https://leetcode.cn/problems/stone-game-iv/) | 困难 | [Python](1510/winnerSquareGame.py) |
 | 1518 | [换酒问题](https://leetcode.cn/problems/water-bottles/) | 简单 | [Python](1518/numWaterBottles.py), [Python](1518/numWaterBottles_2.py) |
+| 1547 | [切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/) | 困难 | [Python](1547/minCost.py) |
 | 1563 | [石子游戏V](https://leetcode.cn/problems/stone-game-v/) | 困难 | [Python](1563/stoneGameV.py), [Python](1563/stoneGameV_2.py) |
 | 1576 | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | 简单 | [Python](1576/modifyString.py) |
 | 1579 | [保证图可完全遍历](https://leetcode.cn/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | 困难 | [Python](1579/maxNumEdgesToRemove.py) |

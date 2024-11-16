@@ -19,7 +19,12 @@
 | 3222 | [求出硬币游戏的赢家](https://leetcode.cn/problems/find-the-winning-player-in-coin-game/) | 简单 | [Python](3222/losingPlayer.py) |
 | 3226 | [使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/) | 简单 | [Python](3226/minChanges.py), [Python](3226/minChanges_2.py) |
 | 3235 | [判断矩形的两个角落是否可达](https://leetcode.cn/problems/check-if-the-rectangle-corner-is-reachable/) | 困难 | [Python](3235/canReachCorner.py) |
+| 3239 | [最少翻转次数使二进制矩阵回文 I](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | 中等 | [Python](3239/minFlips.py) |
+| 3240 | [最少翻转次数使二进制矩阵回文 II](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) | 中等 | [Python](3240/minFlips.py) |
 | 3242 | [设计相邻元素求和服务](https://leetcode.cn/problems/design-neighbor-sum-service/) | 简单 | [Python](3242/NeighborSum.py) |
+| 3249 | [统计好节点的数目](https://leetcode.cn/problems/count-the-number-of-good-nodes/) | 中等 | [Python](3249/countGoodNodes.py) |
 | 3254 | [长度为 K 的子数组的能量值 I](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-i/) | 中等 | [Python](3254/resultsArray.py) |
 | 3255 | [长度为 K 的子数组的能量值 II](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-ii/) | 中等 | [Python](3255/resultsArray.py) |
+| 3258 | [统计满足 K 约束的子字符串数量 I](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/) | 简单 | [Python](3258/countKConstraintSubstrings.py), [Python](3258/countKConstraintSubstrings_2.py) |
 | 3259 | [超级饮料的最大强化能量](https://leetcode.cn/problems/maximum-energy-boost-from-two-drinks/) | 中等 | [Python](3259/maxEnergyBoost.py) |
+| 3261 | [统计满足 K 约束的子字符串数量 II](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-ii/) | 困难 | [Python](3261/countKConstraintSubstrings.py) |
