@@ -14,10 +14,13 @@
 | 3193 | [统计逆序对的数目](https://leetcode.cn/problems/count-the-number-of-inversions/) | 困难 | [Python](3193/numberOfPermutations.py) |
 | 3194 | [最小元素和最大元素的最小平均值](https://leetcode.cn/problems/minimum-average-of-smallest-and-largest-elements/) | 简单 | [Python](3194/minimumAverage.py) |
 | 3200 | [三角形的最大高度](https://leetcode.cn/problems/maximum-height-of-a-triangle/) | 简单 | [Python](3200/maxHeightOfTriangle.py) |
+| 3206 | [交替组 I](https://leetcode.cn/problems/alternating-groups-i/) | 简单 | [Python](3206/numberOfAlternatingGroups.py) |
+| 3208 | [交替组 II](https://leetcode.cn/problems/alternating-groups-ii/) | 中等 | [Python](3208/numberOfAlternatingGroups.py), [Python](3208/numberOfAlternatingGroups_2.py) |
 | 3211 | [生成不含相邻零的二进制字符串](https://leetcode.cn/problems/generate-binary-strings-without-adjacent-zeros/) | 中等 | [Python](3211/validStrings.py), [Python](3211/validStrings_2.py), [Python](3211/validStrings_3.py) |
 | 3216 | [交换后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-a-swap/) | 简单 | [Python](3216/getSmallestString.py) |
 | 3222 | [求出硬币游戏的赢家](https://leetcode.cn/problems/find-the-winning-player-in-coin-game/) | 简单 | [Python](3222/losingPlayer.py) |
 | 3226 | [使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/) | 简单 | [Python](3226/minChanges.py), [Python](3226/minChanges_2.py) |
+| 3232 | [判断是否可以赢得数字游戏](https://leetcode.cn/problems/find-if-digit-game-can-be-won/) | 简单 | [Python](3232/canAliceWin.py) |
 | 3233 | [统计不是特殊数字的数字数量](https://leetcode.cn/problems/find-the-count-of-numbers-which-are-not-special/) | 中等 | [Python](3233/nonSpecialCount.py) |
 | 3235 | [判断矩形的两个角落是否可达](https://leetcode.cn/problems/check-if-the-rectangle-corner-is-reachable/) | 困难 | [Python](3235/canReachCorner.py) |
 | 3238 | [求出胜利玩家的数目](https://leetcode.cn/problems/find-the-number-of-winning-players/) | 简单 | [Python](3238/winningPlayerCount.py) |
@@ -28,6 +31,8 @@
 | 3244 | [新增道路查询后的最短距离 II](https://leetcode.cn/problems/shortest-distance-after-road-addition-queries-ii/) | 困难 | [Python](3244/shortestDistanceAfterQueries.py), [Python](3244/shortestDistanceAfterQueries_2.py) |
 | 3248 | [矩阵中的蛇](https://leetcode.cn/problems/snake-in-matrix/) | 简单 | [Python](3248/finalPositionOfSnake.py) |
 | 3249 | [统计好节点的数目](https://leetcode.cn/problems/count-the-number-of-good-nodes/) | 中等 | [Python](3249/countGoodNodes.py) |
+| 3250 | [单调数组对的数目 I](https://leetcode.cn/problems/find-the-count-of-monotonic-pairs-i/) | 困难 | [Python](3250/countOfPairs.py), [Python](3250/countOfPairs_2.py) |
+| 3251 | [单调数组对的数目 II](https://leetcode.cn/problems/find-the-count-of-monotonic-pairs-ii/) | 困难 | [Python](3251/countOfPairs.py) |
 | 3254 | [长度为 K 的子数组的能量值 I](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-i/) | 中等 | [Python](3254/resultsArray.py) |
 | 3255 | [长度为 K 的子数组的能量值 II](https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-ii/) | 中等 | [Python](3255/resultsArray.py) |
 | 3258 | [统计满足 K 约束的子字符串数量 I](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/) | 简单 | [Python](3258/countKConstraintSubstrings.py), [Python](3258/countKConstraintSubstrings_2.py) |
