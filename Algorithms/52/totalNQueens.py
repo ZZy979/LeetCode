@@ -2,17 +2,18 @@ class Solution:
     def totalNQueens(self, n: int) -> int:
         if n == 0:
             return 0
-        return sum(self.queens(n, []))
+        self.ans = 0
+        self.queens(n, [])
+        return self.ans
 
     def queens(self, n, state):
         for x in range(n):
             if not self.conflict(state, x):
                 state.append(x)
                 if len(state) == n:
-                    yield 1
+                    self.ans += 1
                 else:
-                    for result in self.queens(n, state):
-                        yield 1
+                    self.queens(n, state)
                 state.pop()
 
     def conflict(self, state, next_x):

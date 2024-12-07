@@ -144,6 +144,7 @@
 | 778 | [水位上升的泳池中游泳](https://leetcode.cn/problems/swim-in-rising-water/) | 困难 | [Python](778/swimInWater.py), [Python](778/swimInWater_2.py), [Python](778/swimInWater_3.py), [Python](778/swimInWater_4.py) |
 | 780 | [到达终点](https://leetcode.cn/problems/reaching-points/) | 困难 | [Python](780/reachingPoints.py) |
 | 781 | [森林中的兔子](https://leetcode.cn/problems/rabbits-in-forest/) | 中等 | [Python](781/numRabbits.py), [Python](781/numRabbits_2.py) |
+| 782 | [变为棋盘](https://leetcode.cn/problems/transform-to-chessboard/) | 困难 | [Python](782/movesToChessboard.py) |
 | 783 | [二叉搜索树节点最小距离](https://leetcode.cn/problems/minimum-distance-between-bst-nodes/) | 简单 | [Python](783/minDiffInBST.py) |
 | 785 | [判断二分图](https://leetcode.cn/problems/is-graph-bipartite/) | 中等 | [Python](785/isBipartite.py), [Python](785/isBipartite_2.py) |
 | 786 | [第K个最小的素数分数](https://leetcode.cn/problems/k-th-smallest-prime-fraction/) | 困难 | [Python](786/kthSmallestPrimeFraction.py), [Python](786/kthSmallestPrimeFraction_2.py), [Python](786/kthSmallestPrimeFraction_3.py) |
@@ -232,3 +233,4 @@
 | 993 | [二叉树的堂兄弟节点](https://leetcode.cn/problems/cousins-in-binary-tree/) | 简单 | [Python](993/isCousins.py) |
 | 995 | [K连续位的最小翻转次数](https://leetcode.cn/problems/minimum-number-of-k-consecutive-bit-flips/) | 困难 | [Java](995/minKBitFlips.java), [Java](995/minKBitFlips_2.java), [Java](995/minKBitFlips_3.java) |
 | 997 | [找到小镇的法官](https://leetcode.cn/problems/find-the-town-judge/) | 简单 | [Python](997/findJudge.py), [Python](997/findJudge_2.py) |
+| 999 | [可以被一步捕获的棋子数](https://leetcode.cn/problems/available-captures-for-rook/) | 简单 | [Python](999/numRookCaptures.py) |

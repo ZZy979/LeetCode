@@ -52,7 +52,7 @@
 | 49 | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | 中等 | [Python](49/groupAnagrams.py) |
 | 50 | [Pow(x,n)](https://leetcode.cn/problems/powx-n/) | 中等 | [Python](50/myPow.py), [Python](50/myPow_2.py) |
 | 51 | [N皇后](https://leetcode.cn/problems/n-queens/) | 困难 | [Python](51/solveNQueens.py) |
-| 52 | [N皇后II](https://leetcode.cn/problems/n-queens-ii/) | 困难 | [Python](52/totalNQueens.py) |
+| 52 | [N皇后II](https://leetcode.cn/problems/n-queens-ii/) | 困难 | [Python](52/totalNQueens.py), [Python](52/totalNQueens_2.py) |
 | 53 | [最大子序和](https://leetcode.cn/problems/maximum-subarray/) | 简单 | [Java](53/maxSubArray.java), [Python](53/maxSubArray.py) |
 | 54 | [螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) | 中等 | [Python](54/spiralOrder.py), [Python](54/spiralOrder_2.py), [Python](54/spiralOrder_3.py) |
 | 55 | [跳跃游戏](https://leetcode.cn/problems/jump-game/) | 中等 | [Python](55/canJump.py), [Python](55/canJump_2.py), [Python](55/canJump_3.py) |
