@@ -213,6 +213,7 @@
 | 926 | [将字符串翻转到单调递增](https://leetcode.cn/problems/flip-string-to-monotone-increasing/) | 中等 | [Python](926/minFlipsMonoIncr.py), [Python](926/minFlipsMonoIncr_2.py) |
 | 930 | [和相同的二元子数组](https://leetcode.cn/problems/binary-subarrays-with-sum/) | 中等 | [Python](930/numSubarraysWithSum.py), [Python](930/numSubarraysWithSum_2.py), [Python](930/numSubarraysWithSum_3.py), [Python](930/numSubarraysWithSum_4.py) |
 | 933 | [最近的请求次数](https://leetcode.cn/problems/number-of-recent-calls/) | 简单 | [Python](933/RecentCounter.py) |
+| 935 | [骑士拨号器](https://leetcode.cn/problems/knight-dialer/) | 中等 | [Python](935/knightDialer.py) |
 | 938 | [二叉搜索树的范围和](https://leetcode.cn/problems/range-sum-of-bst/) | 简单 | [Python](938/rangeSumBST.py), [Python](938/rangeSumBST_2.py) |
 | 941 | [有效的山脉数组](https://leetcode.cn/problems/valid-mountain-array/) | 简单 | [Python](941/validMountainArray.py) |
 | 946 | [验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) | 中等 | [Python](946/validateStackSequences.py) |

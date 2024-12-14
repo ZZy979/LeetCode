@@ -43,6 +43,7 @@
 | 1765 | [地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/) | 中等 | [Python](1765/highestPeak.py) |
 | 1787 | [使所有区间的异或结果为零](https://leetcode.cn/problems/make-the-xor-of-all-segments-equal-to-zero/) | 困难 | [Python](1787/minChanges.py) |
 | 1791 | [找出星型图的中心节点](https://leetcode.cn/problems/find-center-of-star-graph/) | 简单 | [Python](1791/findCenter.py) |
+| 1812 | [判断国际象棋棋盘中一个格子的颜色](https://leetcode.cn/problems/determine-color-of-a-chessboard-square/) | 简单 | [Python](1812/squareIsWhite.py) |
 | 1816 | [截断句子](https://leetcode.cn/problems/truncate-sentence/) | 简单 | [Python](1816/truncateSentence.py) |
 | 1818 | [绝对差值和](https://leetcode.cn/problems/minimum-absolute-sum-difference/) | 中等 | [Python](1818/minAbsoluteSumDiff.py) |
 | 1833 | [雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars/) | 中等 | [Python](1833/maxIceCream.py) |

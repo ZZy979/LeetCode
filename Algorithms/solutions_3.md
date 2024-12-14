@@ -55,6 +55,7 @@
 | 1319 | [连通网络的操作次数](https://leetcode.cn/problems/number-of-operations-to-make-network-connected/) | 中等 | [Python](1319/makeConnected.py), [Python](1319/makeConnected_2.py) |
 | 1332 | [删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/) | 简单 | [Python](1332/removePalindromeSub.py) |
 | 1337 | [矩阵中战斗力最弱的K行](https://leetcode.cn/problems/the-k-weakest-rows-in-a-matrix/) | 简单 | [Python](1337/kWeakestRows.py) |
+| 1338 | [数组大小减半](https://leetcode.cn/problems/reduce-array-size-to-the-half/) | 中等 | [Python](1338/minSetSize.py) |
 | 1342 | [将数字变成0的操作次数](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/) | 简单 | [Python](1342/numberOfSteps.py), [Python](1342/numberOfSteps_2.py) |
 | 1345 | [跳跃游戏IV](https://leetcode.cn/problems/jump-game-iv/) | 困难 | [Python](1345/minJumps.py) |
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode.cn/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](1356/sortByBits.java), [Java](1356/sortByBits_2.java), [Java](1356/sortByBits_3.java), [Python](1356/sortByBits.py) |

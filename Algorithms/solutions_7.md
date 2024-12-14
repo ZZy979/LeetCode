@@ -39,4 +39,6 @@
 | 3258 | [统计满足 K 约束的子字符串数量 I](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-i/) | 简单 | [Python](3258/countKConstraintSubstrings.py), [Python](3258/countKConstraintSubstrings_2.py) |
 | 3259 | [超级饮料的最大强化能量](https://leetcode.cn/problems/maximum-energy-boost-from-two-drinks/) | 中等 | [Python](3259/maxEnergyBoost.py) |
 | 3261 | [统计满足 K 约束的子字符串数量 II](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-ii/) | 困难 | [Python](3261/countKConstraintSubstrings.py) |
+| 3264 | [K 次乘运算后的最终数组 I](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-i/) | 简单 | [Python](3264/getFinalState.py) |
+| 3266 | [K 次乘运算后的最终数组 II](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-ii/) | 困难 | [Python](3266/getFinalState.py) |
 | 3274 | [检查棋盘方格颜色是否相同](https://leetcode.cn/problems/check-if-two-chessboard-squares-have-the-same-color/) | 简单 | [Python](3274/checkTwoChessboards.py), [Python](3274/checkTwoChessboards_2.py) |
