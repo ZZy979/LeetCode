@@ -49,6 +49,7 @@
 | 1833 | [雪糕的最大数量](https://leetcode.cn/problems/maximum-ice-cream-bars/) | 中等 | [Python](1833/maxIceCream.py) |
 | 1838 | [最高频元素的频数](https://leetcode.cn/problems/frequency-of-the-most-frequent-element/) | 中等 | [Python](1838/maxFrequency.py) |
 | 1846 | [减小和重新排列数组后的最大元素](https://leetcode.cn/problems/maximum-element-after-decreasing-and-rearranging/) | 中等 | [Python](1846/maximumElementAfterDecrementingAndRearranging.py) |
+| 1847 | [最近的房间](https://leetcode.cn/problems/closest-room/) | 困难 | [Python](1847/closestRoom.py), [Python](1847/closestRoom_2.py) |
 | 1877 | [数组中最大数对和的最小值](https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/) | 中等 | [Python](1877/minPairSum.py) |
 | 1884 | [鸡蛋掉落-两枚鸡蛋](https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/) | 中等 | [Python](1884/twoEggDrop.py), [Python](1884/twoEggDrop_2.py) |
 | 1893 | [检查是否区域内所有整数都被覆盖](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单 | [Python](1893/isCovered.py), [Python](1893/isCovered_2.py) |

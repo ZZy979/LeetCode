@@ -3,6 +3,7 @@
 | # | 题名 | 难度 | 解答 |
 | --- | --- | --- | --- |
 | 3001 | [捕获黑皇后需要的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-capture-the-queen/) | 中等 | [Python](3001/minMovesToCaptureTheQueen.py) |
+| 3138 | [同位字符串连接的最小长度](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation/) | 中等 | [Python](3138/minAnagramLength.py), [Python](3138/minAnagramLength_2.py) |
 | 3158 | [求出出现两次数字的 XOR 值](https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice/) | 简单 | [Python](3158/duplicateNumbersXOR.py), [Python](3158/duplicateNumbersXOR_2.py) |
 | 3165 | [不包含相邻元素的子序列的最大和](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) | 困难 | [Python](3165/maximumSumSubsequence.py) |
 | 3175 | [找到连续赢 K 场比赛的第一位玩家](https://leetcode.cn/problems/find-the-first-player-to-win-k-games-in-a-row/) | 中等 | [Python](3175/findWinningPlayer.py), [Python](3175/findWinningPlayer_2.py) |
@@ -42,3 +43,6 @@
 | 3264 | [K 次乘运算后的最终数组 I](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-i/) | 简单 | [Python](3264/getFinalState.py) |
 | 3266 | [K 次乘运算后的最终数组 II](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-ii/) | 困难 | [Python](3266/getFinalState.py) |
 | 3274 | [检查棋盘方格颜色是否相同](https://leetcode.cn/problems/check-if-two-chessboard-squares-have-the-same-color/) | 简单 | [Python](3274/checkTwoChessboards.py), [Python](3274/checkTwoChessboards_2.py) |
+| 3285 | [找到稳定山的下标](https://leetcode.cn/problems/find-indices-of-stable-mountains/) | 简单 | [Python](3285/stableMountains.py) |
+| 3291 | [形成目标字符串需要的最少字符串数 I](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-i/) | 中等 | [Python](3291/minValidStrings.py) |
+| 3292 | [形成目标字符串需要的最少字符串数 II](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-ii/) | 困难 | [Python](3292/minValidStrings.py) |
