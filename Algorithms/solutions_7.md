@@ -3,8 +3,11 @@
 | # | 题名 | 难度 | 解答 |
 | --- | --- | --- | --- |
 | 3001 | [捕获黑皇后需要的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-capture-the-queen/) | 中等 | [Python](3001/minMovesToCaptureTheQueen.py) |
+| 3046 | [分割数组](https://leetcode.cn/problems/split-the-array/) | 简单 | [Python](3046/isPossibleToSplit.py) |
+| 3083 | [字符串及其反转中是否存在同一子字符串](https://leetcode.cn/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | 简单 | [Python](3083/isSubstringPresent.py) |
 | 3138 | [同位字符串连接的最小长度](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation/) | 中等 | [Python](3138/minAnagramLength.py), [Python](3138/minAnagramLength_2.py) |
 | 3158 | [求出出现两次数字的 XOR 值](https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice/) | 简单 | [Python](3158/duplicateNumbersXOR.py), [Python](3158/duplicateNumbersXOR_2.py) |
+| 3159 | [查询数组中元素的出现位置](https://leetcode.cn/problems/find-occurrences-of-an-element-in-an-array/) | 中等 | [Python](3159/occurrencesOfElement.py) |
 | 3165 | [不包含相邻元素的子序列的最大和](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) | 困难 | [Python](3165/maximumSumSubsequence.py) |
 | 3175 | [找到连续赢 K 场比赛的第一位玩家](https://leetcode.cn/problems/find-the-first-player-to-win-k-games-in-a-row/) | 中等 | [Python](3175/findWinningPlayer.py), [Python](3175/findWinningPlayer_2.py) |
 | 3180 | [执行操作可获得的最大总奖励 I](https://leetcode.cn/problems/maximum-total-reward-using-operations-i/) | 中等 | [Python](3180/maxTotalReward.py) |
@@ -20,6 +23,7 @@
 | 3208 | [交替组 II](https://leetcode.cn/problems/alternating-groups-ii/) | 中等 | [Python](3208/numberOfAlternatingGroups.py), [Python](3208/numberOfAlternatingGroups_2.py) |
 | 3211 | [生成不含相邻零的二进制字符串](https://leetcode.cn/problems/generate-binary-strings-without-adjacent-zeros/) | 中等 | [Python](3211/validStrings.py), [Python](3211/validStrings_2.py), [Python](3211/validStrings_3.py) |
 | 3216 | [交换后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-a-swap/) | 简单 | [Python](3216/getSmallestString.py) |
+| 3218 | [切蛋糕的最小总开销 I](https://leetcode.cn/problems/minimum-cost-for-cutting-cake-i/) | 中等 | [Python](3218/minimumCost.py) |
 | 3222 | [求出硬币游戏的赢家](https://leetcode.cn/problems/find-the-winning-player-in-coin-game/) | 简单 | [Python](3222/losingPlayer.py) |
 | 3226 | [使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/) | 简单 | [Python](3226/minChanges.py), [Python](3226/minChanges_2.py) |
 | 3232 | [判断是否可以赢得数字游戏](https://leetcode.cn/problems/find-if-digit-game-can-be-won/) | 简单 | [Python](3232/canAliceWin.py) |

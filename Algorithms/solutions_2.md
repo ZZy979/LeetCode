@@ -180,6 +180,7 @@
 | 847 | [访问所有节点的最短路径](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/) | 困难 | [Python](847/shortestPathLength.py) |
 | 851 | [喧闹和富有](https://leetcode.cn/problems/loud-and-rich/) | 中等 | [Python](851/loudAndRich.py), [Python](851/loudAndRich_2.py) |
 | 852 | [山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | 简单 | [Python](852/peakIndexInMountainArray.py), [Python](852/peakIndexInMountainArray_2.py) |
+| 855 | [考场就座](https://leetcode.cn/problems/exam-room/) | 中等 | [Python](855/ExamRoom.py), [Python](855/ExamRoom_2.py) |
 | 859 | [亲密字符串](https://leetcode.cn/problems/buddy-strings/) | 简单 | [Python](859/buddyStrings.py), [Python](859/buddyStrings_2.py) |
 | 860 | [柠檬水找零](https://leetcode.cn/problems/lemonade-change/) | 简单 | [Python](860/lemonadeChange.py) |
 | 861 | [翻转矩阵后的得分](https://leetcode.cn/problems/score-after-flipping-matrix/) | 中等 | [Python](861/matrixScore.py), [Python](861/matrixScore_2.py) |

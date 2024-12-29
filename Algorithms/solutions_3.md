@@ -60,6 +60,7 @@
 | 1345 | [跳跃游戏IV](https://leetcode.cn/problems/jump-game-iv/) | 困难 | [Python](1345/minJumps.py) |
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode.cn/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](1356/sortByBits.java), [Java](1356/sortByBits_2.java), [Java](1356/sortByBits_3.java), [Python](1356/sortByBits.py) |
 | 1365 | [有多少小于当前数字的数字](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](1365/smallerNumbersThanCurrent.py) |
+| 1366 | [通过投票对团队排名](https://leetcode.cn/problems/rank-teams-by-votes/) | 中等 | [Python](1366/rankTeams.py) |
 | 1370 | [上升下降字符串](https://leetcode.cn/problems/increasing-decreasing-string/) | 简单 | [Java](1370/sortString.java), [Python](1370/sortString.py) |
 | 1380 | [矩阵中的幸运数](https://leetcode.cn/problems/lucky-numbers-in-a-matrix/) | 简单 | [Python](1380/luckyNumbers.py) |
 | 1387 | [将整数按权重排序](https://leetcode.cn/problems/sort-integers-by-the-power-value/) | 中等 | [Python](1387/getKth.py) |
