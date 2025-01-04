@@ -122,7 +122,9 @@
 | 725 | [分隔链表](https://leetcode.cn/problems/split-linked-list-in-parts/) | 中等 | [Python](725/splitListToParts.py), [Python](725/splitListToParts_2.py) |
 | 726 | [原子的数量](https://leetcode.cn/problems/number-of-atoms/) | 困难 | [Python](726/countOfAtoms.py) |
 | 728 | [自除数](https://leetcode.cn/problems/self-dividing-numbers/) | 简单 | [Python](728/selfDividingNumbers.py) |
-| 729 | [我的日程安排表I](https://leetcode.cn/problems/my-calendar-i/) | 中等 | [Java](729/MyCalendar.java) |
+| 729 | [我的日程安排表I](https://leetcode.cn/problems/my-calendar-i/) | 中等 | [Python](729/MyCalendar.py), [Python](729/MyCalendar_2.py), [Java](729/MyCalendar.java) |
+| 731 | [我的日程安排表 II](https://leetcode.cn/problems/my-calendar-ii/) | 中等 | [Python](731/MyCalendarTwo.py), [Python](731/MyCalendarTwo_2.py) |
+| 732 | [我的日程安排表 III](https://leetcode.cn/problems/my-calendar-iii/) | 困难 | [Python](732/MyCalendarThree.py) |
 | 733 | [图像渲染](https://leetcode.cn/problems/flood-fill/) | 简单 | [Python](733/floodFill.py) |
 | 735 | [行星碰撞](https://leetcode.cn/problems/asteroid-collision/) | 中等 | [Python](735/asteroidCollision.py) |
 | 738 | [单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/) | 中等 | [Python](738/monotoneIncreasingDigits.py), [Python](738/monotoneIncreasingDigits_2.py), [Python](738/monotoneIncreasingDigits_3.py) |

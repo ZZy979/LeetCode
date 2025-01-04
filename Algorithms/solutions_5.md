@@ -21,3 +21,4 @@
 | 2056 | [棋盘上有效移动组合的数目](https://leetcode.cn/problems/number-of-valid-move-combinations-on-chessboard/) | 困难 | [Python](2056/countCombinations.py) |
 | 2100 | [适合打劫银行的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank/) | 中等 | [Python](2100/goodDaysToRobBank.py) |
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) | 中等 | [Python](2104/subArrayRanges.py), [Python](2104/subArrayRanges_2.py) |
+| 2241 | [设计一个 ATM 机器](https://leetcode.cn/problems/design-an-atm-machine/) | 中等 | [Python](2241/ATM.py) |

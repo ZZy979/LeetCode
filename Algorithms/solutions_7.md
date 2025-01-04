@@ -24,6 +24,7 @@
 | 3211 | [生成不含相邻零的二进制字符串](https://leetcode.cn/problems/generate-binary-strings-without-adjacent-zeros/) | 中等 | [Python](3211/validStrings.py), [Python](3211/validStrings_2.py), [Python](3211/validStrings_3.py) |
 | 3216 | [交换后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-a-swap/) | 简单 | [Python](3216/getSmallestString.py) |
 | 3218 | [切蛋糕的最小总开销 I](https://leetcode.cn/problems/minimum-cost-for-cutting-cake-i/) | 中等 | [Python](3218/minimumCost.py) |
+| 3219 | [切蛋糕的最小总开销 II](https://leetcode.cn/problems/minimum-cost-for-cutting-cake-ii/) | 困难 | [Python](3219/minimumCost.py) |
 | 3222 | [求出硬币游戏的赢家](https://leetcode.cn/problems/find-the-winning-player-in-coin-game/) | 简单 | [Python](3222/losingPlayer.py) |
 | 3226 | [使两个整数相等的位更改次数](https://leetcode.cn/problems/number-of-bit-changes-to-make-two-integers-equal/) | 简单 | [Python](3226/minChanges.py), [Python](3226/minChanges_2.py) |
 | 3232 | [判断是否可以赢得数字游戏](https://leetcode.cn/problems/find-if-digit-game-can-be-won/) | 简单 | [Python](3232/canAliceWin.py) |
@@ -47,6 +48,7 @@
 | 3264 | [K 次乘运算后的最终数组 I](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-i/) | 简单 | [Python](3264/getFinalState.py) |
 | 3266 | [K 次乘运算后的最终数组 II](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-ii/) | 困难 | [Python](3266/getFinalState.py) |
 | 3274 | [检查棋盘方格颜色是否相同](https://leetcode.cn/problems/check-if-two-chessboard-squares-have-the-same-color/) | 简单 | [Python](3274/checkTwoChessboards.py), [Python](3274/checkTwoChessboards_2.py) |
+| 3280 | [将日期转换为二进制表示](https://leetcode.cn/problems/convert-date-to-binary/) | 简单 | [Python](3280/convertDateToBinary.py), [Python](3280/convertDateToBinary_2.py) |
 | 3285 | [找到稳定山的下标](https://leetcode.cn/problems/find-indices-of-stable-mountains/) | 简单 | [Python](3285/stableMountains.py) |
 | 3291 | [形成目标字符串需要的最少字符串数 I](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-i/) | 中等 | [Python](3291/minValidStrings.py) |
 | 3292 | [形成目标字符串需要的最少字符串数 II](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-ii/) | 困难 | [Python](3292/minValidStrings.py) |
