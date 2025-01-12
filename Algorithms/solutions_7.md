@@ -3,6 +3,7 @@
 | # | 题名 | 难度 | 解答 |
 | --- | --- | --- | --- |
 | 3001 | [捕获黑皇后需要的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-capture-the-queen/) | 中等 | [Python](3001/minMovesToCaptureTheQueen.py) |
+| 3019 | [按键变更的次数](https://leetcode.cn/problems/number-of-changing-keys/) | 简单 | [Python](3019/countKeyChanges.py) |
 | 3046 | [分割数组](https://leetcode.cn/problems/split-the-array/) | 简单 | [Python](3046/isPossibleToSplit.py) |
 | 3083 | [字符串及其反转中是否存在同一子字符串](https://leetcode.cn/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | 简单 | [Python](3083/isSubstringPresent.py) |
 | 3138 | [同位字符串连接的最小长度](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation/) | 中等 | [Python](3138/minAnagramLength.py), [Python](3138/minAnagramLength_2.py) |
@@ -47,8 +48,11 @@
 | 3261 | [统计满足 K 约束的子字符串数量 II](https://leetcode.cn/problems/count-substrings-that-satisfy-k-constraint-ii/) | 困难 | [Python](3261/countKConstraintSubstrings.py) |
 | 3264 | [K 次乘运算后的最终数组 I](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-i/) | 简单 | [Python](3264/getFinalState.py) |
 | 3266 | [K 次乘运算后的最终数组 II](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-ii/) | 困难 | [Python](3266/getFinalState.py) |
+| 3270 | [求出数字答案](https://leetcode.cn/problems/find-the-key-of-the-numbers/) | 简单 | [Python](3270/generateKey.py), [Python](3270/generateKey_2.py) |
 | 3274 | [检查棋盘方格颜色是否相同](https://leetcode.cn/problems/check-if-two-chessboard-squares-have-the-same-color/) | 简单 | [Python](3274/checkTwoChessboards.py), [Python](3274/checkTwoChessboards_2.py) |
 | 3280 | [将日期转换为二进制表示](https://leetcode.cn/problems/convert-date-to-binary/) | 简单 | [Python](3280/convertDateToBinary.py), [Python](3280/convertDateToBinary_2.py) |
 | 3285 | [找到稳定山的下标](https://leetcode.cn/problems/find-indices-of-stable-mountains/) | 简单 | [Python](3285/stableMountains.py) |
 | 3291 | [形成目标字符串需要的最少字符串数 I](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-i/) | 中等 | [Python](3291/minValidStrings.py) |
 | 3292 | [形成目标字符串需要的最少字符串数 II](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-ii/) | 困难 | [Python](3292/minValidStrings.py) |
+| 3297 | [统计重新排列后包含另一个字符串的子字符串数目 I](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | 中等 | [Python](3297/validSubstringCount.py) |
+| 3298 | [统计重新排列后包含另一个字符串的子字符串数目 II](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | 困难 | [Python](3298/validSubstringCount.py) |
