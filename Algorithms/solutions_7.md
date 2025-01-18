@@ -5,7 +5,11 @@
 | 3001 | [捕获黑皇后需要的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-capture-the-queen/) | 中等 | [Python](3001/minMovesToCaptureTheQueen.py) |
 | 3019 | [按键变更的次数](https://leetcode.cn/problems/number-of-changing-keys/) | 简单 | [Python](3019/countKeyChanges.py) |
 | 3046 | [分割数组](https://leetcode.cn/problems/split-the-array/) | 简单 | [Python](3046/isPossibleToSplit.py) |
+| 3065 | [超过阈值的最少操作数 I](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-i/) | 简单 | [Python](3065/minOperations.py) |
+| 3066 | [超过阈值的最少操作数 II](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-ii/) | 中等 | [Python](3066/minOperations.py) |
 | 3083 | [字符串及其反转中是否存在同一子字符串](https://leetcode.cn/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | 简单 | [Python](3083/isSubstringPresent.py) |
+| 3095 | [或值至少 K 的最短子数组 I](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-i/) | 简单 | [Python](3095/minimumSubarrayLength.py), [Python](3095/minimumSubarrayLength_2.py) |
+| 3097 | [或值至少为 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/) | 中等 | [Python](3097/minimumSubarrayLength.py) |
 | 3138 | [同位字符串连接的最小长度](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation/) | 中等 | [Python](3138/minAnagramLength.py), [Python](3138/minAnagramLength_2.py) |
 | 3158 | [求出出现两次数字的 XOR 值](https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice/) | 简单 | [Python](3158/duplicateNumbersXOR.py), [Python](3158/duplicateNumbersXOR_2.py) |
 | 3159 | [查询数组中元素的出现位置](https://leetcode.cn/problems/find-occurrences-of-an-element-in-an-array/) | 中等 | [Python](3159/occurrencesOfElement.py) |
@@ -52,6 +56,7 @@
 | 3274 | [检查棋盘方格颜色是否相同](https://leetcode.cn/problems/check-if-two-chessboard-squares-have-the-same-color/) | 简单 | [Python](3274/checkTwoChessboards.py), [Python](3274/checkTwoChessboards_2.py) |
 | 3280 | [将日期转换为二进制表示](https://leetcode.cn/problems/convert-date-to-binary/) | 简单 | [Python](3280/convertDateToBinary.py), [Python](3280/convertDateToBinary_2.py) |
 | 3285 | [找到稳定山的下标](https://leetcode.cn/problems/find-indices-of-stable-mountains/) | 简单 | [Python](3285/stableMountains.py) |
+| 3287 | [求出数组中最大序列值](https://leetcode.cn/problems/find-the-maximum-sequence-value-of-array/) | 困难 | [Python](3287/maxValue.py) |
 | 3291 | [形成目标字符串需要的最少字符串数 I](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-i/) | 中等 | [Python](3291/minValidStrings.py) |
 | 3292 | [形成目标字符串需要的最少字符串数 II](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-ii/) | 困难 | [Python](3292/minValidStrings.py) |
 | 3297 | [统计重新排列后包含另一个字符串的子字符串数目 I](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | 中等 | [Python](3297/validSubstringCount.py) |
