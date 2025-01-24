@@ -21,9 +21,12 @@
 | 2056 | [棋盘上有效移动组合的数目](https://leetcode.cn/problems/number-of-valid-move-combinations-on-chessboard/) | 困难 | [Python](2056/countCombinations.py) |
 | 2100 | [适合打劫银行的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank/) | 中等 | [Python](2100/goodDaysToRobBank.py) |
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) | 中等 | [Python](2104/subArrayRanges.py), [Python](2104/subArrayRanges_2.py) |
+| 2218 | [从栈中取出 K 个硬币的最大面值和](https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/) | 困难 | [Python](2218/maxValueOfCoins.py) |
+| 2239 | [找到最接近 0 的数字](https://leetcode.cn/problems/find-closest-number-to-zero/) | 简单 | [Python](2239/findClosestNumber.py) |
 | 2241 | [设计一个 ATM 机器](https://leetcode.cn/problems/design-an-atm-machine/) | 中等 | [Python](2241/ATM.py) |
 | 2264 | [字符串中最大的 3 位相同数字](https://leetcode.cn/problems/largest-3-same-digit-number-in-string/) | 简单 | [Python](2264/largestGoodInteger.py) |
 | 2266 | [统计打字方案数](https://leetcode.cn/problems/count-number-of-texts/) | 中等 | [Python](2266/countTexts.py), [Python](2266/countTexts_2.py) |
 | 2270 | [分割数组的方案数](https://leetcode.cn/problems/number-of-ways-to-split-array/) | 中等 | [Python](2270/waysToSplitArray.py) |
 | 2274 | [不含特殊楼层的最大连续楼层数](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/) | 中等 | [Python](2274/maxConsecutive.py) |
 | 2275 | [按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/) | 中等 | [Python](2275/largestCombination.py) |
+| 2412 | [完成所有交易的初始最少钱数](https://leetcode.cn/problems/minimum-money-required-before-transactions/) | 困难 | [Python](2412/minimumMoney.py) |
