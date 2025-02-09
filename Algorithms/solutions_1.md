@@ -40,7 +40,7 @@
 | 37 | [解数独](https://leetcode.cn/problems/sudoku-solver/) | 困难 | [Python](37/solveSudoku.py) |
 | 38 | [外观数列](https://leetcode.cn/problems/count-and-say/) | 中等 | [Python](38/countAndSay.py), [Python](38/countAndSay_2.py) |
 | 39 | [组合总和](https://leetcode.cn/problems/combination-sum/) | 中等 | [Python](39/combinationSum.py) |
-| 40 | [组合总和II](https://leetcode.cn/problems/combination-sum-ii/) | 中等 | [Python](40/combinationSum2.py) |
+| 40 | [组合总和II](https://leetcode.cn/problems/combination-sum-ii/) | 中等 | [Python](40/combinationSum2.py), [Python](40/combinationSum2_2.py) |
 | 41 | [缺失的第一个正数](https://leetcode.cn/problems/first-missing-positive/) | 困难 | [Python](41/firstMissingPositive.py), [Python](41/firstMissingPositive_2.py) |
 | 42 | [接雨水](https://leetcode.cn/problems/trapping-rain-water/) | 困难 | [Python](42/trap.py), [Python](42/trap_2.py) |
 | 43 | [字符串相乘](https://leetcode.cn/problems/multiply-strings/) | 中等 | [Python](43/multiply.py) |

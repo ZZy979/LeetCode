@@ -1,14 +1,9 @@
-# 228 ms
 class Solution:
-    def sortArrayByParityII(self, A: List[int]) -> List[int]:
-        even, odd = [], []
-        for i in A:
-            if i % 2:
-                odd.append(i)
-            else:
-                even.append(i)
-        ans = []
-        for i, j in zip(even, odd):
-            ans.append(i)
-            ans.append(j)
-        return ans
+    def sortArrayByParityII(self, nums: List[int]) -> List[int]:
+        j = 1
+        for i in range(0, len(nums), 2):
+            if nums[i] % 2:
+                while nums[j] % 2:
+                    j += 2
+                nums[i], nums[j] = nums[j], nums[i]
+        return nums
