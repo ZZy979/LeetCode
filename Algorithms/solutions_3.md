@@ -51,6 +51,7 @@
 | 1239 | [串联字符串的最大长度](https://leetcode.cn/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | 中等 | [Python](1239/maxLength.py) |
 | 1269 | [停在原地的方案数](https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | 困难 | [Python](1269/numWays.py) |
 | 1296 | [划分数组为连续数字的集合](https://leetcode.cn/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 中等 | [Python](1296/isPossibleDivide.py) |
+| 1299 | [将每个元素替换为右侧最大元素](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/) | 简单 | [Python](1299/replaceElements.py), [Python](1299/replaceElements_2.py) |
 | 1310 | [子数组异或查询](https://leetcode.cn/problems/xor-queries-of-a-subarray/) | 中等 | [Python](1310/xorQueries.py) |
 | 1319 | [连通网络的操作次数](https://leetcode.cn/problems/number-of-operations-to-make-network-connected/) | 中等 | [Python](1319/makeConnected.py), [Python](1319/makeConnected_2.py) |
 | 1332 | [删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/) | 简单 | [Python](1332/removePalindromeSub.py) |

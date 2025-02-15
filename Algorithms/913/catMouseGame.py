@@ -1,7 +1,9 @@
+# 官方题解1：自顶向下动态规划
+# 时间复杂度O(n^5)，超时
 class Solution:
     def catMouseGame(self, graph: List[List[int]]) -> int:
         n = len(graph)
-        dp = [[[-1] * (2 * n) for _ in range(n)] for _ in range(n)]
+        dp = [[[-1] * (2 * n * (n - 1)) for _ in range(n)] for _ in range(n)]
         return get_result(graph, dp, 1, 2, 0)
 
 
@@ -11,7 +13,7 @@ CAT_WIN = 2
 
 
 def get_result(graph, dp, mouse, cat, turns):
-    if turns == 2 * len(graph):
+    if turns == 2 * len(graph) * (len(graph) - 1):
         return DRAW
     res = dp[mouse][cat][turns]
     if res != -1:

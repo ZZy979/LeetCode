@@ -5,6 +5,7 @@
 | 1510 | [石子游戏IV](https://leetcode.cn/problems/stone-game-iv/) | 困难 | [Python](1510/winnerSquareGame.py) |
 | 1518 | [换酒问题](https://leetcode.cn/problems/water-bottles/) | 简单 | [Python](1518/numWaterBottles.py), [Python](1518/numWaterBottles_2.py) |
 | 1547 | [切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/) | 困难 | [Python](1547/minCost.py) |
+| 1552 | [两球之间的磁力](https://leetcode.cn/problems/magnetic-force-between-two-balls/) | 中等 | [Python](1552/maxDistance.py) |
 | 1561 | [你可以获得的最大硬币数目](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/) | 中等 | [Python](1561/maxCoins.py) |
 | 1563 | [石子游戏V](https://leetcode.cn/problems/stone-game-v/) | 困难 | [Python](1563/stoneGameV.py), [Python](1563/stoneGameV_2.py) |
 | 1576 | [替换所有的问号](https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | 简单 | [Python](1576/modifyString.py) |
@@ -34,12 +35,15 @@
 | 1720 | [解码异或后的数组](https://leetcode.cn/problems/decode-xored-array/) | 简单 | [Python](1720/decode.py) |
 | 1723 | [完成所有工作的最短时间](https://leetcode.cn/problems/find-minimum-time-to-finish-all-jobs/) | 困难 | [Python](1723/minimumTimeRequired.py) |
 | 1725 | [可以形成最大正方形的矩形数目](https://leetcode.cn/problems/number-of-rectangles-that-can-form-the-largest-square/) | 简单 | [Python](1725/countGoodRectangles.py) |
+| 1728 | [猫和老鼠 II](https://leetcode.cn/problems/cat-and-mouse-ii/) | 困难 | [Python](1728/canMouseWin.py) |
 | 1734 | [解码异或后的排列](https://leetcode.cn/problems/decode-xored-permutation/) | 中等 | [Python](1734/decode.py) |
 | 1736 | [替换隐藏数字得到的最晚时间](https://leetcode.cn/problems/latest-time-by-replacing-hidden-digits/) | 简单 | [Python](1736/maximumTime.py) |
 | 1738 | [找出第K大的异或坐标值](https://leetcode.cn/problems/find-kth-largest-xor-coordinate-value/) | 中等 | [Python](1738/kthLargestValue.py), [Python](1738/kthLargestValue_2.py) |
+| 1742 | [盒子中小球的最大数量](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/) | 简单 | [Python](1742/countBalls.py) |
 | 1743 | [从相邻元素对还原数组](https://leetcode.cn/problems/restore-the-array-from-adjacent-pairs/) | 中等 | [Python](1743/restoreArray.py) |
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode.cn/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 中等 | [Python](1744/canEat.py) |
 | 1748 | [唯一元素的和](https://leetcode.cn/problems/sum-of-unique-elements/) | 简单 | [Python](1748/sumOfUnique.py) |
+| 1760 | [袋子里最少数目的球](https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/) | 中等 | [Python](1760/minimumSize.py) |
 | 1763 | [最长的美好子字符串](https://leetcode.cn/problems/longest-nice-substring/) | 简单 | [Python](1763/longestNiceSubstring.py), [Python](1763/longestNiceSubstring_2.py) |
 | 1765 | [地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/) | 中等 | [Python](1765/highestPeak.py) |
 | 1787 | [使所有区间的异或结果为零](https://leetcode.cn/problems/make-the-xor-of-all-segments-equal-to-zero/) | 困难 | [Python](1787/minChanges.py) |
