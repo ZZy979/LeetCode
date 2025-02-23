@@ -19,8 +19,10 @@
 | 2049 | [统计最高分的节点数目](https://leetcode.cn/problems/count-nodes-with-the-highest-score/) | 中等 | [Python](2049/countHighestScoreNodes.py) |
 | 2055 | [蜡烛之间的盘子](https://leetcode.cn/problems/plates-between-candles/) | 中等 | [Python](2055/platesBetweenCandles.py), [Python](2055/platesBetweenCandles_2.py) |
 | 2056 | [棋盘上有效移动组合的数目](https://leetcode.cn/problems/number-of-valid-move-combinations-on-chessboard/) | 困难 | [Python](2056/countCombinations.py) |
+| 2080 | [区间内查询数字的频率](https://leetcode.cn/problems/range-frequency-queries/) | 中等 | [Python](2080/RangeFreqQuery.py) |
 | 2100 | [适合打劫银行的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank/) | 中等 | [Python](2100/goodDaysToRobBank.py) |
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) | 中等 | [Python](2104/subArrayRanges.py), [Python](2104/subArrayRanges_2.py) |
+| 2209 | [用地毯覆盖后的最少白色砖块](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/) | 困难 | [Python](2209/minimumWhiteTiles.py) |
 | 2218 | [从栈中取出 K 个硬币的最大面值和](https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/) | 困难 | [Python](2218/maxValueOfCoins.py) |
 | 2239 | [找到最接近 0 的数字](https://leetcode.cn/problems/find-closest-number-to-zero/) | 简单 | [Python](2239/findClosestNumber.py) |
 | 2241 | [设计一个 ATM 机器](https://leetcode.cn/problems/design-an-atm-machine/) | 中等 | [Python](2241/ATM.py) |
