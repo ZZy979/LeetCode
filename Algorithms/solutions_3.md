@@ -79,6 +79,7 @@
 | 1446 | [连续字符](https://leetcode.cn/problems/consecutive-characters/) | 简单 | [Python](1446/maxPower.py) |
 | 1447 | [最简分数](https://leetcode.cn/problems/simplified-fractions/) | 中等 | [Python](1447/simplifiedFractions.py) |
 | 1449 | [数位成本和为目标值的最大数字](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target/) | 困难 | [Python](1449/largestNumber.py), [Python](1449/largestNumber_2.py) |
+| 1472 | [设计浏览器历史记录](https://leetcode.cn/problems/design-browser-history/) | 中等 | [Python](1472/BrowserHistory.py) |
 | 1473 | [粉刷房子III](https://leetcode.cn/problems/paint-house-iii/) | 困难 | [Python](1473/minCost.py) |
 | 1480 | [一维数组的动态和](https://leetcode.cn/problems/running-sum-of-1d-array/) | 简单 | [Python](1480/runningSum.py) |
 | 1482 | [制作m束花所需的最少天数](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/) | 中等 | [Python](1482/minDays.py) |

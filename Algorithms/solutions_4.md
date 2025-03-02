@@ -23,6 +23,7 @@
 | 1629 | [按键持续时间最长的键](https://leetcode.cn/problems/slowest-key/) | 简单 | [Python](1629/slowestKey.py), [Python](1629/slowestKey_2.py) |
 | 1631 | [最小体力消耗路径](https://leetcode.cn/problems/path-with-minimum-effort/) | 中等 | [Python](1631/minimumEffortPath.py), [Python](1631/minimumEffortPath_2.py), [Python](1631/minimumEffortPath_3.py), [Python](1631/minimumEffortPath_4.py) |
 | 1646 | [获取生成数组中的最大值](https://leetcode.cn/problems/get-maximum-in-generated-array/) | 简单 | [Python](1646/getMaximumGenerated.py) |
+| 1656 | [设计有序流](https://leetcode.cn/problems/design-an-ordered-stream/) | 简单 | [Python](1656/OrderedStream.py) |
 | 1672 | [最富有客户的资产总量](https://leetcode.cn/problems/richest-customer-wealth/) | 简单 | [Python](1672/maximumWealth.py), [Python](1672/maximumWealth_2.py) |
 | 1688 | [比赛中的配对次数](https://leetcode.cn/problems/count-of-matches-in-tournament/) | 简单 | [Python](1688/numberOfMatches.py) |
 | 1705 | [吃苹果的最大数目](https://leetcode.cn/problems/maximum-number-of-eaten-apples/) | 中等 | [Python](1705/eatenApples.py) |

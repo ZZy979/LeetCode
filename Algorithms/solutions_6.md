@@ -2,6 +2,7 @@
 
 | # | 题名 | 难度 | 解答 |
 | --- | --- | --- | --- |
+| 2502 | [设计内存分配器](https://leetcode.cn/problems/design-memory-allocator/) | 中等 | [Python](2502/Allocator.py), [Python](2502/Allocator_2.py) |
 | 2506 | [统计相似字符串对的数目](https://leetcode.cn/problems/count-pairs-of-similar-strings/) | 简单 | [Python](2506/similarPairs.py) |
 | 2545 | [根据第 K 场考试的分数排序](https://leetcode.cn/problems/sort-the-students-by-their-kth-score/) | 中等 | [Python](2545/sortTheStudents.py) |
 | 2595 | [奇偶位数](https://leetcode.cn/problems/number-of-even-and-odd-bits/) | 简单 | [Python](2595/evenOddBit.py) |
