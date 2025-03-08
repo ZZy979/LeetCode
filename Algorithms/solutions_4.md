@@ -43,6 +43,7 @@
 | 1742 | [盒子中小球的最大数量](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/) | 简单 | [Python](1742/countBalls.py) |
 | 1743 | [从相邻元素对还原数组](https://leetcode.cn/problems/restore-the-array-from-adjacent-pairs/) | 中等 | [Python](1743/restoreArray.py) |
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode.cn/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 中等 | [Python](1744/canEat.py) |
+| 1745 | [分割回文串 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | 困难 | [Python](1745/checkPartitioning.py) |
 | 1748 | [唯一元素的和](https://leetcode.cn/problems/sum-of-unique-elements/) | 简单 | [Python](1748/sumOfUnique.py) |
 | 1760 | [袋子里最少数目的球](https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/) | 中等 | [Python](1760/minimumSize.py) |
 | 1763 | [最长的美好子字符串](https://leetcode.cn/problems/longest-nice-substring/) | 简单 | [Python](1763/longestNiceSubstring.py), [Python](1763/longestNiceSubstring_2.py) |

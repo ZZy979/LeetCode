@@ -51,11 +51,13 @@
 | 1232 | [缀点成线](https://leetcode.cn/problems/check-if-it-is-a-straight-line/) | 简单 | [Python](1232/checkStraightLine.py), [Python](1232/checkStraightLine_2.py) |
 | 1239 | [串联字符串的最大长度](https://leetcode.cn/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | 中等 | [Python](1239/maxLength.py) |
 | 1269 | [停在原地的方案数](https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | 困难 | [Python](1269/numWays.py) |
+| 1278 | [分割回文串 III](https://leetcode.cn/problems/palindrome-partitioning-iii/) | 困难 | [Python](1278/palindromePartition.py) |
 | 1287 | [有序数组中出现次数超过25%的元素](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/) | 简单 | [Python](1287/findSpecialInteger.py), [Python](1287/findSpecialInteger_2.py) |
 | 1296 | [划分数组为连续数字的集合](https://leetcode.cn/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 中等 | [Python](1296/isPossibleDivide.py) |
 | 1299 | [将每个元素替换为右侧最大元素](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/) | 简单 | [Python](1299/replaceElements.py), [Python](1299/replaceElements_2.py) |
 | 1310 | [子数组异或查询](https://leetcode.cn/problems/xor-queries-of-a-subarray/) | 中等 | [Python](1310/xorQueries.py) |
 | 1319 | [连通网络的操作次数](https://leetcode.cn/problems/number-of-operations-to-make-network-connected/) | 中等 | [Python](1319/makeConnected.py), [Python](1319/makeConnected_2.py) |
+| 1328 | [破坏回文串](https://leetcode.cn/problems/break-a-palindrome/) | 中等 | [Python](1328/breakPalindrome.py) |
 | 1332 | [删除回文子序列](https://leetcode.cn/problems/remove-palindromic-subsequences/) | 简单 | [Python](1332/removePalindromeSub.py) |
 | 1337 | [矩阵中战斗力最弱的K行](https://leetcode.cn/problems/the-k-weakest-rows-in-a-matrix/) | 简单 | [Python](1337/kWeakestRows.py) |
 | 1338 | [数组大小减半](https://leetcode.cn/problems/reduce-array-size-to-the-half/) | 中等 | [Python](1338/minSetSize.py) |
