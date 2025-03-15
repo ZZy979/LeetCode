@@ -10,6 +10,7 @@
 | 3083 | [字符串及其反转中是否存在同一子字符串](https://leetcode.cn/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | 简单 | [Python](3083/isSubstringPresent.py) |
 | 3095 | [或值至少 K 的最短子数组 I](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-i/) | 简单 | [Python](3095/minimumSubarrayLength.py), [Python](3095/minimumSubarrayLength_2.py) |
 | 3097 | [或值至少为 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/) | 中等 | [Python](3097/minimumSubarrayLength.py) |
+| 3110 | [字符串的分数](https://leetcode.cn/problems/score-of-a-string/) | 简单 | [Python](3110/scoreOfString.py) |
 | 3138 | [同位字符串连接的最小长度](https://leetcode.cn/problems/minimum-length-of-anagram-concatenation/) | 中等 | [Python](3138/minAnagramLength.py), [Python](3138/minAnagramLength_2.py) |
 | 3158 | [求出出现两次数字的 XOR 值](https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice/) | 简单 | [Python](3158/duplicateNumbersXOR.py), [Python](3158/duplicateNumbersXOR_2.py) |
 | 3159 | [查询数组中元素的出现位置](https://leetcode.cn/problems/find-occurrences-of-an-element-in-an-array/) | 中等 | [Python](3159/occurrencesOfElement.py) |
@@ -61,3 +62,6 @@
 | 3292 | [形成目标字符串需要的最少字符串数 II](https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-ii/) | 困难 | [Python](3292/minValidStrings.py) |
 | 3297 | [统计重新排列后包含另一个字符串的子字符串数目 I](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | 中等 | [Python](3297/validSubstringCount.py) |
 | 3298 | [统计重新排列后包含另一个字符串的子字符串数目 II](https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | 困难 | [Python](3298/validSubstringCount.py) |
+| 3305 | [元音辅音字符串计数 I](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | 中等 | [Python](3305/countOfSubstrings.py) |
+| 3306 | [元音辅音字符串计数 II](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | 中等 | [Python](3306/countOfSubstrings.py) |
+| 3340 | [检查平衡字符串](https://leetcode.cn/problems/check-balanced-string/) | 简单 | [Python](3340/isBalanced.py) |

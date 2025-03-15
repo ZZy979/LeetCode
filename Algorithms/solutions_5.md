@@ -3,6 +3,7 @@
 | # | 题名 | 难度 | 解答 |
 | --- | --- | --- | --- |
 | 2006 | [差的绝对值为K的数对数目](https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/) | 简单 | [Python](2006/countKDifference.py), [Python](2006/countKDifference_2.py) |
+| 2012 | [数组美丽值求和](https://leetcode.cn/problems/sum-of-beauty-in-the-array/) | 中等 | [Python](2012/sumOfBeauties.py) |
 | 2013 | [检测正方形](https://leetcode.cn/problems/detect-squares/) | 中等 | [Python](2013/DetectSquares.py) |
 | 2016 | [增量元素之间的最大差值](https://leetcode.cn/problems/maximum-difference-between-increasing-elements/) | 简单 | [Python](2016/maximumDifference.py) |
 | 2022 | [将一维数组转变成二维数组](https://leetcode.cn/problems/convert-1d-array-into-2d-array/) | 简单 | [Python](2022/construct2DArray.py) |
@@ -30,7 +31,9 @@
 | 2241 | [设计一个 ATM 机器](https://leetcode.cn/problems/design-an-atm-machine/) | 中等 | [Python](2241/ATM.py) |
 | 2264 | [字符串中最大的 3 位相同数字](https://leetcode.cn/problems/largest-3-same-digit-number-in-string/) | 简单 | [Python](2264/largestGoodInteger.py) |
 | 2266 | [统计打字方案数](https://leetcode.cn/problems/count-number-of-texts/) | 中等 | [Python](2266/countTexts.py), [Python](2266/countTexts_2.py) |
+| 2269 | [找到一个数字的 K 美丽值](https://leetcode.cn/problems/find-the-k-beauty-of-a-number/) | 简单 | [Python](2269/divisorSubstrings.py) |
 | 2270 | [分割数组的方案数](https://leetcode.cn/problems/number-of-ways-to-split-array/) | 中等 | [Python](2270/waysToSplitArray.py) |
+| 2272 | [最大波动的子字符串](https://leetcode.cn/problems/substring-with-largest-variance/) | 困难 | [Python](2272/largestVariance.py) |
 | 2274 | [不含特殊楼层的最大连续楼层数](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/) | 中等 | [Python](2274/maxConsecutive.py) |
 | 2275 | [按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/) | 中等 | [Python](2275/largestCombination.py) |
 | 2296 | [设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/) | 困难 | [Python](2296/TextEditor.py), [Python](2296/TextEditor_2.py) |
