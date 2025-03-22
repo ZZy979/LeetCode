@@ -61,6 +61,7 @@
 | 1884 | [鸡蛋掉落-两枚鸡蛋](https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/) | 中等 | [Python](1884/twoEggDrop.py), [Python](1884/twoEggDrop_2.py) |
 | 1893 | [检查是否区域内所有整数都被覆盖](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单 | [Python](1893/isCovered.py), [Python](1893/isCovered_2.py) |
 | 1894 | [找到需要补充粉笔的学生编号](https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/) | 中等 | [Python](1894/chalkReplacer.py) |
+| 1963 | [使字符串平衡的最小交换次数](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | 中等 | [Python](1963/minSwaps.py), [Python](1963/minSwaps_2.py) |
 | 1984 | [学生分数的最小差值](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 简单 | [Python](1984/minimumDifference.py) |
 | 1991 | [找到数组的中间位置](https://leetcode.cn/problems/find-the-middle-index-in-array/) | 简单 | [Python](1991/findMiddleIndex.py) |
 | 1994 | [好子集的数目](https://leetcode.cn/problems/the-number-of-good-subsets/) | 困难 | [Python](1994/numberOfGoodSubsets.py) |

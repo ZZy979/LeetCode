@@ -24,6 +24,7 @@
 | 2080 | [区间内查询数字的频率](https://leetcode.cn/problems/range-frequency-queries/) | 中等 | [Python](2080/RangeFreqQuery.py) |
 | 2100 | [适合打劫银行的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank/) | 中等 | [Python](2100/goodDaysToRobBank.py) |
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) | 中等 | [Python](2104/subArrayRanges.py), [Python](2104/subArrayRanges_2.py) |
+| 2116 | [判断一个括号字符串是否有效](https://leetcode.cn/problems/check-if-a-parentheses-string-can-be-valid/) | 中等 | [Python](2116/canBeValid.py), [Python](2116/canBeValid_2.py) |
 | 2209 | [用地毯覆盖后的最少白色砖块](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/) | 困难 | [Python](2209/minimumWhiteTiles.py) |
 | 2218 | [从栈中取出 K 个硬币的最大面值和](https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/) | 困难 | [Python](2218/maxValueOfCoins.py) |
 | 2234 | [花园的最大总美丽值](https://leetcode.cn/problems/maximum-total-beauty-of-the-gardens/) | 困难 | [Python](2234/maximumBeauty.py) |
