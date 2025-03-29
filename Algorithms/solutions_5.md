@@ -24,12 +24,14 @@
 | 2080 | [区间内查询数字的频率](https://leetcode.cn/problems/range-frequency-queries/) | 中等 | [Python](2080/RangeFreqQuery.py) |
 | 2100 | [适合打劫银行的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank/) | 中等 | [Python](2100/goodDaysToRobBank.py) |
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) | 中等 | [Python](2104/subArrayRanges.py), [Python](2104/subArrayRanges_2.py) |
+| 2109 | [向字符串添加空格](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 中等 | [Python](2109/addSpaces.py) |
 | 2116 | [判断一个括号字符串是否有效](https://leetcode.cn/problems/check-if-a-parentheses-string-can-be-valid/) | 中等 | [Python](2116/canBeValid.py), [Python](2116/canBeValid_2.py) |
 | 2209 | [用地毯覆盖后的最少白色砖块](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/) | 困难 | [Python](2209/minimumWhiteTiles.py) |
 | 2218 | [从栈中取出 K 个硬币的最大面值和](https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/) | 困难 | [Python](2218/maxValueOfCoins.py) |
 | 2234 | [花园的最大总美丽值](https://leetcode.cn/problems/maximum-total-beauty-of-the-gardens/) | 困难 | [Python](2234/maximumBeauty.py) |
 | 2239 | [找到最接近 0 的数字](https://leetcode.cn/problems/find-closest-number-to-zero/) | 简单 | [Python](2239/findClosestNumber.py) |
 | 2241 | [设计一个 ATM 机器](https://leetcode.cn/problems/design-an-atm-machine/) | 中等 | [Python](2241/ATM.py) |
+| 2255 | [统计是给定字符串前缀的字符串数目](https://leetcode.cn/problems/count-prefixes-of-a-given-string/) | 简单 | [Python](2255/countPrefixes.py) |
 | 2264 | [字符串中最大的 3 位相同数字](https://leetcode.cn/problems/largest-3-same-digit-number-in-string/) | 简单 | [Python](2264/largestGoodInteger.py) |
 | 2266 | [统计打字方案数](https://leetcode.cn/problems/count-number-of-texts/) | 中等 | [Python](2266/countTexts.py), [Python](2266/countTexts_2.py) |
 | 2269 | [找到一个数字的 K 美丽值](https://leetcode.cn/problems/find-the-k-beauty-of-a-number/) | 简单 | [Python](2269/divisorSubstrings.py) |
@@ -38,4 +40,5 @@
 | 2274 | [不含特殊楼层的最大连续楼层数](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/) | 中等 | [Python](2274/maxConsecutive.py) |
 | 2275 | [按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/) | 中等 | [Python](2275/largestCombination.py) |
 | 2296 | [设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/) | 困难 | [Python](2296/TextEditor.py), [Python](2296/TextEditor_2.py) |
+| 2360 | [图中的最长环](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | 困难 | [Python](2360/longestCycle.py) |
 | 2412 | [完成所有交易的初始最少钱数](https://leetcode.cn/problems/minimum-money-required-before-transactions/) | 困难 | [Python](2412/minimumMoney.py) |
