@@ -26,6 +26,7 @@
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) | 中等 | [Python](2104/subArrayRanges.py), [Python](2104/subArrayRanges_2.py) |
 | 2109 | [向字符串添加空格](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 中等 | [Python](2109/addSpaces.py) |
 | 2116 | [判断一个括号字符串是否有效](https://leetcode.cn/problems/check-if-a-parentheses-string-can-be-valid/) | 中等 | [Python](2116/canBeValid.py), [Python](2116/canBeValid_2.py) |
+| 2140 | [解决智力问题](https://leetcode.cn/problems/solving-questions-with-brainpower/) | 中等 | [Python](2140/mostPoints.py) |
 | 2209 | [用地毯覆盖后的最少白色砖块](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/) | 困难 | [Python](2209/minimumWhiteTiles.py) |
 | 2218 | [从栈中取出 K 个硬币的最大面值和](https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/) | 困难 | [Python](2218/maxValueOfCoins.py) |
 | 2234 | [花园的最大总美丽值](https://leetcode.cn/problems/maximum-total-beauty-of-the-gardens/) | 困难 | [Python](2234/maximumBeauty.py) |
@@ -39,6 +40,7 @@
 | 2272 | [最大波动的子字符串](https://leetcode.cn/problems/substring-with-largest-variance/) | 困难 | [Python](2272/largestVariance.py) |
 | 2274 | [不含特殊楼层的最大连续楼层数](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/) | 中等 | [Python](2274/maxConsecutive.py) |
 | 2275 | [按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/) | 中等 | [Python](2275/largestCombination.py) |
+| 2278 | [字母在字符串中的百分比](https://leetcode.cn/problems/percentage-of-letter-in-string/) | 简单 | [Python](2278/percentageLetter.py) |
 | 2296 | [设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/) | 困难 | [Python](2296/TextEditor.py), [Python](2296/TextEditor_2.py) |
 | 2360 | [图中的最长环](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | 困难 | [Python](2360/longestCycle.py) |
 | 2412 | [完成所有交易的初始最少钱数](https://leetcode.cn/problems/minimum-money-required-before-transactions/) | 困难 | [Python](2412/minimumMoney.py) |

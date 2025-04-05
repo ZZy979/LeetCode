@@ -4,7 +4,7 @@ class Solution:
         n = len(nums)
         nums.sort()
 
-        dp = [1] * n
+        dp = [1] * n  # dp[i]表示在nums升序排列的前提下，以nums[i]为最大整数的整除子集的大小
         max_size = max_val = 1
         for i in range(1, n):
             for j in range(i):

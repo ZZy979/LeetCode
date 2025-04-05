@@ -30,6 +30,7 @@
 | 1104 | [二叉树寻路](https://leetcode.cn/problems/path-in-zigzag-labelled-binary-tree/) | 中等 | [Python](1104/pathInZigZagTree.py) |
 | 1109 | [航班预订统计](https://leetcode.cn/problems/corporate-flight-bookings/) | 中等 | [Pytohn](1109/corpFlightBookings.py) |
 | 1122 | [数组的相对排序](https://leetcode.cn/problems/relative-sort-array/) | 简单 | [Java](1122/relativeSortArray.java), [Python](1122/relativeSortArray.py) |
+| 1123 | [最深叶节点的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/) | 中等 | [Python](1123/lcaDeepestLeaves.py) |
 | 1128 | [等价多米诺骨牌对的数量](https://leetcode.cn/problems/number-of-equivalent-domino-pairs/) | 简单 | [Python](1128/numEquivDominoPairs.py) |
 | 1137 | [第N个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/) | 简单 | [Python](1137/tribonacci.py) |
 | 1140 | [石子游戏II](https://leetcode.cn/problems/stone-game-ii/) | 中等 | [Python](1140/stoneGameII.py) |

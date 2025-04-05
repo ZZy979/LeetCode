@@ -18,6 +18,8 @@
 | 2716 | [最小化字符串长度](https://leetcode.cn/problems/minimize-string-length/) | 简单 | [Python](2716/minimizedStringLength.py) |
 | 2717 | [半有序排列](https://leetcode.cn/problems/semi-ordered-permutation/) | 简单 | [Python](2717/semiOrderedPermutation.py) |
 | 2829 | [k-avoiding 数组的最小总和](https://leetcode.cn/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | 中等 | [Python](2829/minimumSum.py) |
+| 2873 | [有序三元组中的最大值 I](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-i/) | 简单 | [Python](2873/maximumTripletValue.py) |
+| 2874 | [有序三元组中的最大值 II](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-ii/) | 中等 | [Python](2874/maximumTripletValue.py), [Python](2874/maximumTripletValue_2.py) |
 | 2920 | [收集所有金币可获得的最大积分](https://leetcode.cn/problems/maximum-points-after-collecting-coins-from-all-nodes/) | 困难 | [Python](2920/maximumPoints.py) |
 | 2931 | [购买物品的最大开销](https://leetcode.cn/problems/maximum-spending-after-buying-items/) | 困难 | [Python](2931/maxSpending.py), [Python](2931/maxSpending_2.py) |
 | 2944 | [购买水果需要的最少金币数](https://leetcode.cn/problems/minimum-number-of-coins-for-fruits/) | 中等 | [Python](2944/minimumCoins.py), [Python](2944/minimumCoins_2.py) |
