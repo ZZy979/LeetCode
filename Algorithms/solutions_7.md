@@ -54,6 +54,7 @@
 | 3264 | [K 次乘运算后的最终数组 I](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-i/) | 简单 | [Python](3264/getFinalState.py) |
 | 3266 | [K 次乘运算后的最终数组 II](https://leetcode.cn/problems/final-array-state-after-k-multiplication-operations-ii/) | 困难 | [Python](3266/getFinalState.py) |
 | 3270 | [求出数字答案](https://leetcode.cn/problems/find-the-key-of-the-numbers/) | 简单 | [Python](3270/generateKey.py), [Python](3270/generateKey_2.py) |
+| 3272 | [统计好整数的数目](https://leetcode.cn/problems/find-the-count-of-good-integers/) | 困难 | [Python](3272/countGoodIntegers.py) |
 | 3274 | [检查棋盘方格颜色是否相同](https://leetcode.cn/problems/check-if-two-chessboard-squares-have-the-same-color/) | 简单 | [Python](3274/checkTwoChessboards.py), [Python](3274/checkTwoChessboards_2.py) |
 | 3280 | [将日期转换为二进制表示](https://leetcode.cn/problems/convert-date-to-binary/) | 简单 | [Python](3280/convertDateToBinary.py), [Python](3280/convertDateToBinary_2.py) |
 | 3285 | [找到稳定山的下标](https://leetcode.cn/problems/find-indices-of-stable-mountains/) | 简单 | [Python](3285/stableMountains.py) |
@@ -65,3 +66,5 @@
 | 3305 | [元音辅音字符串计数 I](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | 中等 | [Python](3305/countOfSubstrings.py) |
 | 3306 | [元音辅音字符串计数 II](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | 中等 | [Python](3306/countOfSubstrings.py) |
 | 3340 | [检查平衡字符串](https://leetcode.cn/problems/check-balanced-string/) | 简单 | [Python](3340/isBalanced.py) |
+| 3375 | [使数组的值全部为 K 的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-make-array-values-equal-to-k/) | 简单 | [Python](3375/minOperations.py) |
+| 3396 | [使数组元素互不相同所需的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | 简单 | [Python](3396/minimumOperations.py) |
