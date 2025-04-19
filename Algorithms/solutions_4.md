@@ -4,6 +4,7 @@
 | --- | --- | --- | --- |
 | 1510 | [石子游戏IV](https://leetcode.cn/problems/stone-game-iv/) | 困难 | [Python](1510/winnerSquareGame.py) |
 | 1518 | [换酒问题](https://leetcode.cn/problems/water-bottles/) | 简单 | [Python](1518/numWaterBottles.py), [Python](1518/numWaterBottles_2.py) |
+| 1534 | [统计好三元组](https://leetcode.cn/problems/count-good-triplets/) | 简单 | [Python](1534/countGoodTriplets.py), [Python](1534/countGoodTriplets_2.py) |
 | 1547 | [切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/) | 困难 | [Python](1547/minCost.py) |
 | 1552 | [两球之间的磁力](https://leetcode.cn/problems/magnetic-force-between-two-balls/) | 中等 | [Python](1552/maxDistance.py) |
 | 1561 | [你可以获得的最大硬币数目](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/) | 中等 | [Python](1561/maxCoins.py) |

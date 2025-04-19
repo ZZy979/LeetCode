@@ -4,7 +4,9 @@
 | --- | --- | --- | --- |
 | 2502 | [设计内存分配器](https://leetcode.cn/problems/design-memory-allocator/) | 中等 | [Python](2502/Allocator.py), [Python](2502/Allocator_2.py) |
 | 2506 | [统计相似字符串对的数目](https://leetcode.cn/problems/count-pairs-of-similar-strings/) | 简单 | [Python](2506/similarPairs.py) |
+| 2537 | [统计好子数组的数目](https://leetcode.cn/problems/count-the-number-of-good-subarrays/) | 中等 | [Python](2537/countGood.py) |
 | 2545 | [根据第 K 场考试的分数排序](https://leetcode.cn/problems/sort-the-students-by-their-kth-score/) | 中等 | [Python](2545/sortTheStudents.py) |
+| 2563 | [统计公平数对的数目](https://leetcode.cn/problems/count-the-number-of-fair-pairs/) | 中等 | [Python](2563/countFairPairs.py), [Python](2563/countFairPairs_2.py) |
 | 2588 | [统计美丽子数组数目](https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays/) | 中等 | [Python](2588/beautifulSubarrays.py) |
 | 2595 | [奇偶位数](https://leetcode.cn/problems/number-of-even-and-odd-bits/) | 简单 | [Python](2595/evenOddBit.py) |
 | 2597 | [美丽子集的数目](https://leetcode.cn/problems/the-number-of-beautiful-subsets/) | 中等 | [Python](2597/beautifulSubsets.py), [Python](2597/beautifulSubsets_2.py) |
