@@ -27,6 +27,7 @@
 | 2109 | [向字符串添加空格](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 中等 | [Python](2109/addSpaces.py) |
 | 2116 | [判断一个括号字符串是否有效](https://leetcode.cn/problems/check-if-a-parentheses-string-can-be-valid/) | 中等 | [Python](2116/canBeValid.py), [Python](2116/canBeValid_2.py) |
 | 2140 | [解决智力问题](https://leetcode.cn/problems/solving-questions-with-brainpower/) | 中等 | [Python](2140/mostPoints.py) |
+| 2145 | [统计隐藏数组数目](https://leetcode.cn/problems/count-the-hidden-sequences/) | 中等 | [Python](2145/numberOfArrays.py) |
 | 2176 | [统计数组中相等且可以被整除的数对](https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/) | 简单 | [Python](2176/countPairs.py) |
 | 2179 | [统计数组中好三元组数目](https://leetcode.cn/problems/count-good-triplets-in-an-array/) | 困难 | [Python](2179/goodTriplets.py) |
 | 2209 | [用地毯覆盖后的最少白色砖块](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/) | 困难 | [Python](2209/minimumWhiteTiles.py) |
@@ -44,6 +45,8 @@
 | 2275 | [按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/) | 中等 | [Python](2275/largestCombination.py) |
 | 2278 | [字母在字符串中的百分比](https://leetcode.cn/problems/percentage-of-letter-in-string/) | 简单 | [Python](2278/percentageLetter.py) |
 | 2296 | [设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/) | 困难 | [Python](2296/TextEditor.py), [Python](2296/TextEditor_2.py) |
+| 2338 | [统计理想数组的数目](https://leetcode.cn/problems/count-the-number-of-ideal-arrays/) | 困难 | [Python](2338/idealArrays.py), [Python](2338/idealArrays_2.py) |
 | 2360 | [图中的最长环](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | 困难 | [Python](2360/longestCycle.py) |
 | 2364 | [统计坏数对的数目](https://leetcode.cn/problems/count-number-of-bad-pairs/) | 中等 | [Python](2364/countBadPairs.py), [Python](2364/countBadPairs_2.py) |
 | 2412 | [完成所有交易的初始最少钱数](https://leetcode.cn/problems/minimum-money-required-before-transactions/) | 困难 | [Python](2412/minimumMoney.py) |
+| 2444 | [统计定界子数组的数目](https://leetcode.cn/problems/count-subarrays-with-fixed-bounds/) | 困难 | [Python](2444/countSubarrays.py), [Python](2444/countSubarrays_2.py) |
