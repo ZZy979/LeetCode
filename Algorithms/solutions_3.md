@@ -7,6 +7,7 @@
 | 1004 | [最大连续1的个数III](https://leetcode.cn/problems/max-consecutive-ones-iii/) | 中等 | [Python](1004/longestOnes.py) |
 | 1005 | [K次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/) | 简单 | [Python](1005/largestSumAfterKNegations.py), [Python](1005/largestSumAfterKNegations_2.py) |
 | 1006 | [笨阶乘](https://leetcode.cn/problems/clumsy-factorial/) | 中等 | [Python](1006/clumsy.py), [Python](1006/clumsy_2.py), [Python](1006/clumsy_3.py) |
+| 1007 | [行相等的最少多米诺旋转](https://leetcode.cn/problems/minimum-domino-rotations-for-equal-row/) | 中等 | [Python](1007/minDominoRotations.py) |
 | 1008 | [前序遍历构造二叉搜索树](https://leetcode.cn/problems/construct-binary-search-tree-from-preorder-traversal/) | 中等 | [Python](1008/bstFromPreorder.py), [Python](1008/bstFromPreorder_2.py), [Python](1008/bstFromPreorder_3.py) |
 | 1009 | [十进制整数的反码](https://leetcode.cn/problems/complement-of-base-10-integer/) | 简单 | [Python](1009/bitwiseComplement.py) |
 | 1011 | [在D天内送达包裹的能力](https://leetcode.cn/problems/capacity-to-ship-packages-within-d-days/) | 中等 | [Python](1011/shipWithinDays.py) |
@@ -54,6 +55,7 @@
 | 1269 | [停在原地的方案数](https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | 困难 | [Python](1269/numWays.py) |
 | 1278 | [分割回文串 III](https://leetcode.cn/problems/palindrome-partitioning-iii/) | 困难 | [Python](1278/palindromePartition.py) |
 | 1287 | [有序数组中出现次数超过25%的元素](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/) | 简单 | [Python](1287/findSpecialInteger.py), [Python](1287/findSpecialInteger_2.py) |
+| 1295 | [统计位数为偶数的数字](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/) | 简单 | [Python](1295/findNumbers.py) |
 | 1296 | [划分数组为连续数字的集合](https://leetcode.cn/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 中等 | [Python](1296/isPossibleDivide.py) |
 | 1299 | [将每个元素替换为右侧最大元素](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/) | 简单 | [Python](1299/replaceElements.py), [Python](1299/replaceElements_2.py) |
 | 1310 | [子数组异或查询](https://leetcode.cn/problems/xor-queries-of-a-subarray/) | 中等 | [Python](1310/xorQueries.py) |

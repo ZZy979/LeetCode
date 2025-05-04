@@ -45,6 +45,7 @@
 | 2275 | [按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/) | 中等 | [Python](2275/largestCombination.py) |
 | 2278 | [字母在字符串中的百分比](https://leetcode.cn/problems/percentage-of-letter-in-string/) | 简单 | [Python](2278/percentageLetter.py) |
 | 2296 | [设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/) | 困难 | [Python](2296/TextEditor.py), [Python](2296/TextEditor_2.py) |
+| 2302 | [统计得分小于 K 的子数组数目](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/) | 困难 | [Python](2302/countSubarrays.py), [Python](2302/countSubarrays_2.py) |
 | 2338 | [统计理想数组的数目](https://leetcode.cn/problems/count-the-number-of-ideal-arrays/) | 困难 | [Python](2338/idealArrays.py), [Python](2338/idealArrays_2.py) |
 | 2360 | [图中的最长环](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | 困难 | [Python](2360/longestCycle.py) |
 | 2364 | [统计坏数对的数目](https://leetcode.cn/problems/count-number-of-bad-pairs/) | 中等 | [Python](2364/countBadPairs.py), [Python](2364/countBadPairs_2.py) |
