@@ -153,6 +153,7 @@
 | 786 | [第K个最小的素数分数](https://leetcode.cn/problems/k-th-smallest-prime-fraction/) | 困难 | [Python](786/kthSmallestPrimeFraction.py), [Python](786/kthSmallestPrimeFraction_2.py), [Python](786/kthSmallestPrimeFraction_3.py) |
 | 787 | [K站中转内最便宜的航班](https://leetcode.cn/problems/cheapest-flights-within-k-stops/) | 中等 | [Python](787/findCheapestPrice.py) |
 | 789 | [逃脱阻碍者](https://leetcode.cn/problems/escape-the-ghosts/) | 中等 | [Python](789/escapeGhosts.py) |
+| 790 | [多米诺和托米诺平铺](https://leetcode.cn/problems/domino-and-tromino-tiling/) | 中等 | [Python](790/numTilings.py), [Python](790/numTilings_2.py) |
 | 794 | [有效的井字游戏](https://leetcode.cn/problems/valid-tic-tac-toe-state/) | 中等 | [Python](794/validTicTacToe.py) |
 | 796 | [旋转字符串](https://leetcode.cn/problems/rotate-string/) | 简单 | [Python](796/rotateString.py) |
 | 797 | [所有可能的路径](https://leetcode.cn/problems/all-paths-from-source-to-target/) | 中等 | [Python](797/allPathsSourceTarget.py) |

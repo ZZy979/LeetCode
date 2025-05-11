@@ -6,6 +6,7 @@
 | 1518 | [换酒问题](https://leetcode.cn/problems/water-bottles/) | 简单 | [Python](1518/numWaterBottles.py), [Python](1518/numWaterBottles_2.py) |
 | 1534 | [统计好三元组](https://leetcode.cn/problems/count-good-triplets/) | 简单 | [Python](1534/countGoodTriplets.py), [Python](1534/countGoodTriplets_2.py) |
 | 1547 | [切棍子的最小成本](https://leetcode.cn/problems/minimum-cost-to-cut-a-stick/) | 困难 | [Python](1547/minCost.py) |
+| 1550 | [存在连续三个奇数的数组](https://leetcode.cn/problems/three-consecutive-odds/) | 简单 | [Python](1550/threeConsecutiveOdds.py) |
 | 1552 | [两球之间的磁力](https://leetcode.cn/problems/magnetic-force-between-two-balls/) | 中等 | [Python](1552/maxDistance.py) |
 | 1561 | [你可以获得的最大硬币数目](https://leetcode.cn/problems/maximum-number-of-coins-you-can-get/) | 中等 | [Python](1561/maxCoins.py) |
 | 1563 | [石子游戏V](https://leetcode.cn/problems/stone-game-v/) | 困难 | [Python](1563/stoneGameV.py), [Python](1563/stoneGameV_2.py) |
@@ -63,6 +64,7 @@
 | 1884 | [鸡蛋掉落-两枚鸡蛋](https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/) | 中等 | [Python](1884/twoEggDrop.py), [Python](1884/twoEggDrop_2.py) |
 | 1893 | [检查是否区域内所有整数都被覆盖](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单 | [Python](1893/isCovered.py), [Python](1893/isCovered_2.py) |
 | 1894 | [找到需要补充粉笔的学生编号](https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/) | 中等 | [Python](1894/chalkReplacer.py) |
+| 1920 | [基于排列构建数组](https://leetcode.cn/problems/build-array-from-permutation/) | 简单 | [Python](1920/buildArray.py) |
 | 1922 | [统计好数字的数目](https://leetcode.cn/problems/count-good-numbers/) | 中等 | [Python](1922/countGoodNumbers.py) |
 | 1963 | [使字符串平衡的最小交换次数](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | 中等 | [Python](1963/minSwaps.py), [Python](1963/minSwaps_2.py) |
 | 1984 | [学生分数的最小差值](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 简单 | [Python](1984/minimumDifference.py) |

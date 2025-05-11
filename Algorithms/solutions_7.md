@@ -66,6 +66,9 @@
 | 3305 | [元音辅音字符串计数 I](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | 中等 | [Python](3305/countOfSubstrings.py) |
 | 3306 | [元音辅音字符串计数 II](https://leetcode.cn/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | 中等 | [Python](3306/countOfSubstrings.py) |
 | 3340 | [检查平衡字符串](https://leetcode.cn/problems/check-balanced-string/) | 简单 | [Python](3340/isBalanced.py) |
+| 3341 | [到达最后一个房间的最少时间 I](https://leetcode.cn/problems/find-minimum-time-to-reach-last-room-i/) | 中等 | [Python](3341/minTimeToReach.py) |
+| 3342 | [到达最后一个房间的最少时间 II](https://leetcode.cn/problems/find-minimum-time-to-reach-last-room-ii/) | 中等 | [Python](3342/minTimeToReach.py) |
+| 3343 | [统计平衡排列的数目](https://leetcode.cn/problems/count-number-of-balanced-permutations/) | 困难 | [Python](3343/countBalancedPermutations.py) |
 | 3375 | [使数组的值全部为 K 的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-make-array-values-equal-to-k/) | 简单 | [Python](3375/minOperations.py) |
 | 3392 | [统计符合条件长度为 3 的子数组数目](https://leetcode.cn/problems/count-subarrays-of-length-three-with-a-condition/) | 困难 | [Python](3392/countSubarrays.py) |
 | 3396 | [使数组元素互不相同所需的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | 简单 | [Python](3396/minimumOperations.py) |
