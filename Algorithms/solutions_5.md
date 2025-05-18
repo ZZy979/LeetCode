@@ -22,6 +22,7 @@
 | 2056 | [棋盘上有效移动组合的数目](https://leetcode.cn/problems/number-of-valid-move-combinations-on-chessboard/) | 困难 | [Python](2056/countCombinations.py) |
 | 2070 | [每一个查询的最大美丽值](https://leetcode.cn/problems/most-beautiful-item-for-each-query/) | 中等 | [Python](2070/maximumBeauty.py) |
 | 2080 | [区间内查询数字的频率](https://leetcode.cn/problems/range-frequency-queries/) | 中等 | [Python](2080/RangeFreqQuery.py) |
+| 2094 | [找出 3 位偶数](https://leetcode.cn/problems/finding-3-digit-even-numbers/) | 简单 | [Python](2094/findEvenNumbers.py), [Python](2094/findEvenNumbers_2.py) |
 | 2100 | [适合打劫银行的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank/) | 中等 | [Python](2100/goodDaysToRobBank.py) |
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) | 中等 | [Python](2104/subArrayRanges.py), [Python](2104/subArrayRanges_2.py) |
 | 2109 | [向字符串添加空格](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 中等 | [Python](2109/addSpaces.py) |

@@ -66,6 +66,7 @@
 | 1894 | [找到需要补充粉笔的学生编号](https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/) | 中等 | [Python](1894/chalkReplacer.py) |
 | 1920 | [基于排列构建数组](https://leetcode.cn/problems/build-array-from-permutation/) | 简单 | [Python](1920/buildArray.py) |
 | 1922 | [统计好数字的数目](https://leetcode.cn/problems/count-good-numbers/) | 中等 | [Python](1922/countGoodNumbers.py) |
+| 1931 | [用三种不同颜色为网格涂色](https://leetcode.cn/problems/painting-a-grid-with-three-different-colors/) | 困难 | [Python](1931/colorTheGrid.py) |
 | 1963 | [使字符串平衡的最小交换次数](https://leetcode.cn/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | 中等 | [Python](1963/minSwaps.py), [Python](1963/minSwaps_2.py) |
 | 1984 | [学生分数的最小差值](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 简单 | [Python](1984/minimumDifference.py) |
 | 1991 | [找到数组的中间位置](https://leetcode.cn/problems/find-the-middle-index-in-array/) | 简单 | [Python](1991/findMiddleIndex.py) |

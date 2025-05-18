@@ -74,7 +74,7 @@
 | 72 | [编辑距离](https://leetcode.cn/problems/edit-distance/) | 困难 | [Python](72/minDistance.py) |
 | 73 | [矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/) | 中等 | [Python](73/setZeroes.py), [Python](73/setZeroes_2.py) |
 | 74 | [搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/) | 中等 | [Python](74/searchMatrix.py), [Python](74/searchMatrix_2.py) |
-| 75 | [颜色分类](https://leetcode.cn/problems/sort-colors/) | 中等 | [Python](75/sortColors.py) |
+| 75 | [颜色分类](https://leetcode.cn/problems/sort-colors/) | 中等 | [Python](75/sortColors.py), [Python](75/sortColors_2.py), [Python](75/sortColors_3.py), [Python](75/sortColors_4.py) |
 | 76 | [最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | 困难 | [Python](76/minWindow.py), [Python](76/minWindow_2.py) |
 | 77 | [组合](https://leetcode.cn/problems/combinations/) | 中等 | [Python](77/combine.py) |
 | 78 | [子集](https://leetcode.cn/problems/subsets/) | 中等 | [Python](78/subsets.py), [Python](78/subsets_2.py) |
