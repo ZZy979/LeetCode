@@ -27,6 +27,7 @@
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) | 中等 | [Python](2104/subArrayRanges.py), [Python](2104/subArrayRanges_2.py) |
 | 2109 | [向字符串添加空格](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 中等 | [Python](2109/addSpaces.py) |
 | 2116 | [判断一个括号字符串是否有效](https://leetcode.cn/problems/check-if-a-parentheses-string-can-be-valid/) | 中等 | [Python](2116/canBeValid.py), [Python](2116/canBeValid_2.py) |
+| 2131 | [连接两字母单词得到的最长回文串](https://leetcode.cn/problems/longest-palindrome-by-concatenating-two-letter-words/) | 中等 | [Python](2131/longestPalindrome.py) |
 | 2140 | [解决智力问题](https://leetcode.cn/problems/solving-questions-with-brainpower/) | 中等 | [Python](2140/mostPoints.py) |
 | 2145 | [统计隐藏数组数目](https://leetcode.cn/problems/count-the-hidden-sequences/) | 中等 | [Python](2145/numberOfArrays.py) |
 | 2176 | [统计数组中相等且可以被整除的数对](https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/) | 简单 | [Python](2176/countPairs.py) |

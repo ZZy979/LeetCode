@@ -4,9 +4,11 @@
 | --- | --- | --- | --- |
 | 3001 | [捕获黑皇后需要的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-capture-the-queen/) | 中等 | [Python](3001/minMovesToCaptureTheQueen.py) |
 | 3019 | [按键变更的次数](https://leetcode.cn/problems/number-of-changing-keys/) | 简单 | [Python](3019/countKeyChanges.py) |
+| 3024 | [三角形类型](https://leetcode.cn/problems/type-of-triangle/) | 简单 | [Python](3024/triangleType.py) |
 | 3046 | [分割数组](https://leetcode.cn/problems/split-the-array/) | 简单 | [Python](3046/isPossibleToSplit.py) |
 | 3065 | [超过阈值的最少操作数 I](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-i/) | 简单 | [Python](3065/minOperations.py) |
 | 3066 | [超过阈值的最少操作数 II](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-ii/) | 中等 | [Python](3066/minOperations.py) |
+| 3068 | [最大节点价值之和](https://leetcode.cn/problems/find-the-maximum-sum-of-node-values/) | 困难 | [Python](3068/maximumValueSum.py), [Python](3068/maximumValueSum_2.py), [Python](3068/maximumValueSum_3.py) |
 | 3083 | [字符串及其反转中是否存在同一子字符串](https://leetcode.cn/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | 简单 | [Python](3083/isSubstringPresent.py) |
 | 3095 | [或值至少 K 的最短子数组 I](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-i/) | 简单 | [Python](3095/minimumSubarrayLength.py), [Python](3095/minimumSubarrayLength_2.py) |
 | 3097 | [或值至少为 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/) | 中等 | [Python](3097/minimumSubarrayLength.py) |
@@ -71,6 +73,9 @@
 | 3341 | [到达最后一个房间的最少时间 I](https://leetcode.cn/problems/find-minimum-time-to-reach-last-room-i/) | 中等 | [Python](3341/minTimeToReach.py) |
 | 3342 | [到达最后一个房间的最少时间 II](https://leetcode.cn/problems/find-minimum-time-to-reach-last-room-ii/) | 中等 | [Python](3342/minTimeToReach.py) |
 | 3343 | [统计平衡排列的数目](https://leetcode.cn/problems/count-number-of-balanced-permutations/) | 困难 | [Python](3343/countBalancedPermutations.py) |
+| 3355 | [零数组变换 I](https://leetcode.cn/problems/zero-array-transformation-i/) | 中等 | [Python](3355/isZeroArray.py) |
+| 3356 | [零数组变换 II](https://leetcode.cn/problems/zero-array-transformation-ii/) | 中等 | [Python](3356/minZeroArray.py), [Python](3356/minZeroArray_2.py) |
+| 3362 | [零数组变换 III](https://leetcode.cn/problems/zero-array-transformation-iii/) | 中等 | [Python](3362/maxRemoval.py) |
 | 3375 | [使数组的值全部为 K 的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-make-array-values-equal-to-k/) | 简单 | [Python](3375/minOperations.py) |
 | 3392 | [统计符合条件长度为 3 的子数组数目](https://leetcode.cn/problems/count-subarrays-of-length-three-with-a-condition/) | 困难 | [Python](3392/countSubarrays.py) |
 | 3396 | [使数组元素互不相同所需的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | 简单 | [Python](3396/minimumOperations.py) |
