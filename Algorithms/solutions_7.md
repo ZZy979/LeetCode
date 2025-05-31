@@ -76,6 +76,8 @@
 | 3355 | [零数组变换 I](https://leetcode.cn/problems/zero-array-transformation-i/) | 中等 | [Python](3355/isZeroArray.py) |
 | 3356 | [零数组变换 II](https://leetcode.cn/problems/zero-array-transformation-ii/) | 中等 | [Python](3356/minZeroArray.py), [Python](3356/minZeroArray_2.py) |
 | 3362 | [零数组变换 III](https://leetcode.cn/problems/zero-array-transformation-iii/) | 中等 | [Python](3362/maxRemoval.py) |
+| 3372 | [连接两棵树后最大目标节点数目 I](https://leetcode.cn/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | 中等 | [Python](3372/maxTargetNodes.py) |
+| 3373 | [连接两棵树后最大目标节点数目 II](https://leetcode.cn/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | 困难 | [Python](3373/maxTargetNodes.py) |
 | 3375 | [使数组的值全部为 K 的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-make-array-values-equal-to-k/) | 简单 | [Python](3375/minOperations.py) |
 | 3392 | [统计符合条件长度为 3 的子数组数目](https://leetcode.cn/problems/count-subarrays-of-length-three-with-a-condition/) | 困难 | [Python](3392/countSubarrays.py) |
 | 3396 | [使数组元素互不相同所需的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | 简单 | [Python](3396/minimumOperations.py) |

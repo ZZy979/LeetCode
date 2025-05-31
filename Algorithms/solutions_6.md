@@ -25,10 +25,12 @@
 | 2845 | [统计趣味子数组的数目](https://leetcode.cn/problems/count-of-interesting-subarrays/) | 中等 | [Python](2845/countInterestingSubarrays.py) |
 | 2873 | [有序三元组中的最大值 I](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-i/) | 简单 | [Python](2873/maximumTripletValue.py) |
 | 2874 | [有序三元组中的最大值 II](https://leetcode.cn/problems/maximum-value-of-an-ordered-triplet-ii/) | 中等 | [Python](2874/maximumTripletValue.py), [Python](2874/maximumTripletValue_2.py) |
+| 2894 | [分类求和并作差](https://leetcode.cn/problems/divisible-and-non-divisible-sums-difference/) | 简单 | [Python](2894/differenceOfSums.py), [Python](2894/differenceOfSums_2.py) |
 | 2900 | [最长相邻不相等子序列 I](https://leetcode.cn/problems/longest-unequal-adjacent-groups-subsequence-i/) | 简单 | [Python](2900/getLongestSubsequence.py) |
 | 2901 | [最长相邻不相等子序列 II](https://leetcode.cn/problems/longest-unequal-adjacent-groups-subsequence-ii/) | 中等 | [Python](2901/getWordsInLongestSubsequence.py) |
 | 2918 | [数组的最小相等和](https://leetcode.cn/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | 中等 | [Python](2918/minSum.py) |
 | 2920 | [收集所有金币可获得的最大积分](https://leetcode.cn/problems/maximum-points-after-collecting-coins-from-all-nodes/) | 困难 | [Python](2920/maximumPoints.py) |
+| 2929 | [给小朋友们分糖果 II](https://leetcode.cn/problems/distribute-candies-among-children-ii/) | 中等 | [Python](2929/distributeCandies.py), [Python](2929/distributeCandies_2.py) |
 | 2931 | [购买物品的最大开销](https://leetcode.cn/problems/maximum-spending-after-buying-items/) | 困难 | [Python](2931/maxSpending.py), [Python](2931/maxSpending_2.py) |
 | 2942 | [查找包含给定字符的单词](https://leetcode.cn/problems/find-words-containing-character/) | 简单 | [Python](2942/findWordsContaining.py) |
 | 2944 | [购买水果需要的最少金币数](https://leetcode.cn/problems/minimum-number-of-coins-for-fruits/) | 中等 | [Python](2944/minimumCoins.py), [Python](2944/minimumCoins_2.py) |
