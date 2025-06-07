@@ -17,6 +17,7 @@
 | 3158 | [求出出现两次数字的 XOR 值](https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice/) | 简单 | [Python](3158/duplicateNumbersXOR.py), [Python](3158/duplicateNumbersXOR_2.py) |
 | 3159 | [查询数组中元素的出现位置](https://leetcode.cn/problems/find-occurrences-of-an-element-in-an-array/) | 中等 | [Python](3159/occurrencesOfElement.py) |
 | 3165 | [不包含相邻元素的子序列的最大和](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) | 困难 | [Python](3165/maximumSumSubsequence.py) |
+| 3170 | [删除星号以后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-minimum-string-after-removing-stars/) | 中等 | [Python](3170/clearStars.py), [Python](3170/clearStars_2.py) |
 | 3175 | [找到连续赢 K 场比赛的第一位玩家](https://leetcode.cn/problems/find-the-first-player-to-win-k-games-in-a-row/) | 中等 | [Python](3175/findWinningPlayer.py), [Python](3175/findWinningPlayer_2.py) |
 | 3180 | [执行操作可获得的最大总奖励 I](https://leetcode.cn/problems/maximum-total-reward-using-operations-i/) | 中等 | [Python](3180/maxTotalReward.py) |
 | 3181 | [执行操作可获得的最大总奖励 II](https://leetcode.cn/problems/maximum-total-reward-using-operations-ii/) | 困难 | [Python](3181/maxTotalReward.py) |
@@ -81,3 +82,4 @@
 | 3375 | [使数组的值全部为 K 的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-make-array-values-equal-to-k/) | 简单 | [Python](3375/minOperations.py) |
 | 3392 | [统计符合条件长度为 3 的子数组数目](https://leetcode.cn/problems/count-subarrays-of-length-three-with-a-condition/) | 困难 | [Python](3392/countSubarrays.py) |
 | 3396 | [使数组元素互不相同所需的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | 简单 | [Python](3396/minimumOperations.py) |
+| 3403 | [从盒子中找出字典序最大的字符串 I](https://leetcode.cn/problems/find-the-lexicographically-largest-string-from-the-box-i/) | 中等 | [Python](3403/answerString.py), [Python](3403/answerString_2.py) |

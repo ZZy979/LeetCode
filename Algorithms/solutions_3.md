@@ -25,6 +25,7 @@
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | 简单 | [Python](1047/removeDuplicates.py), [Python](1047/removeDuplicates_2.py) |
 | 1049 | [最后一块石头的重量II](https://leetcode.cn/problems/last-stone-weight-ii/) | 中等 | [Python](1049/lastStoneWeightII.py) |
 | 1052 | [爱生气的书店老板](https://leetcode.cn/problems/grumpy-bookstore-owner/) | 中等 | [Python](1052/maxSatisfied.py), [Python](1052/maxSatisfied_2.py) |
+| 1061 | [按字典序排列最小的等效字符串](https://leetcode.cn/problems/lexicographically-smallest-equivalent-string/) | 中等 | [Python](1061/smallestEquivalentString.py) |
 | 1074 | [元素和为目标值的子矩阵数量](https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/) | 困难 | [Python](1074/numSubmatrixSumTarget.py) |
 | 1078 | [Bigram分词](https://leetcode.cn/problems/occurrences-after-bigram/) | 简单 | [Python](1078/findOcurrences.py), [Python](1078/findOcurrences_2.py) |
 | 1081 | [不同字符的最小子序列](https://leetcode.cn/problems/smallest-subsequence-of-distinct-characters/) | 中等 | [Python](1081/smallestSubsequence.py) |
@@ -37,6 +38,7 @@
 | 1140 | [石子游戏II](https://leetcode.cn/problems/stone-game-ii/) | 中等 | [Python](1140/stoneGameII.py) |
 | 1143 | [最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | 中等 | [Python](1143/longestCommonSubsequence.py) |
 | 1156 | [一年中的第几天](https://leetcode.cn/problems/day-of-the-year/) | 简单 | [Python](1156/dayOfYear.py), [Python](1156/dayOfYear_2.py), [Python](1156/dayOfYear_3.py) |
+| 1163 | [按字典序排在最后的子串](https://leetcode.cn/problems/last-substring-in-lexicographical-order/) | 困难 | [Python](1163/lastSubstring.py), [Python](1163/lastSubstring_2.py) |
 | 1178 | [猜字谜](https://leetcode.cn/problems/number-of-valid-words-for-each-puzzle/) | 困难 | [Python](1178/findNumOfValidWords.py), [Python](1178/findNumOfValidWords_2.py) |
 | 1185 | [一周中的第几天](https://leetcode.cn/problems/day-of-the-week/) | 简单 | [Python](1185/dayOfTheWeek.py), [Python](1185/dayOfTheWeek_2.py) |
 | 1189 | [“气球”的最大数量](https://leetcode.cn/problems/maximum-number-of-balloons/) | 简单 | [Python](1189/maxNumberOfBalloons.py) |
@@ -57,6 +59,7 @@
 | 1287 | [有序数组中出现次数超过25%的元素](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/) | 简单 | [Python](1287/findSpecialInteger.py), [Python](1287/findSpecialInteger_2.py) |
 | 1295 | [统计位数为偶数的数字](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/) | 简单 | [Python](1295/findNumbers.py) |
 | 1296 | [划分数组为连续数字的集合](https://leetcode.cn/problems/divide-array-in-sets-of-k-consecutive-numbers/) | 中等 | [Python](1296/isPossibleDivide.py) |
+| 1298 | [你能从盒子里获得的最大糖果数](https://leetcode.cn/problems/maximum-candies-you-can-get-from-boxes/) | 困难 | [Python](1298/maxCandies.py) |
 | 1299 | [将每个元素替换为右侧最大元素](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/) | 简单 | [Python](1299/replaceElements.py), [Python](1299/replaceElements_2.py) |
 | 1310 | [子数组异或查询](https://leetcode.cn/problems/xor-queries-of-a-subarray/) | 中等 | [Python](1310/xorQueries.py) |
 | 1319 | [连通网络的操作次数](https://leetcode.cn/problems/number-of-operations-to-make-network-connected/) | 中等 | [Python](1319/makeConnected.py), [Python](1319/makeConnected_2.py) |
