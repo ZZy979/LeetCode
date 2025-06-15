@@ -83,3 +83,6 @@
 | 3392 | [统计符合条件长度为 3 的子数组数目](https://leetcode.cn/problems/count-subarrays-of-length-three-with-a-condition/) | 困难 | [Python](3392/countSubarrays.py) |
 | 3396 | [使数组元素互不相同所需的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | 简单 | [Python](3396/minimumOperations.py) |
 | 3403 | [从盒子中找出字典序最大的字符串 I](https://leetcode.cn/problems/find-the-lexicographically-largest-string-from-the-box-i/) | 中等 | [Python](3403/answerString.py), [Python](3403/answerString_2.py) |
+| 3423 | [循环数组中相邻元素的最大差值](https://leetcode.cn/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | 简单 | [Python](3423/maxAdjacentDistance.py) |
+| 3442 | [奇偶频次间的最大差值 I](https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-i/) | 简单 | [Python](3442/maxDifference.py) |
+| 3445 | [奇偶频次间的最大差值 II](https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-ii/) | 困难 | [Python](3445/maxDifference.py) |

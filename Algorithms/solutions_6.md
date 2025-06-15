@@ -7,12 +7,14 @@
 | 2537 | [统计好子数组的数目](https://leetcode.cn/problems/count-the-number-of-good-subarrays/) | 中等 | [Python](2537/countGood.py) |
 | 2545 | [根据第 K 场考试的分数排序](https://leetcode.cn/problems/sort-the-students-by-their-kth-score/) | 中等 | [Python](2545/sortTheStudents.py) |
 | 2563 | [统计公平数对的数目](https://leetcode.cn/problems/count-the-number-of-fair-pairs/) | 中等 | [Python](2563/countFairPairs.py), [Python](2563/countFairPairs_2.py) |
+| 2566 | [替换一个数字后的最大差值](https://leetcode.cn/problems/maximum-difference-by-remapping-a-digit/) | 简单 | [Python](2566/minMaxDifference.py), [Python](2566/minMaxDifference_2.py) |
 | 2588 | [统计美丽子数组数目](https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays/) | 中等 | [Python](2588/beautifulSubarrays.py) |
 | 2595 | [奇偶位数](https://leetcode.cn/problems/number-of-even-and-odd-bits/) | 简单 | [Python](2595/evenOddBit.py) |
 | 2597 | [美丽子集的数目](https://leetcode.cn/problems/the-number-of-beautiful-subsets/) | 中等 | [Python](2597/beautifulSubsets.py), [Python](2597/beautifulSubsets_2.py) |
 | 2610 | [转换二维数组](https://leetcode.cn/problems/convert-an-array-into-a-2d-array-with-conditions/) | 中等 | [Python](2610/findMatrix.py) |
 | 2612 | [最少翻转操作数](https://leetcode.cn/problems/minimum-reverse-operations/) | 困难 | [Python](2612/minReverseOperations.py), [Python](2612/minReverseOperations_2.py) |
 | 2614 | [对角线上的质数](https://leetcode.cn/problems/prime-in-diagonal/) | 简单 | [Python](2614/diagonalPrime.py) |
+| 2616 | [最小化数对的最大差值](https://leetcode.cn/problems/minimize-the-maximum-difference-of-pairs/) | 中等 | [Python](2616/minimizeMax.py) |
 | 2643 | [一最多的行](https://leetcode.cn/problems/row-with-maximum-ones/) | 简单 | [Python](2643/rowAndMaximumOnes.py) |
 | 2680 | [最大或值](https://leetcode.cn/problems/maximum-or/) | 中等 | [Python](2680/maximumOr.py), [Python](2680/maximumOr_2.py) |
 | 2711 | [对角线上不同值的数量差](https://leetcode.cn/problems/difference-of-number-of-distinct-values-on-diagonals/) | 中等 | [Python](2711/differenceOfDistinctValues.py), [Python](2711/differenceOfDistinctValues_2.py) |

@@ -82,6 +82,7 @@
 | 1414 | [和为K的最少斐波那契数字数目](https://leetcode.cn/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | 中等 | [Python](1414/findMinFibonacciNumbers.py), [Python](1414/findMinFibonacciNumbers_2.py) |
 | 1418 | [点菜展示表](https://leetcode.cn/problems/display-table-of-food-orders-in-a-restaurant/) | 中等 | [Python](1418/displayTable.py) |
 | 1423 | [可获得的最大点数](https://leetcode.cn/problems/maximum-points-you-can-obtain-from-cards/) | 中等 | [Python](1423/maxScore.py) |
+| 1432 | [改变一个整数能得到的最大差值](https://leetcode.cn/problems/max-difference-you-can-get-from-changing-an-integer/) | 中等 | [Python](1432/maxDiff.py) |
 | 1436 | [旅行终点站](https://leetcode.cn/problems/destination-city/) | 简单 | [Python](1436/destCity.py) |
 | 1438 | [绝对差不超过限制的最长连续子数组](https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 中等 | [Java](1438/longestSubarray.java), [Java](1438/longestSubarray_2.java), [Python](1438/longestSubarray.py) |
 | 1442 | [形成两个异或相等数组的三元组数目](https://leetcode.cn/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | 中等 | [Python](1442/countTriplets.py), [Python](1442/countTriplets_2.py), [Python](1442/countTriplets_3.py) |
