@@ -28,6 +28,7 @@
 | 2109 | [向字符串添加空格](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 中等 | [Python](2109/addSpaces.py) |
 | 2116 | [判断一个括号字符串是否有效](https://leetcode.cn/problems/check-if-a-parentheses-string-can-be-valid/) | 中等 | [Python](2116/canBeValid.py), [Python](2116/canBeValid_2.py) |
 | 2131 | [连接两字母单词得到的最长回文串](https://leetcode.cn/problems/longest-palindrome-by-concatenating-two-letter-words/) | 中等 | [Python](2131/longestPalindrome.py) |
+| 2138 | [将字符串拆分为若干长度为 k 的组](https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/) | 简单 | [Python](2138/divideString.py) |
 | 2140 | [解决智力问题](https://leetcode.cn/problems/solving-questions-with-brainpower/) | 中等 | [Python](2140/mostPoints.py) |
 | 2145 | [统计隐藏数组数目](https://leetcode.cn/problems/count-the-hidden-sequences/) | 中等 | [Python](2145/numberOfArrays.py) |
 | 2176 | [统计数组中相等且可以被整除的数对](https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/) | 简单 | [Python](2176/countPairs.py) |
@@ -46,6 +47,7 @@
 | 2274 | [不含特殊楼层的最大连续楼层数](https://leetcode.cn/problems/maximum-consecutive-floors-without-special-floors/) | 中等 | [Python](2274/maxConsecutive.py) |
 | 2275 | [按位与结果大于零的最长组合](https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/) | 中等 | [Python](2275/largestCombination.py) |
 | 2278 | [字母在字符串中的百分比](https://leetcode.cn/problems/percentage-of-letter-in-string/) | 简单 | [Python](2278/percentageLetter.py) |
+| 2294 | [划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/) | 中等 | [Python](2294/partitionArray.py) |
 | 2296 | [设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/) | 困难 | [Python](2296/TextEditor.py), [Python](2296/TextEditor_2.py) |
 | 2302 | [统计得分小于 K 的子数组数目](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/) | 困难 | [Python](2302/countSubarrays.py), [Python](2302/countSubarrays_2.py) |
 | 2338 | [统计理想数组的数目](https://leetcode.cn/problems/count-the-number-of-ideal-arrays/) | 困难 | [Python](2338/idealArrays.py), [Python](2338/idealArrays_2.py) |

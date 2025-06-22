@@ -10,6 +10,7 @@
 | 3066 | [超过阈值的最少操作数 II](https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-ii/) | 中等 | [Python](3066/minOperations.py) |
 | 3068 | [最大节点价值之和](https://leetcode.cn/problems/find-the-maximum-sum-of-node-values/) | 困难 | [Python](3068/maximumValueSum.py), [Python](3068/maximumValueSum_2.py), [Python](3068/maximumValueSum_3.py) |
 | 3083 | [字符串及其反转中是否存在同一子字符串](https://leetcode.cn/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | 简单 | [Python](3083/isSubstringPresent.py) |
+| 3085 | [成为 K 特殊字符串需要删除的最少字符数](https://leetcode.cn/problems/minimum-deletions-to-make-string-k-special/) | 中等 | [Python](3085/minimumDeletions.py), [Python](3085/minimumDeletions_2.py) |
 | 3095 | [或值至少 K 的最短子数组 I](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-i/) | 简单 | [Python](3095/minimumSubarrayLength.py), [Python](3095/minimumSubarrayLength_2.py) |
 | 3097 | [或值至少为 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/) | 中等 | [Python](3097/minimumSubarrayLength.py) |
 | 3110 | [字符串的分数](https://leetcode.cn/problems/score-of-a-string/) | 简单 | [Python](3110/scoreOfString.py) |
@@ -83,6 +84,8 @@
 | 3392 | [统计符合条件长度为 3 的子数组数目](https://leetcode.cn/problems/count-subarrays-of-length-three-with-a-condition/) | 困难 | [Python](3392/countSubarrays.py) |
 | 3396 | [使数组元素互不相同所需的最少操作次数](https://leetcode.cn/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | 简单 | [Python](3396/minimumOperations.py) |
 | 3403 | [从盒子中找出字典序最大的字符串 I](https://leetcode.cn/problems/find-the-lexicographically-largest-string-from-the-box-i/) | 中等 | [Python](3403/answerString.py), [Python](3403/answerString_2.py) |
+| 3405 | [统计恰好有 K 个相等相邻元素的数组数目](https://leetcode.cn/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | 困难 | [Python](3405/countGoodArrays.py) |
 | 3423 | [循环数组中相邻元素的最大差值](https://leetcode.cn/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | 简单 | [Python](3423/maxAdjacentDistance.py) |
 | 3442 | [奇偶频次间的最大差值 I](https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-i/) | 简单 | [Python](3442/maxDifference.py) |
+| 3443 | [K 次修改后的最大曼哈顿距离](https://leetcode.cn/problems/maximum-manhattan-distance-after-k-changes/) | 中等 | [Python](3443/maxDistance.py) |
 | 3445 | [奇偶频次间的最大差值 II](https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-ii/) | 困难 | [Python](3445/maxDifference.py) |
