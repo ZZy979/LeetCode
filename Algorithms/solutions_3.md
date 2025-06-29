@@ -95,3 +95,4 @@
 | 1482 | [制作m束花所需的最少天数](https://leetcode.cn/problems/minimum-number-of-days-to-make-m-bouquets/) | 中等 | [Python](1482/minDays.py) |
 | 1486 | [数组异或操作](https://leetcode.cn/problems/xor-operation-in-an-array/) | 简单 | [Python](1486/xorOperation.py), [Python](1486/xorOperation_2.py) |
 | 1489 | [找到最小生成树里的关键边和伪关键边](https://leetcode.cn/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 困难 | [Python](1489/findCriticalAndPseudoCriticalEdges.py) |
+| 1498 | [满足条件的子序列数目](https://leetcode.cn/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | 中等 | [Python](1498/numSubseq.py) |

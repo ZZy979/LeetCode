@@ -5,6 +5,7 @@
 | 2006 | [差的绝对值为K的数对数目](https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/) | 简单 | [Python](2006/countKDifference.py), [Python](2006/countKDifference_2.py) |
 | 2012 | [数组美丽值求和](https://leetcode.cn/problems/sum-of-beauty-in-the-array/) | 中等 | [Python](2012/sumOfBeauties.py) |
 | 2013 | [检测正方形](https://leetcode.cn/problems/detect-squares/) | 中等 | [Python](2013/DetectSquares.py) |
+| 2014 | [重复 K 次的最长子序列](https://leetcode.cn/problems/longest-subsequence-repeated-k-times/) | 困难 | [Python](2014/longestSubsequenceRepeatedK.py), [Python](2014/longestSubsequenceRepeatedK_2.py) |
 | 2016 | [增量元素之间的最大差值](https://leetcode.cn/problems/maximum-difference-between-increasing-elements/) | 简单 | [Python](2016/maximumDifference.py) |
 | 2022 | [将一维数组转变成二维数组](https://leetcode.cn/problems/convert-1d-array-into-2d-array/) | 简单 | [Python](2022/construct2DArray.py) |
 | 2024 | [考试的最大困扰度](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/) | 中等 | [Python](2024/maxConsecutiveAnswers.py), [Python](2024/maxConsecutiveAnswers_2.py) |
@@ -13,6 +14,7 @@
 | 2034 | [股票价格波动](https://leetcode.cn/problems/stock-price-fluctuation/) | 中等 | [Python](2034/StockPrice.py), [Python](2034/StockPrice_2.py) |
 | 2038 | [如果相邻两个颜色均相同则删除当前颜色](https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | 中等 | [Python](2038/winnerOfGame.py), [Python](2038/winnerOfGame_2.py), [Python](2038/winnerOfGame_3.py) |
 | 2039 | [网络空闲的时刻](https://leetcode.cn/problems/the-time-when-the-network-becomes-idle/) | 中等 | [Python](2039/networkBecomesIdle.py), [Python](2039/networkBecomesIdle_2.py) |
+| 2040 | [两个有序数组的第 K 小乘积](https://leetcode.cn/problems/kth-smallest-product-of-two-sorted-arrays/) | 困难 | [Python](2040/kthSmallestProduct.py) |
 | 2043 | [简易银行系统](https://leetcode.cn/problems/simple-bank-system/) | 中等 | [Python](2043/Bank.py) |
 | 2044 | [统计按位或能得到最大值的子集数目](https://leetcode.cn/problems/count-number-of-maximum-bitwise-or-subsets/) | 中等 | [Python](2044/countMaxOrSubsets.py), [Python](2044/countMaxOrSubsets_2.py) |
 | 2045 | [到达目的地的第二短时间](https://leetcode.cn/problems/second-minimum-time-to-reach-destination/) | 困难 | [Python](2045/secondMinimum.py) |
@@ -22,7 +24,9 @@
 | 2056 | [棋盘上有效移动组合的数目](https://leetcode.cn/problems/number-of-valid-move-combinations-on-chessboard/) | 困难 | [Python](2056/countCombinations.py) |
 | 2070 | [每一个查询的最大美丽值](https://leetcode.cn/problems/most-beautiful-item-for-each-query/) | 中等 | [Python](2070/maximumBeauty.py) |
 | 2080 | [区间内查询数字的频率](https://leetcode.cn/problems/range-frequency-queries/) | 中等 | [Python](2080/RangeFreqQuery.py) |
+| 2081 | [k 镜像数字的和](https://leetcode.cn/problems/sum-of-k-mirror-numbers/) | 困难 | [Python](2081/kMirror.py) |
 | 2094 | [找出 3 位偶数](https://leetcode.cn/problems/finding-3-digit-even-numbers/) | 简单 | [Python](2094/findEvenNumbers.py), [Python](2094/findEvenNumbers_2.py) |
+| 2099 | [找到和最大的长度为 K 的子序列](https://leetcode.cn/problems/find-subsequence-of-length-k-with-the-largest-sum/) | 简单 | [Python](2099/maxSubsequence.py) |
 | 2100 | [适合打劫银行的日子](https://leetcode.cn/problems/find-good-days-to-rob-the-bank/) | 中等 | [Python](2100/goodDaysToRobBank.py) |
 | 2104 | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/) | 中等 | [Python](2104/subArrayRanges.py), [Python](2104/subArrayRanges_2.py) |
 | 2109 | [向字符串添加空格](https://leetcode.cn/problems/adding-spaces-to-a-string/) | 中等 | [Python](2109/addSpaces.py) |
@@ -33,6 +37,7 @@
 | 2145 | [统计隐藏数组数目](https://leetcode.cn/problems/count-the-hidden-sequences/) | 中等 | [Python](2145/numberOfArrays.py) |
 | 2176 | [统计数组中相等且可以被整除的数对](https://leetcode.cn/problems/count-equal-and-divisible-pairs-in-an-array/) | 简单 | [Python](2176/countPairs.py) |
 | 2179 | [统计数组中好三元组数目](https://leetcode.cn/problems/count-good-triplets-in-an-array/) | 困难 | [Python](2179/goodTriplets.py) |
+| 2200 | [找出数组中的所有 K 近邻下标](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/) | 简单 | [Python](2200/findKDistantIndices.py) |
 | 2209 | [用地毯覆盖后的最少白色砖块](https://leetcode.cn/problems/minimum-white-tiles-after-covering-with-carpets/) | 困难 | [Python](2209/minimumWhiteTiles.py) |
 | 2218 | [从栈中取出 K 个硬币的最大面值和](https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/) | 困难 | [Python](2218/maxValueOfCoins.py) |
 | 2234 | [花园的最大总美丽值](https://leetcode.cn/problems/maximum-total-beauty-of-the-gardens/) | 困难 | [Python](2234/maximumBeauty.py) |
@@ -50,6 +55,7 @@
 | 2294 | [划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/) | 中等 | [Python](2294/partitionArray.py) |
 | 2296 | [设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/) | 困难 | [Python](2296/TextEditor.py), [Python](2296/TextEditor_2.py) |
 | 2302 | [统计得分小于 K 的子数组数目](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/) | 困难 | [Python](2302/countSubarrays.py), [Python](2302/countSubarrays_2.py) |
+| 2311 | [小于等于 K 的最长二进制子序列](https://leetcode.cn/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | 中等 | [Python](2311/longestSubsequence.py) |
 | 2338 | [统计理想数组的数目](https://leetcode.cn/problems/count-the-number-of-ideal-arrays/) | 困难 | [Python](2338/idealArrays.py), [Python](2338/idealArrays_2.py) |
 | 2359 | [找到离给定两个节点最近的节点](https://leetcode.cn/problems/find-closest-node-to-given-two-nodes/) | 中等 | [Python](2359/closestMeetingNode.py) |
 | 2360 | [图中的最长环](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | 困难 | [Python](2360/longestCycle.py) |
