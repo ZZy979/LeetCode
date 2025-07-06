@@ -61,6 +61,7 @@
 | 1847 | [最近的房间](https://leetcode.cn/problems/closest-room/) | 困难 | [Python](1847/closestRoom.py), [Python](1847/closestRoom_2.py) |
 | 1857 | [有向图中最大颜色值](https://leetcode.cn/problems/largest-color-value-in-a-directed-graph/) | 困难 | [Python](1857/largestPathValue.py) |
 | 1863 | [找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/) | 简单 | [Python](1863/subsetXORSum.py), [Python](1863/subsetXORSum_2.py), [Python](1863/subsetXORSum_3.py), [Python](1863/subsetXORSum_4.py) |
+| 1865 | [找出和为指定值的下标对](https://leetcode.cn/problems/finding-pairs-with-a-certain-sum/) | 中等 | [Python](1865/FindSumPairs.py) |
 | 1877 | [数组中最大数对和的最小值](https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/) | 中等 | [Python](1877/minPairSum.py) |
 | 1884 | [鸡蛋掉落-两枚鸡蛋](https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/) | 中等 | [Python](1884/twoEggDrop.py), [Python](1884/twoEggDrop_2.py) |
 | 1893 | [检查是否区域内所有整数都被覆盖](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单 | [Python](1893/isCovered.py), [Python](1893/isCovered_2.py) |

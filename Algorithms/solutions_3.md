@@ -76,6 +76,7 @@
 | 1370 | [上升下降字符串](https://leetcode.cn/problems/increasing-decreasing-string/) | 简单 | [Java](1370/sortString.java), [Python](1370/sortString.py) |
 | 1380 | [矩阵中的幸运数](https://leetcode.cn/problems/lucky-numbers-in-a-matrix/) | 简单 | [Python](1380/luckyNumbers.py) |
 | 1387 | [将整数按权重排序](https://leetcode.cn/problems/sort-integers-by-the-power-value/) | 中等 | [Python](1387/getKth.py) |
+| 1394 | [找出数组中的幸运数](https://leetcode.cn/problems/find-lucky-integer-in-an-array/) | 简单 | [Python](1394/findLucky.py) |
 | 1399 | [统计最大组的数目](https://leetcode.cn/problems/count-largest-group/) | 简单 | [Python](1399/countLargestGroup.py) |
 | 1405 | [最长快乐字符串](https://leetcode.cn/problems/longest-happy-string/) | 中等 | [Python](1405/longestDiverseString.py) |
 | 1406 | [石子游戏III](https://leetcode.cn/problems/stone-game-iii/) | 困难 | [Python](1406/stoneGameIII.py), [Python](1406/stoneGameIII_2.py), [Python](1406/stoneGameIII_3.py) |

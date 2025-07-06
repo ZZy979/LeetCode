@@ -1,3 +1,4 @@
+# 排序+滑动窗口，时间复杂度O(nlog n)，空间复杂度O(1)
 class Solution:
     def findLHS(self, nums: List[int]) -> int:
         nums.sort()
