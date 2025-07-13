@@ -69,6 +69,7 @@
 | 1338 | [数组大小减半](https://leetcode.cn/problems/reduce-array-size-to-the-half/) | 中等 | [Python](1338/minSetSize.py) |
 | 1342 | [将数字变成0的操作次数](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/) | 简单 | [Python](1342/numberOfSteps.py), [Python](1342/numberOfSteps_2.py) |
 | 1345 | [跳跃游戏IV](https://leetcode.cn/problems/jump-game-iv/) | 困难 | [Python](1345/minJumps.py) |
+| 1353 | [最多可以参加的会议数目](https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended/) | 中等 | [Python](1353/maxEvents.py), [Python](1353/maxEvents_2.py) |
 | 1356 | [根据数字二进制下1的数目排序](https://leetcode.cn/problems/sort-integers-by-the-number-of-1-bits/) | 简单 | [Java](1356/sortByBits.java), [Java](1356/sortByBits_2.java), [Java](1356/sortByBits_3.java), [Python](1356/sortByBits.py) |
 | 1365 | [有多少小于当前数字的数字](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/) | 简单 | [Python](1365/smallerNumbersThanCurrent.py) |
 | 1366 | [通过投票对团队排名](https://leetcode.cn/problems/rank-teams-by-votes/) | 中等 | [Python](1366/rankTeams.py) |

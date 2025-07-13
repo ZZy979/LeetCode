@@ -60,6 +60,7 @@
 | 2359 | [找到离给定两个节点最近的节点](https://leetcode.cn/problems/find-closest-node-to-given-two-nodes/) | 中等 | [Python](2359/closestMeetingNode.py) |
 | 2360 | [图中的最长环](https://leetcode.cn/problems/longest-cycle-in-a-graph/) | 困难 | [Python](2360/longestCycle.py) |
 | 2364 | [统计坏数对的数目](https://leetcode.cn/problems/count-number-of-bad-pairs/) | 中等 | [Python](2364/countBadPairs.py), [Python](2364/countBadPairs_2.py) |
+| 2410 | [运动员和训练师的最大匹配数](https://leetcode.cn/problems/maximum-matching-of-players-with-trainers/) | 中等 | [Python](2410/matchPlayersAndTrainers.py) |
 | 2412 | [完成所有交易的初始最少钱数](https://leetcode.cn/problems/minimum-money-required-before-transactions/) | 困难 | [Python](2412/minimumMoney.py) |
 | 2434 | [使用机器人打印字典序最小的字符串](https://leetcode.cn/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | 中等 | [Python](2434/robotWithString.py), [Python](2434/robotWithString_2.py) |
 | 2444 | [统计定界子数组的数目](https://leetcode.cn/problems/count-subarrays-with-fixed-bounds/) | 困难 | [Python](2444/countSubarrays.py), [Python](2444/countSubarrays_2.py) |

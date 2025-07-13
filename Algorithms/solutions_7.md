@@ -18,6 +18,7 @@
 | 3158 | [求出出现两次数字的 XOR 值](https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice/) | 简单 | [Python](3158/duplicateNumbersXOR.py), [Python](3158/duplicateNumbersXOR_2.py) |
 | 3159 | [查询数组中元素的出现位置](https://leetcode.cn/problems/find-occurrences-of-an-element-in-an-array/) | 中等 | [Python](3159/occurrencesOfElement.py) |
 | 3165 | [不包含相邻元素的子序列的最大和](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) | 困难 | [Python](3165/maximumSumSubsequence.py) |
+| 3169 | [无需开会的工作日](https://leetcode.cn/problems/count-days-without-meetings/) | 中等 | [Python](3169/countDays.py) |
 | 3170 | [删除星号以后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-minimum-string-after-removing-stars/) | 中等 | [Python](3170/clearStars.py), [Python](3170/clearStars_2.py) |
 | 3175 | [找到连续赢 K 场比赛的第一位玩家](https://leetcode.cn/problems/find-the-first-player-to-win-k-games-in-a-row/) | 中等 | [Python](3175/findWinningPlayer.py), [Python](3175/findWinningPlayer_2.py) |
 | 3180 | [执行操作可获得的最大总奖励 I](https://leetcode.cn/problems/maximum-total-reward-using-operations-i/) | 中等 | [Python](3180/maxTotalReward.py) |
@@ -90,6 +91,8 @@
 | 3403 | [从盒子中找出字典序最大的字符串 I](https://leetcode.cn/problems/find-the-lexicographically-largest-string-from-the-box-i/) | 中等 | [Python](3403/answerString.py), [Python](3403/answerString_2.py) |
 | 3405 | [统计恰好有 K 个相等相邻元素的数组数目](https://leetcode.cn/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | 困难 | [Python](3405/countGoodArrays.py) |
 | 3423 | [循环数组中相邻元素的最大差值](https://leetcode.cn/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | 简单 | [Python](3423/maxAdjacentDistance.py) |
+| 3439 | [重新安排会议得到最多空余时间 I](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-i/) | 中等 | [Python](3439/maxFreeTime.py) |
+| 3440 | [重新安排会议得到最多空余时间 II](https://leetcode.cn/problems/reschedule-meetings-for-maximum-free-time-ii/) | 中等 | [Python](3440/maxFreeTime.py) |
 | 3442 | [奇偶频次间的最大差值 I](https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-i/) | 简单 | [Python](3442/maxDifference.py) |
 | 3443 | [K 次修改后的最大曼哈顿距离](https://leetcode.cn/problems/maximum-manhattan-distance-after-k-changes/) | 中等 | [Python](3443/maxDistance.py) |
 | 3445 | [奇偶频次间的最大差值 II](https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-ii/) | 困难 | [Python](3445/maxDifference.py) |

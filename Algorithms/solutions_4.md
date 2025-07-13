@@ -47,6 +47,7 @@
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode.cn/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 中等 | [Python](1744/canEat.py) |
 | 1745 | [分割回文串 IV](https://leetcode.cn/problems/palindrome-partitioning-iv/) | 困难 | [Python](1745/checkPartitioning.py) |
 | 1748 | [唯一元素的和](https://leetcode.cn/problems/sum-of-unique-elements/) | 简单 | [Python](1748/sumOfUnique.py) |
+| 1751 | [最多可以参加的会议数目 II](https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended-ii/) | 困难 | [Python](1751/maxValue.py) |
 | 1760 | [袋子里最少数目的球](https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/) | 中等 | [Python](1760/minimumSize.py) |
 | 1763 | [最长的美好子字符串](https://leetcode.cn/problems/longest-nice-substring/) | 简单 | [Python](1763/longestNiceSubstring.py), [Python](1763/longestNiceSubstring_2.py) |
 | 1765 | [地图中的最高点](https://leetcode.cn/problems/map-of-highest-peak/) | 中等 | [Python](1765/highestPeak.py) |
@@ -66,6 +67,7 @@
 | 1884 | [鸡蛋掉落-两枚鸡蛋](https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/) | 中等 | [Python](1884/twoEggDrop.py), [Python](1884/twoEggDrop_2.py) |
 | 1893 | [检查是否区域内所有整数都被覆盖](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/) | 简单 | [Python](1893/isCovered.py), [Python](1893/isCovered_2.py) |
 | 1894 | [找到需要补充粉笔的学生编号](https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/) | 中等 | [Python](1894/chalkReplacer.py) |
+| 1900 | [最佳运动员的比拼回合](https://leetcode.cn/problems/the-earliest-and-latest-rounds-where-players-compete/) | 困难 | [Python](1900/earliestAndLatest.py) |
 | 1920 | [基于排列构建数组](https://leetcode.cn/problems/build-array-from-permutation/) | 简单 | [Python](1920/buildArray.py) |
 | 1922 | [统计好数字的数目](https://leetcode.cn/problems/count-good-numbers/) | 中等 | [Python](1922/countGoodNumbers.py) |
 | 1931 | [用三种不同颜色为网格涂色](https://leetcode.cn/problems/painting-a-grid-with-three-different-colors/) | 困难 | [Python](1931/colorTheGrid.py) |
